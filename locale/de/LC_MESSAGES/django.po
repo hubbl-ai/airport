@@ -1,0 +1,13395 @@
+# Airport name translations
+# Copyright (C) 2017 Doozee Ltd
+# This file is distributed under the same license as the PACKAGE package.
+# Doozee <info@doozee.net> 2017
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: airports 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-06 23:02+0000\n"
+"PO-Revision-Date: 2021-12-08 21:19+0000\n"
+"Language-Team: German (https://www.transifex.com/hubbl-ai/teams/128312/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "IATA.AAA"
+msgstr ""
+
+msgid "IATA.AAC"
+msgstr ""
+
+msgid "IATA.AAE"
+msgstr ""
+
+msgid "IATA.AAL"
+msgstr ""
+
+msgid "IATA.AAM"
+msgstr ""
+
+msgid "IATA.AAN"
+msgstr ""
+
+msgid "IATA.AAO"
+msgstr ""
+
+msgid "IATA.AAP"
+msgstr ""
+
+msgid "IATA.AAQ"
+msgstr ""
+
+msgid "IATA.AAR"
+msgstr ""
+
+msgid "IATA.AAT"
+msgstr ""
+
+msgid "IATA.AAV"
+msgstr ""
+
+msgid "IATA.AAY"
+msgstr ""
+
+msgid "IATA.ABA"
+msgstr ""
+
+msgid "IATA.ABB"
+msgstr ""
+
+msgid "IATA.ABC"
+msgstr ""
+
+msgid "IATA.ABD"
+msgstr ""
+
+msgid "IATA.ABE"
+msgstr ""
+
+msgid "IATA.ABH"
+msgstr ""
+
+msgid "IATA.ABI"
+msgstr ""
+
+msgid "IATA.ABJ"
+msgstr ""
+
+msgid "IATA.ABL"
+msgstr ""
+
+msgid "IATA.ABQ"
+msgstr ""
+
+msgid "IATA.ABR"
+msgstr ""
+
+msgid "IATA.ABS"
+msgstr ""
+
+msgid "IATA.ABT"
+msgstr ""
+
+msgid "IATA.ABV"
+msgstr ""
+
+msgid "IATA.ABX"
+msgstr ""
+
+msgid "IATA.ABY"
+msgstr ""
+
+msgid "IATA.ABZ"
+msgstr ""
+
+msgid "IATA.ACA"
+msgstr ""
+
+msgid "IATA.ACC"
+msgstr ""
+
+msgid "IATA.ACE"
+msgstr ""
+
+msgid "IATA.ACH"
+msgstr ""
+
+msgid "IATA.ACI"
+msgstr ""
+
+msgid "IATA.ACJ"
+msgstr ""
+
+msgid "IATA.ACK"
+msgstr ""
+
+msgid "IATA.ACS"
+msgstr ""
+
+msgid "IATA.ACT"
+msgstr ""
+
+msgid "IATA.ACV"
+msgstr ""
+
+msgid "IATA.ACX"
+msgstr ""
+
+msgid "IATA.ACY"
+msgstr ""
+
+msgid "IATA.ACZ"
+msgstr ""
+
+msgid "IATA.ADA"
+msgstr ""
+
+msgid "IATA.ADB"
+msgstr ""
+
+msgid "IATA.ADD"
+msgstr ""
+
+msgid "IATA.ADE"
+msgstr ""
+
+msgid "IATA.ADF"
+msgstr ""
+
+msgid "IATA.ADI"
+msgstr ""
+
+msgid "IATA.ADJ"
+msgstr ""
+
+msgid "IATA.ADK"
+msgstr ""
+
+msgid "IATA.ADL"
+msgstr ""
+
+msgid "IATA.ADP"
+msgstr ""
+
+msgid "IATA.ADQ"
+msgstr ""
+
+msgid "IATA.ADU"
+msgstr ""
+
+msgid "IATA.ADW"
+msgstr ""
+
+msgid "IATA.ADX"
+msgstr ""
+
+msgid "IATA.ADZ"
+msgstr ""
+
+msgid "IATA.AEB"
+msgstr ""
+
+msgid "IATA.AEG"
+msgstr ""
+
+msgid "IATA.AEH"
+msgstr ""
+
+msgid "IATA.AEP"
+msgstr ""
+
+msgid "IATA.AER"
+msgstr ""
+
+msgid "IATA.AES"
+msgstr ""
+
+msgid "IATA.AEU"
+msgstr ""
+
+msgid "IATA.AEX"
+msgstr ""
+
+msgid "IATA.AEY"
+msgstr ""
+
+msgid "IATA.AFA"
+msgstr ""
+
+msgid "IATA.AFL"
+msgstr ""
+
+msgid "IATA.AFW"
+msgstr ""
+
+msgid "IATA.AFY"
+msgstr ""
+
+msgid "IATA.AFZ"
+msgstr ""
+
+msgid "IATA.AGA"
+msgstr ""
+
+msgid "IATA.AGB"
+msgstr ""
+
+msgid "IATA.AGC"
+msgstr ""
+
+msgid "IATA.AGF"
+msgstr ""
+
+msgid "IATA.AGH"
+msgstr ""
+
+msgid "IATA.AGP"
+msgstr ""
+
+msgid "IATA.AGR"
+msgstr ""
+
+msgid "IATA.AGS"
+msgstr ""
+
+msgid "IATA.AGT"
+msgstr ""
+
+msgid "IATA.AGU"
+msgstr ""
+
+msgid "IATA.AGV"
+msgstr ""
+
+msgid "IATA.AGX"
+msgstr ""
+
+msgid "IATA.AGZ"
+msgstr ""
+
+msgid "IATA.AHB"
+msgstr ""
+
+msgid "IATA.AHE"
+msgstr ""
+
+msgid "IATA.AHJ"
+msgstr ""
+
+msgid "IATA.AHN"
+msgstr ""
+
+msgid "IATA.AHO"
+msgstr ""
+
+msgid "IATA.AHU"
+msgstr ""
+
+msgid "IATA.AIN"
+msgstr ""
+
+msgid "IATA.AJA"
+msgstr ""
+
+msgid "IATA.AJF"
+msgstr ""
+
+msgid "IATA.AJI"
+msgstr ""
+
+msgid "IATA.AJL"
+msgstr ""
+
+msgid "IATA.AJN"
+msgstr ""
+
+msgid "IATA.AJR"
+msgstr ""
+
+msgid "IATA.AJU"
+msgstr ""
+
+msgid "IATA.AJY"
+msgstr ""
+
+msgid "IATA.AKC"
+msgstr ""
+
+msgid "IATA.AKD"
+msgstr ""
+
+msgid "IATA.AKF"
+msgstr ""
+
+msgid "IATA.AKH"
+msgstr ""
+
+msgid "IATA.AKJ"
+msgstr ""
+
+msgid "IATA.AKL"
+msgstr ""
+
+msgid "IATA.AKN"
+msgstr ""
+
+msgid "IATA.AKP"
+msgstr ""
+
+msgid "IATA.AKR"
+msgstr ""
+
+msgid "IATA.AKT"
+msgstr ""
+
+msgid "IATA.AKU"
+msgstr ""
+
+msgid "IATA.AKV"
+msgstr ""
+
+msgid "IATA.AKW"
+msgstr ""
+
+msgid "IATA.AKX"
+msgstr ""
+
+msgid "IATA.AKY"
+msgstr ""
+
+msgid "IATA.ALA"
+msgstr ""
+
+msgid "IATA.ALB"
+msgstr ""
+
+msgid "IATA.ALC"
+msgstr ""
+
+msgid "IATA.ALF"
+msgstr ""
+
+msgid "IATA.ALG"
+msgstr ""
+
+msgid "IATA.ALH"
+msgstr ""
+
+msgid "IATA.ALI"
+msgstr ""
+
+msgid "IATA.ALJ"
+msgstr ""
+
+msgid "IATA.ALL"
+msgstr ""
+
+msgid "IATA.ALM"
+msgstr ""
+
+msgid "IATA.ALN"
+msgstr ""
+
+msgid "IATA.ALO"
+msgstr ""
+
+msgid "IATA.ALP"
+msgstr ""
+
+msgid "IATA.ALR"
+msgstr ""
+
+msgid "IATA.ALS"
+msgstr ""
+
+msgid "IATA.ALW"
+msgstr ""
+
+msgid "IATA.ALY"
+msgstr ""
+
+msgid "IATA.AMA"
+msgstr ""
+
+msgid "IATA.AMD"
+msgstr ""
+
+msgid "IATA.AMH"
+msgstr ""
+
+msgid "IATA.AMM"
+msgstr ""
+
+msgid "IATA.AMQ"
+msgstr ""
+
+msgid "IATA.AMS"
+msgstr ""
+
+msgid "IATA.AMV"
+msgstr ""
+
+msgid "IATA.AMZ"
+msgstr ""
+
+msgid "IATA.ANB"
+msgstr ""
+
+msgid "IATA.ANC"
+msgstr ""
+
+msgid "IATA.AND"
+msgstr ""
+
+msgid "IATA.ANE"
+msgstr ""
+
+msgid "IATA.ANF"
+msgstr ""
+
+msgid "IATA.ANG"
+msgstr ""
+
+msgid "IATA.ANI"
+msgstr ""
+
+msgid "IATA.ANK"
+msgstr ""
+
+msgid "IATA.ANM"
+msgstr ""
+
+msgid "IATA.ANN"
+msgstr ""
+
+msgid "IATA.ANR"
+msgstr ""
+
+msgid "IATA.ANU"
+msgstr ""
+
+msgid "IATA.ANV"
+msgstr ""
+
+msgid "IATA.ANX"
+msgstr ""
+
+msgid "IATA.AOC"
+msgstr ""
+
+msgid "IATA.AOE"
+msgstr ""
+
+msgid "IATA.AOG"
+msgstr ""
+
+msgid "IATA.AOI"
+msgstr ""
+
+msgid "IATA.AOJ"
+msgstr ""
+
+msgid "IATA.AOK"
+msgstr ""
+
+msgid "IATA.AOL"
+msgstr ""
+
+msgid "IATA.AOO"
+msgstr ""
+
+msgid "IATA.AOR"
+msgstr ""
+
+msgid "IATA.AOT"
+msgstr ""
+
+msgid "IATA.APA"
+msgstr ""
+
+msgid "IATA.APF"
+msgstr ""
+
+msgid "IATA.APG"
+msgstr ""
+
+msgid "IATA.API"
+msgstr ""
+
+msgid "IATA.APL"
+msgstr ""
+
+msgid "IATA.APN"
+msgstr ""
+
+msgid "IATA.APO"
+msgstr ""
+
+msgid "IATA.APW"
+msgstr ""
+
+msgid "IATA.APZ"
+msgstr ""
+
+msgid "IATA.AQA"
+msgstr ""
+
+msgid "IATA.AQG"
+msgstr ""
+
+msgid "IATA.AQI"
+msgstr ""
+
+msgid "IATA.AQJ"
+msgstr ""
+
+msgid "IATA.AQP"
+msgstr ""
+
+msgid "IATA.ARA"
+msgstr ""
+
+msgid "IATA.ARC"
+msgstr ""
+
+msgid "IATA.ARE"
+msgstr ""
+
+msgid "IATA.ARH"
+msgstr ""
+
+msgid "IATA.ARI"
+msgstr ""
+
+msgid "IATA.ARK"
+msgstr ""
+
+msgid "IATA.ARM"
+msgstr ""
+
+msgid "IATA.ARN"
+msgstr ""
+
+msgid "IATA.ART"
+msgstr ""
+
+msgid "IATA.ARU"
+msgstr ""
+
+msgid "IATA.ARW"
+msgstr ""
+
+msgid "IATA.ARX"
+msgstr ""
+
+msgid "IATA.ARY"
+msgstr ""
+
+msgid "IATA.ASA"
+msgstr ""
+
+msgid "IATA.ASB"
+msgstr ""
+
+msgid "IATA.ASD"
+msgstr ""
+
+msgid "IATA.ASE"
+msgstr ""
+
+msgid "IATA.ASF"
+msgstr ""
+
+msgid "IATA.ASI"
+msgstr ""
+
+msgid "IATA.ASJ"
+msgstr ""
+
+msgid "IATA.ASK"
+msgstr ""
+
+msgid "IATA.ASM"
+msgstr ""
+
+msgid "IATA.ASO"
+msgstr ""
+
+msgid "IATA.ASP"
+msgstr ""
+
+msgid "IATA.ASR"
+msgstr ""
+
+msgid "IATA.AST"
+msgstr ""
+
+msgid "IATA.ASU"
+msgstr ""
+
+msgid "IATA.ASV"
+msgstr ""
+
+msgid "IATA.ASW"
+msgstr ""
+
+msgid "IATA.ATA"
+msgstr ""
+
+msgid "IATA.ATC"
+msgstr ""
+
+msgid "IATA.ATF"
+msgstr ""
+
+msgid "IATA.ATG"
+msgstr ""
+
+msgid "IATA.ATH"
+msgstr ""
+
+msgid "IATA.ATK"
+msgstr ""
+
+msgid "IATA.ATL"
+msgstr ""
+
+msgid "IATA.ATM"
+msgstr ""
+
+msgid "IATA.ATQ"
+msgstr ""
+
+msgid "IATA.ATR"
+msgstr ""
+
+msgid "IATA.ATY"
+msgstr ""
+
+msgid "IATA.ATZ"
+msgstr ""
+
+msgid "IATA.AUA"
+msgstr ""
+
+msgid "IATA.AUC"
+msgstr ""
+
+msgid "IATA.AUF"
+msgstr ""
+
+msgid "IATA.AUG"
+msgstr ""
+
+msgid "IATA.AUH"
+msgstr ""
+
+msgid "IATA.AUQ"
+msgstr ""
+
+msgid "IATA.AUR"
+msgstr ""
+
+msgid "IATA.AUS"
+msgstr ""
+
+msgid "IATA.AUW"
+msgstr ""
+
+msgid "IATA.AUX"
+msgstr ""
+
+msgid "IATA.AVA"
+msgstr ""
+
+msgid "IATA.AVB"
+msgstr ""
+
+msgid "IATA.AVI"
+msgstr ""
+
+msgid "IATA.AVK"
+msgstr ""
+
+msgid "IATA.AVL"
+msgstr ""
+
+msgid "IATA.AVN"
+msgstr ""
+
+msgid "IATA.AVP"
+msgstr ""
+
+msgid "IATA.AVR"
+msgstr ""
+
+msgid "IATA.AVV"
+msgstr ""
+
+msgid "IATA.AWK"
+msgstr ""
+
+msgid "IATA.AWZ"
+msgstr ""
+
+msgid "IATA.AXA"
+msgstr ""
+
+msgid "IATA.AXD"
+msgstr ""
+
+msgid "IATA.AXF"
+msgstr ""
+
+msgid "IATA.AXK"
+msgstr ""
+
+msgid "IATA.AXM"
+msgstr ""
+
+msgid "IATA.AXN"
+msgstr ""
+
+msgid "IATA.AXP"
+msgstr ""
+
+msgid "IATA.AXR"
+msgstr ""
+
+msgid "IATA.AXT"
+msgstr ""
+
+msgid "IATA.AXU"
+msgstr ""
+
+msgid "IATA.AYO"
+msgstr ""
+
+msgid "IATA.AYP"
+msgstr ""
+
+msgid "IATA.AYQ"
+msgstr ""
+
+msgid "IATA.AYT"
+msgstr ""
+
+msgid "IATA.AYX"
+msgstr ""
+
+msgid "IATA.AZA"
+msgstr ""
+
+msgid "IATA.AZD"
+msgstr ""
+
+msgid "IATA.AZI"
+msgstr ""
+
+msgid "IATA.AZO"
+msgstr ""
+
+msgid "IATA.AZR"
+msgstr ""
+
+msgid "IATA.AZS"
+msgstr ""
+
+msgid "IATA.BAB"
+msgstr ""
+
+msgid "IATA.BAD"
+msgstr ""
+
+msgid "IATA.BAF"
+msgstr ""
+
+msgid "IATA.BAG"
+msgstr ""
+
+msgid "IATA.BAH"
+msgstr ""
+
+msgid "IATA.BAI"
+msgstr ""
+
+msgid "IATA.BAL"
+msgstr ""
+
+msgid "IATA.BAQ"
+msgstr ""
+
+msgid "IATA.BAR"
+msgstr ""
+
+msgid "IATA.BAT"
+msgstr ""
+
+msgid "IATA.BAU"
+msgstr ""
+
+msgid "IATA.BAV"
+msgstr ""
+
+msgid "IATA.BAX"
+msgstr ""
+
+msgid "IATA.BAY"
+msgstr ""
+
+msgid "IATA.BBA"
+msgstr ""
+
+msgid "IATA.BBD"
+msgstr ""
+
+msgid "IATA.BBI"
+msgstr ""
+
+msgid "IATA.BBK"
+msgstr ""
+
+msgid "IATA.BBM"
+msgstr ""
+
+msgid "IATA.BBN"
+msgstr ""
+
+msgid "IATA.BBO"
+msgstr ""
+
+msgid "IATA.BBS"
+msgstr ""
+
+msgid "IATA.BBT"
+msgstr ""
+
+msgid "IATA.BBU"
+msgstr ""
+
+msgid "IATA.BCA"
+msgstr ""
+
+msgid "IATA.BCD"
+msgstr ""
+
+msgid "IATA.BCE"
+msgstr ""
+
+msgid "IATA.BCH"
+msgstr ""
+
+msgid "IATA.BCI"
+msgstr ""
+
+msgid "IATA.BCL"
+msgstr ""
+
+msgid "IATA.BCM"
+msgstr ""
+
+msgid "IATA.BCN"
+msgstr ""
+
+msgid "IATA.BCQ"
+msgstr ""
+
+msgid "IATA.BCU"
+msgstr ""
+
+msgid "IATA.BCW"
+msgstr ""
+
+msgid "IATA.BDA"
+msgstr ""
+
+msgid "IATA.BDB"
+msgstr ""
+
+msgid "IATA.BDE"
+msgstr ""
+
+msgid "IATA.BDH"
+msgstr ""
+
+msgid "IATA.BDL"
+msgstr ""
+
+msgid "IATA.BDM"
+msgstr ""
+
+msgid "IATA.BDO"
+msgstr ""
+
+msgid "IATA.BDQ"
+msgstr ""
+
+msgid "IATA.BDR"
+msgstr ""
+
+msgid "IATA.BDS"
+msgstr ""
+
+msgid "IATA.BDT"
+msgstr ""
+
+msgid "IATA.BDU"
+msgstr ""
+
+msgid "IATA.BEB"
+msgstr ""
+
+msgid "IATA.BED"
+msgstr ""
+
+msgid "IATA.BEF"
+msgstr ""
+
+msgid "IATA.BEG"
+msgstr ""
+
+msgid "IATA.BEJ"
+msgstr ""
+
+msgid "IATA.BEK"
+msgstr ""
+
+msgid "IATA.BEL"
+msgstr ""
+
+msgid "IATA.BEN"
+msgstr ""
+
+msgid "IATA.BEP"
+msgstr ""
+
+msgid "IATA.BEQ"
+msgstr ""
+
+msgid "IATA.BES"
+msgstr ""
+
+msgid "IATA.BET"
+msgstr ""
+
+msgid "IATA.BEU"
+msgstr ""
+
+msgid "IATA.BEW"
+msgstr ""
+
+msgid "IATA.BEX"
+msgstr ""
+
+msgid "IATA.BEY"
+msgstr ""
+
+msgid "IATA.BFD"
+msgstr ""
+
+msgid "IATA.BFF"
+msgstr ""
+
+msgid "IATA.BFH"
+msgstr ""
+
+msgid "IATA.BFI"
+msgstr ""
+
+msgid "IATA.BFJ"
+msgstr ""
+
+msgid "IATA.BFK"
+msgstr ""
+
+msgid "IATA.BFL"
+msgstr ""
+
+msgid "IATA.BFM"
+msgstr ""
+
+msgid "IATA.BFN"
+msgstr ""
+
+msgid "IATA.BFO"
+msgstr ""
+
+msgid "IATA.BFP"
+msgstr ""
+
+msgid "IATA.BFS"
+msgstr ""
+
+msgid "IATA.BFU"
+msgstr ""
+
+msgid "IATA.BFV"
+msgstr ""
+
+msgid "IATA.BFX"
+msgstr ""
+
+msgid "IATA.BGA"
+msgstr ""
+
+msgid "IATA.BGC"
+msgstr ""
+
+msgid "IATA.BGF"
+msgstr ""
+
+msgid "IATA.BGI"
+msgstr ""
+
+msgid "IATA.BGK"
+msgstr ""
+
+msgid "IATA.BGM"
+msgstr ""
+
+msgid "IATA.BGN"
+msgstr ""
+
+msgid "IATA.BGO"
+msgstr ""
+
+msgid "IATA.BGR"
+msgstr ""
+
+msgid "IATA.BGW"
+msgstr ""
+
+msgid "IATA.BGX"
+msgstr ""
+
+msgid "IATA.BGY"
+msgstr ""
+
+msgid "IATA.BGZ"
+msgstr ""
+
+msgid "IATA.BHB"
+msgstr ""
+
+msgid "IATA.BHD"
+msgstr ""
+
+msgid "IATA.BHE"
+msgstr ""
+
+msgid "IATA.BHH"
+msgstr ""
+
+msgid "IATA.BHI"
+msgstr ""
+
+msgid "IATA.BHJ"
+msgstr ""
+
+msgid "IATA.BHK"
+msgstr ""
+
+msgid "IATA.BHM"
+msgstr ""
+
+msgid "IATA.BHN"
+msgstr ""
+
+msgid "IATA.BHO"
+msgstr ""
+
+msgid "IATA.BHQ"
+msgstr ""
+
+msgid "IATA.BHS"
+msgstr ""
+
+msgid "IATA.BHU"
+msgstr ""
+
+msgid "IATA.BHV"
+msgstr ""
+
+msgid "IATA.BHX"
+msgstr ""
+
+msgid "IATA.BIA"
+msgstr ""
+
+msgid "IATA.BIF"
+msgstr ""
+
+msgid "IATA.BIG"
+msgstr ""
+
+msgid "IATA.BIH"
+msgstr ""
+
+msgid "IATA.BIK"
+msgstr ""
+
+msgid "IATA.BIL"
+msgstr ""
+
+msgid "IATA.BIM"
+msgstr ""
+
+msgid "IATA.BIO"
+msgstr ""
+
+msgid "IATA.BIQ"
+msgstr ""
+
+msgid "IATA.BIR"
+msgstr ""
+
+msgid "IATA.BIS"
+msgstr ""
+
+msgid "IATA.BIX"
+msgstr ""
+
+msgid "IATA.BIY"
+msgstr ""
+
+msgid "IATA.BJA"
+msgstr ""
+
+msgid "IATA.BJB"
+msgstr ""
+
+msgid "IATA.BJC"
+msgstr ""
+
+msgid "IATA.BJF"
+msgstr ""
+
+msgid "IATA.BJI"
+msgstr ""
+
+msgid "IATA.BJL"
+msgstr ""
+
+msgid "IATA.BJM"
+msgstr ""
+
+msgid "IATA.BJO"
+msgstr ""
+
+msgid "IATA.BJR"
+msgstr ""
+
+msgid "IATA.BJV"
+msgstr ""
+
+msgid "IATA.BJX"
+msgstr ""
+
+msgid "IATA.BJY"
+msgstr ""
+
+msgid "IATA.BJZ"
+msgstr ""
+
+msgid "IATA.BKB"
+msgstr ""
+
+msgid "IATA.BKC"
+msgstr ""
+
+msgid "IATA.BKE"
+msgstr ""
+
+msgid "IATA.BKH"
+msgstr ""
+
+msgid "IATA.BKI"
+msgstr ""
+
+msgid "IATA.BKK"
+msgstr ""
+
+msgid "IATA.BKL"
+msgstr ""
+
+msgid "IATA.BKO"
+msgstr ""
+
+msgid "IATA.BKQ"
+msgstr ""
+
+msgid "IATA.BKS"
+msgstr ""
+
+msgid "IATA.BKW"
+msgstr ""
+
+msgid "IATA.BKY"
+msgstr ""
+
+msgid "IATA.BLA"
+msgstr ""
+
+msgid "IATA.BLE"
+msgstr ""
+
+msgid "IATA.BLF"
+msgstr ""
+
+msgid "IATA.BLH"
+msgstr ""
+
+msgid "IATA.BLI"
+msgstr ""
+
+msgid "IATA.BLJ"
+msgstr ""
+
+msgid "IATA.BLK"
+msgstr ""
+
+msgid "IATA.BLL"
+msgstr ""
+
+msgid "IATA.BLN"
+msgstr ""
+
+msgid "IATA.BLQ"
+msgstr ""
+
+msgid "IATA.BLR"
+msgstr ""
+
+msgid "IATA.BLT"
+msgstr ""
+
+msgid "IATA.BLV"
+msgstr ""
+
+msgid "IATA.BLZ"
+msgstr ""
+
+msgid "IATA.BMA"
+msgstr ""
+
+msgid "IATA.BME"
+msgstr ""
+
+msgid "IATA.BMG"
+msgstr ""
+
+msgid "IATA.BMI"
+msgstr ""
+
+msgid "IATA.BMM"
+msgstr ""
+
+msgid "IATA.BMV"
+msgstr ""
+
+msgid "IATA.BMY"
+msgstr ""
+
+msgid "IATA.BNA"
+msgstr ""
+
+msgid "IATA.BND"
+msgstr ""
+
+msgid "IATA.BNE"
+msgstr ""
+
+msgid "IATA.BNI"
+msgstr ""
+
+msgid "IATA.BNK"
+msgstr ""
+
+msgid "IATA.BNN"
+msgstr ""
+
+msgid "IATA.BNO"
+msgstr ""
+
+msgid "IATA.BNS"
+msgstr ""
+
+msgid "IATA.BNX"
+msgstr ""
+
+msgid "IATA.BOB"
+msgstr ""
+
+msgid "IATA.BOC"
+msgstr ""
+
+msgid "IATA.BOD"
+msgstr ""
+
+msgid "IATA.BOG"
+msgstr ""
+
+msgid "IATA.BOH"
+msgstr ""
+
+msgid "IATA.BOI"
+msgstr ""
+
+msgid "IATA.BOJ"
+msgstr ""
+
+msgid "IATA.BOM"
+msgstr ""
+
+msgid "IATA.BON"
+msgstr ""
+
+msgid "IATA.BOO"
+msgstr ""
+
+msgid "IATA.BOS"
+msgstr ""
+
+msgid "IATA.BOU"
+msgstr ""
+
+msgid "IATA.BOY"
+msgstr ""
+
+msgid "IATA.BPC"
+msgstr ""
+
+msgid "IATA.BPE"
+msgstr ""
+
+msgid "IATA.BPG"
+msgstr ""
+
+msgid "IATA.BPH"
+msgstr ""
+
+msgid "IATA.BPI"
+msgstr ""
+
+msgid "IATA.BPL"
+msgstr ""
+
+msgid "IATA.BPM"
+msgstr ""
+
+msgid "IATA.BPS"
+msgstr ""
+
+msgid "IATA.BPT"
+msgstr ""
+
+msgid "IATA.BPX"
+msgstr ""
+
+msgid "IATA.BPY"
+msgstr ""
+
+msgid "IATA.BQA"
+msgstr ""
+
+msgid "IATA.BQH"
+msgstr ""
+
+msgid "IATA.BQK"
+msgstr ""
+
+msgid "IATA.BQL"
+msgstr ""
+
+msgid "IATA.BQN"
+msgstr ""
+
+msgid "IATA.BQS"
+msgstr ""
+
+msgid "IATA.BQT"
+msgstr ""
+
+msgid "IATA.BQU"
+msgstr ""
+
+msgid "IATA.BRC"
+msgstr ""
+
+msgid "IATA.BRD"
+msgstr ""
+
+msgid "IATA.BRE"
+msgstr ""
+
+msgid "IATA.BRI"
+msgstr ""
+
+msgid "IATA.BRK"
+msgstr ""
+
+msgid "IATA.BRL"
+msgstr ""
+
+msgid "IATA.BRM"
+msgstr ""
+
+msgid "IATA.BRN"
+msgstr ""
+
+msgid "IATA.BRO"
+msgstr ""
+
+msgid "IATA.BRQ"
+msgstr ""
+
+msgid "IATA.BRR"
+msgstr ""
+
+msgid "IATA.BRS"
+msgstr ""
+
+msgid "IATA.BRT"
+msgstr ""
+
+msgid "IATA.BRU"
+msgstr ""
+
+msgid "IATA.BRW"
+msgstr ""
+
+msgid "IATA.BRX"
+msgstr ""
+
+msgid "IATA.BSB"
+msgstr ""
+
+msgid "IATA.BSC"
+msgstr ""
+
+msgid "IATA.BSD"
+msgstr ""
+
+msgid "IATA.BSF"
+msgstr ""
+
+msgid "IATA.BSG"
+msgstr ""
+
+msgid "IATA.BSJ"
+msgstr ""
+
+msgid "IATA.BSK"
+msgstr ""
+
+msgid "IATA.BSL"
+msgstr ""
+
+msgid "IATA.BSO"
+msgstr ""
+
+msgid "IATA.BSR"
+msgstr ""
+
+msgid "IATA.BTC"
+msgstr ""
+
+msgid "IATA.BTE"
+msgstr ""
+
+msgid "IATA.BTH"
+msgstr ""
+
+msgid "IATA.BTI"
+msgstr ""
+
+msgid "IATA.BTJ"
+msgstr ""
+
+msgid "IATA.BTK"
+msgstr ""
+
+msgid "IATA.BTL"
+msgstr ""
+
+msgid "IATA.BTM"
+msgstr ""
+
+msgid "IATA.BTR"
+msgstr ""
+
+msgid "IATA.BTS"
+msgstr ""
+
+msgid "IATA.BTT"
+msgstr ""
+
+msgid "IATA.BTU"
+msgstr ""
+
+msgid "IATA.BTV"
+msgstr ""
+
+msgid "IATA.BUA"
+msgstr ""
+
+msgid "IATA.BUD"
+msgstr ""
+
+msgid "IATA.BUF"
+msgstr ""
+
+msgid "IATA.BUG"
+msgstr ""
+
+msgid "IATA.BUJ"
+msgstr ""
+
+msgid "IATA.BUN"
+msgstr ""
+
+msgid "IATA.BUP"
+msgstr ""
+
+msgid "IATA.BUQ"
+msgstr ""
+
+msgid "IATA.BUR"
+msgstr ""
+
+msgid "IATA.BUS"
+msgstr ""
+
+msgid "IATA.BUX"
+msgstr ""
+
+msgid "IATA.BUZ"
+msgstr ""
+
+msgid "IATA.BVA"
+msgstr ""
+
+msgid "IATA.BVB"
+msgstr ""
+
+msgid "IATA.BVC"
+msgstr ""
+
+msgid "IATA.BVE"
+msgstr ""
+
+msgid "IATA.BVG"
+msgstr ""
+
+msgid "IATA.BVH"
+msgstr ""
+
+msgid "IATA.BVI"
+msgstr ""
+
+msgid "IATA.BVY"
+msgstr ""
+
+msgid "IATA.BWA"
+msgstr ""
+
+msgid "IATA.BWE"
+msgstr ""
+
+msgid "IATA.BWF"
+msgstr ""
+
+msgid "IATA.BWG"
+msgstr ""
+
+msgid "IATA.BWH"
+msgstr ""
+
+msgid "IATA.BWI"
+msgstr ""
+
+msgid "IATA.BWK"
+msgstr ""
+
+msgid "IATA.BWN"
+msgstr ""
+
+msgid "IATA.BWO"
+msgstr ""
+
+msgid "IATA.BWQ"
+msgstr ""
+
+msgid "IATA.BWT"
+msgstr ""
+
+msgid "IATA.BWU"
+msgstr ""
+
+msgid "IATA.BXB"
+msgstr ""
+
+msgid "IATA.BXE"
+msgstr ""
+
+msgid "IATA.BXH"
+msgstr ""
+
+msgid "IATA.BXP"
+msgstr ""
+
+msgid "IATA.BXR"
+msgstr ""
+
+msgid "IATA.BXU"
+msgstr ""
+
+msgid "IATA.BXY"
+msgstr ""
+
+msgid "IATA.BYC"
+msgstr ""
+
+msgid "IATA.BYH"
+msgstr ""
+
+msgid "IATA.BYI"
+msgstr ""
+
+msgid "IATA.BYJ"
+msgstr ""
+
+msgid "IATA.BYK"
+msgstr ""
+
+msgid "IATA.BYM"
+msgstr ""
+
+msgid "IATA.BYN"
+msgstr ""
+
+msgid "IATA.BYS"
+msgstr ""
+
+msgid "IATA.BYU"
+msgstr ""
+
+msgid "IATA.BZB"
+msgstr ""
+
+msgid "IATA.BZC"
+msgstr ""
+
+msgid "IATA.BZD"
+msgstr ""
+
+msgid "IATA.BZE"
+msgstr ""
+
+msgid "IATA.BZG"
+msgstr ""
+
+msgid "IATA.BZI"
+msgstr ""
+
+msgid "IATA.BZK"
+msgstr ""
+
+msgid "IATA.BZL"
+msgstr ""
+
+msgid "IATA.BZN"
+msgstr ""
+
+msgid "IATA.BZO"
+msgstr ""
+
+msgid "IATA.BZR"
+msgstr ""
+
+msgid "IATA.BZU"
+msgstr ""
+
+msgid "IATA.BZV"
+msgstr ""
+
+msgid "IATA.BZY"
+msgstr ""
+
+msgid "IATA.BZZ"
+msgstr ""
+
+msgid "IATA.CAB"
+msgstr ""
+
+msgid "IATA.CAC"
+msgstr ""
+
+msgid "IATA.CAE"
+msgstr ""
+
+msgid "IATA.CAG"
+msgstr ""
+
+msgid "IATA.CAH"
+msgstr ""
+
+msgid "IATA.CAI"
+msgstr ""
+
+msgid "IATA.CAJ"
+msgstr ""
+
+msgid "IATA.CAK"
+msgstr ""
+
+msgid "IATA.CAL"
+msgstr ""
+
+msgid "IATA.CAN"
+msgstr ""
+
+msgid "IATA.CAP"
+msgstr ""
+
+msgid "IATA.CAQ"
+msgstr ""
+
+msgid "IATA.CAR"
+msgstr ""
+
+msgid "IATA.CAT"
+msgstr ""
+
+msgid "IATA.CAW"
+msgstr ""
+
+msgid "IATA.CAX"
+msgstr ""
+
+msgid "IATA.CAY"
+msgstr ""
+
+msgid "IATA.CAZ"
+msgstr ""
+
+msgid "IATA.CBB"
+msgstr ""
+
+msgid "IATA.CBD"
+msgstr ""
+
+msgid "IATA.CBG"
+msgstr ""
+
+msgid "IATA.CBH"
+msgstr ""
+
+msgid "IATA.CBJ"
+msgstr ""
+
+msgid "IATA.CBL"
+msgstr ""
+
+msgid "IATA.CBM"
+msgstr ""
+
+msgid "IATA.CBO"
+msgstr ""
+
+msgid "IATA.CBQ"
+msgstr ""
+
+msgid "IATA.CBR"
+msgstr ""
+
+msgid "IATA.CBT"
+msgstr ""
+
+msgid "IATA.CBU"
+msgstr ""
+
+msgid "IATA.CBV"
+msgstr ""
+
+msgid "IATA.CCC"
+msgstr ""
+
+msgid "IATA.CCE"
+msgstr ""
+
+msgid "IATA.CCF"
+msgstr ""
+
+msgid "IATA.CCH"
+msgstr ""
+
+msgid "IATA.CCJ"
+msgstr ""
+
+msgid "IATA.CCK"
+msgstr ""
+
+msgid "IATA.CCL"
+msgstr ""
+
+msgid "IATA.CCM"
+msgstr ""
+
+msgid "IATA.CCP"
+msgstr ""
+
+msgid "IATA.CCS"
+msgstr ""
+
+msgid "IATA.CCU"
+msgstr ""
+
+msgid "IATA.CCY"
+msgstr ""
+
+msgid "IATA.CCZ"
+msgstr ""
+
+msgid "IATA.CDB"
+msgstr ""
+
+msgid "IATA.CDC"
+msgstr ""
+
+msgid "IATA.CDE"
+msgstr ""
+
+msgid "IATA.CDG"
+msgstr ""
+
+msgid "IATA.CDJ"
+msgstr ""
+
+msgid "IATA.CDP"
+msgstr ""
+
+msgid "IATA.CDR"
+msgstr ""
+
+msgid "IATA.CDS"
+msgstr ""
+
+msgid "IATA.CDT"
+msgstr ""
+
+msgid "IATA.CDU"
+msgstr ""
+
+msgid "IATA.CDV"
+msgstr ""
+
+msgid "IATA.CEB"
+msgstr ""
+
+msgid "IATA.CEC"
+msgstr ""
+
+msgid "IATA.CED"
+msgstr ""
+
+msgid "IATA.CEE"
+msgstr ""
+
+msgid "IATA.CEF"
+msgstr ""
+
+msgid "IATA.CEG"
+msgstr ""
+
+msgid "IATA.CEI"
+msgstr ""
+
+msgid "IATA.CEK"
+msgstr ""
+
+msgid "IATA.CEN"
+msgstr ""
+
+msgid "IATA.CEQ"
+msgstr ""
+
+msgid "IATA.CER"
+msgstr ""
+
+msgid "IATA.CET"
+msgstr ""
+
+msgid "IATA.CEW"
+msgstr ""
+
+msgid "IATA.CFE"
+msgstr ""
+
+msgid "IATA.CFG"
+msgstr ""
+
+msgid "IATA.CFK"
+msgstr ""
+
+msgid "IATA.CFN"
+msgstr ""
+
+msgid "IATA.CFR"
+msgstr ""
+
+msgid "IATA.CFS"
+msgstr ""
+
+msgid "IATA.CFU"
+msgstr ""
+
+msgid "IATA.CGB"
+msgstr ""
+
+msgid "IATA.CGD"
+msgstr ""
+
+msgid "IATA.CGF"
+msgstr ""
+
+msgid "IATA.CGH"
+msgstr ""
+
+msgid "IATA.CGI"
+msgstr ""
+
+msgid "IATA.CGJ"
+msgstr ""
+
+msgid "IATA.CGK"
+msgstr ""
+
+msgid "IATA.CGM"
+msgstr ""
+
+msgid "IATA.CGN"
+msgstr ""
+
+msgid "IATA.CGO"
+msgstr ""
+
+msgid "IATA.CGP"
+msgstr ""
+
+msgid "IATA.CGQ"
+msgstr ""
+
+msgid "IATA.CGR"
+msgstr ""
+
+msgid "IATA.CGY"
+msgstr ""
+
+msgid "IATA.CHA"
+msgstr ""
+
+msgid "IATA.CHC"
+msgstr ""
+
+msgid "IATA.CHG"
+msgstr ""
+
+msgid "IATA.CHH"
+msgstr ""
+
+msgid "IATA.CHM"
+msgstr ""
+
+msgid "IATA.CHO"
+msgstr ""
+
+msgid "IATA.CHQ"
+msgstr ""
+
+msgid "IATA.CHR"
+msgstr ""
+
+msgid "IATA.CHS"
+msgstr ""
+
+msgid "IATA.CHT"
+msgstr ""
+
+msgid "IATA.CHX"
+msgstr ""
+
+msgid "IATA.CIA"
+msgstr ""
+
+msgid "IATA.CID"
+msgstr ""
+
+msgid "IATA.CIF"
+msgstr ""
+
+msgid "IATA.CIJ"
+msgstr ""
+
+msgid "IATA.CIS"
+msgstr ""
+
+msgid "IATA.CIT"
+msgstr ""
+
+msgid "IATA.CIU"
+msgstr ""
+
+msgid "IATA.CIW"
+msgstr ""
+
+msgid "IATA.CIX"
+msgstr ""
+
+msgid "IATA.CIY"
+msgstr ""
+
+msgid "IATA.CJA"
+msgstr ""
+
+msgid "IATA.CJB"
+msgstr ""
+
+msgid "IATA.CJC"
+msgstr ""
+
+msgid "IATA.CJJ"
+msgstr ""
+
+msgid "IATA.CJL"
+msgstr ""
+
+msgid "IATA.CJM"
+msgstr ""
+
+msgid "IATA.CJS"
+msgstr ""
+
+msgid "IATA.CJU"
+msgstr ""
+
+msgid "IATA.CKB"
+msgstr ""
+
+msgid "IATA.CKC"
+msgstr ""
+
+msgid "IATA.CKG"
+msgstr ""
+
+msgid "IATA.CKH"
+msgstr ""
+
+msgid "IATA.CKL"
+msgstr ""
+
+msgid "IATA.CKS"
+msgstr ""
+
+msgid "IATA.CKT"
+msgstr ""
+
+msgid "IATA.CKY"
+msgstr ""
+
+msgid "IATA.CKZ"
+msgstr ""
+
+msgid "IATA.CLD"
+msgstr ""
+
+msgid "IATA.CLE"
+msgstr ""
+
+msgid "IATA.CLJ"
+msgstr ""
+
+msgid "IATA.CLL"
+msgstr ""
+
+msgid "IATA.CLM"
+msgstr ""
+
+msgid "IATA.CLN"
+msgstr ""
+
+msgid "IATA.CLO"
+msgstr ""
+
+msgid "IATA.CLQ"
+msgstr ""
+
+msgid "IATA.CLT"
+msgstr ""
+
+msgid "IATA.CLU"
+msgstr ""
+
+msgid "IATA.CLY"
+msgstr ""
+
+msgid "IATA.CLZ"
+msgstr ""
+
+msgid "IATA.CMA"
+msgstr ""
+
+msgid "IATA.CMB"
+msgstr ""
+
+msgid "IATA.CMD"
+msgstr ""
+
+msgid "IATA.CME"
+msgstr ""
+
+msgid "IATA.CMF"
+msgstr ""
+
+msgid "IATA.CMG"
+msgstr ""
+
+msgid "IATA.CMH"
+msgstr ""
+
+msgid "IATA.CMI"
+msgstr ""
+
+msgid "IATA.CMN"
+msgstr ""
+
+msgid "IATA.CMQ"
+msgstr ""
+
+msgid "IATA.CMR"
+msgstr ""
+
+msgid "IATA.CMU"
+msgstr ""
+
+msgid "IATA.CMW"
+msgstr ""
+
+msgid "IATA.CMX"
+msgstr ""
+
+msgid "IATA.CNB"
+msgstr ""
+
+msgid "IATA.CND"
+msgstr ""
+
+msgid "IATA.CNF"
+msgstr ""
+
+msgid "IATA.CNG"
+msgstr ""
+
+msgid "IATA.CNI"
+msgstr ""
+
+msgid "IATA.CNJ"
+msgstr ""
+
+msgid "IATA.CNL"
+msgstr ""
+
+msgid "IATA.CNM"
+msgstr ""
+
+msgid "IATA.CNN"
+msgstr ""
+
+msgid "IATA.CNQ"
+msgstr ""
+
+msgid "IATA.CNR"
+msgstr ""
+
+msgid "IATA.CNS"
+msgstr ""
+
+msgid "IATA.CNU"
+msgstr ""
+
+msgid "IATA.CNX"
+msgstr ""
+
+msgid "IATA.COC"
+msgstr ""
+
+msgid "IATA.COD"
+msgstr ""
+
+msgid "IATA.COE"
+msgstr ""
+
+msgid "IATA.COF"
+msgstr ""
+
+msgid "IATA.COJ"
+msgstr ""
+
+msgid "IATA.COK"
+msgstr ""
+
+msgid "IATA.CON"
+msgstr ""
+
+msgid "IATA.COO"
+msgstr ""
+
+msgid "IATA.COQ"
+msgstr ""
+
+msgid "IATA.COR"
+msgstr ""
+
+msgid "IATA.COS"
+msgstr ""
+
+msgid "IATA.COU"
+msgstr ""
+
+msgid "IATA.CPC"
+msgstr ""
+
+msgid "IATA.CPD"
+msgstr ""
+
+msgid "IATA.CPE"
+msgstr ""
+
+msgid "IATA.CPH"
+msgstr ""
+
+msgid "IATA.CPO"
+msgstr ""
+
+msgid "IATA.CPR"
+msgstr ""
+
+msgid "IATA.CPT"
+msgstr ""
+
+msgid "IATA.CPV"
+msgstr ""
+
+msgid "IATA.CQD"
+msgstr ""
+
+msgid "IATA.CQF"
+msgstr ""
+
+msgid "IATA.CRA"
+msgstr ""
+
+msgid "IATA.CRC"
+msgstr ""
+
+msgid "IATA.CRD"
+msgstr ""
+
+msgid "IATA.CRE"
+msgstr ""
+
+msgid "IATA.CRG"
+msgstr ""
+
+msgid "IATA.CRI"
+msgstr ""
+
+msgid "IATA.CRK"
+msgstr ""
+
+msgid "IATA.CRL"
+msgstr ""
+
+msgid "IATA.CRM"
+msgstr ""
+
+msgid "IATA.CRP"
+msgstr ""
+
+msgid "IATA.CRQ"
+msgstr ""
+
+msgid "IATA.CRV"
+msgstr ""
+
+msgid "IATA.CRW"
+msgstr ""
+
+msgid "IATA.CRZ"
+msgstr ""
+
+msgid "IATA.CSB"
+msgstr ""
+
+msgid "IATA.CSF"
+msgstr ""
+
+msgid "IATA.CSG"
+msgstr ""
+
+msgid "IATA.CSK"
+msgstr ""
+
+msgid "IATA.CSV"
+msgstr ""
+
+msgid "IATA.CSX"
+msgstr ""
+
+msgid "IATA.CSY"
+msgstr ""
+
+msgid "IATA.CTA"
+msgstr ""
+
+msgid "IATA.CTB"
+msgstr ""
+
+msgid "IATA.CTC"
+msgstr ""
+
+msgid "IATA.CTD"
+msgstr ""
+
+msgid "IATA.CTG"
+msgstr ""
+
+msgid "IATA.CTL"
+msgstr ""
+
+msgid "IATA.CTM"
+msgstr ""
+
+msgid "IATA.CTN"
+msgstr ""
+
+msgid "IATA.CTS"
+msgstr ""
+
+msgid "IATA.CTT"
+msgstr ""
+
+msgid "IATA.CTU"
+msgstr ""
+
+msgid "IATA.CUA"
+msgstr ""
+
+msgid "IATA.CUB"
+msgstr ""
+
+msgid "IATA.CUC"
+msgstr ""
+
+msgid "IATA.CUE"
+msgstr ""
+
+msgid "IATA.CUF"
+msgstr ""
+
+msgid "IATA.CUK"
+msgstr ""
+
+msgid "IATA.CUL"
+msgstr ""
+
+msgid "IATA.CUM"
+msgstr ""
+
+msgid "IATA.CUN"
+msgstr ""
+
+msgid "IATA.CUP"
+msgstr ""
+
+msgid "IATA.CUQ"
+msgstr ""
+
+msgid "IATA.CUR"
+msgstr ""
+
+msgid "IATA.CUT"
+msgstr ""
+
+msgid "IATA.CUU"
+msgstr ""
+
+msgid "IATA.CUZ"
+msgstr ""
+
+msgid "IATA.CVC"
+msgstr ""
+
+msgid "IATA.CVE"
+msgstr ""
+
+msgid "IATA.CVG"
+msgstr ""
+
+msgid "IATA.CVJ"
+msgstr ""
+
+msgid "IATA.CVM"
+msgstr ""
+
+msgid "IATA.CVO"
+msgstr ""
+
+msgid "IATA.CVQ"
+msgstr ""
+
+msgid "IATA.CVS"
+msgstr ""
+
+msgid "IATA.CVT"
+msgstr ""
+
+msgid "IATA.CWA"
+msgstr ""
+
+msgid "IATA.CWB"
+msgstr ""
+
+msgid "IATA.CWC"
+msgstr ""
+
+msgid "IATA.CWE"
+msgstr ""
+
+msgid "IATA.CWJ"
+msgstr ""
+
+msgid "IATA.CWL"
+msgstr ""
+
+msgid "IATA.CWT"
+msgstr ""
+
+msgid "IATA.CWW"
+msgstr ""
+
+msgid "IATA.CXA"
+msgstr ""
+
+msgid "IATA.CXB"
+msgstr ""
+
+msgid "IATA.CXI"
+msgstr ""
+
+msgid "IATA.CXJ"
+msgstr ""
+
+msgid "IATA.CXO"
+msgstr ""
+
+msgid "IATA.CXP"
+msgstr ""
+
+msgid "IATA.CXR"
+msgstr ""
+
+msgid "IATA.CYA"
+msgstr ""
+
+msgid "IATA.CYB"
+msgstr ""
+
+msgid "IATA.CYC"
+msgstr ""
+
+msgid "IATA.CYG"
+msgstr ""
+
+msgid "IATA.CYI"
+msgstr ""
+
+msgid "IATA.CYO"
+msgstr ""
+
+msgid "IATA.CYP"
+msgstr ""
+
+msgid "IATA.CYS"
+msgstr ""
+
+msgid "IATA.CYW"
+msgstr ""
+
+msgid "IATA.CYX"
+msgstr ""
+
+msgid "IATA.CYZ"
+msgstr ""
+
+msgid "IATA.CZA"
+msgstr ""
+
+msgid "IATA.CZE"
+msgstr ""
+
+msgid "IATA.CZF"
+msgstr ""
+
+msgid "IATA.CZH"
+msgstr ""
+
+msgid "IATA.CZL"
+msgstr ""
+
+msgid "IATA.CZM"
+msgstr ""
+
+msgid "IATA.CZS"
+msgstr ""
+
+msgid "IATA.CZU"
+msgstr ""
+
+msgid "IATA.DAA"
+msgstr ""
+
+msgid "IATA.DAB"
+msgstr ""
+
+msgid "IATA.DAC"
+msgstr ""
+
+msgid "IATA.DAD"
+msgstr ""
+
+msgid "IATA.DAG"
+msgstr ""
+
+msgid "IATA.DAL"
+msgstr ""
+
+msgid "IATA.DAM"
+msgstr ""
+
+msgid "IATA.DAN"
+msgstr ""
+
+msgid "IATA.DAR"
+msgstr ""
+
+msgid "IATA.DAU"
+msgstr ""
+
+msgid "IATA.DAV"
+msgstr ""
+
+msgid "IATA.DAY"
+msgstr ""
+
+msgid "IATA.DBB"
+msgstr ""
+
+msgid "IATA.DBC"
+msgstr ""
+
+msgid "IATA.DBD"
+msgstr ""
+
+msgid "IATA.DBO"
+msgstr ""
+
+msgid "IATA.DBQ"
+msgstr ""
+
+msgid "IATA.DBV"
+msgstr ""
+
+msgid "IATA.DCA"
+msgstr ""
+
+msgid "IATA.DCF"
+msgstr ""
+
+msgid "IATA.DCI"
+msgstr ""
+
+msgid "IATA.DCM"
+msgstr ""
+
+msgid "IATA.DCN"
+msgstr ""
+
+msgid "IATA.DCT"
+msgstr ""
+
+msgid "IATA.DCY"
+msgstr ""
+
+msgid "IATA.DDC"
+msgstr ""
+
+msgid "IATA.DDG"
+msgstr ""
+
+msgid "IATA.DEA"
+msgstr ""
+
+msgid "IATA.DEB"
+msgstr ""
+
+msgid "IATA.DEC"
+msgstr ""
+
+msgid "IATA.DED"
+msgstr ""
+
+msgid "IATA.DEL"
+msgstr ""
+
+msgid "IATA.DEN"
+msgstr ""
+
+msgid "IATA.DET"
+msgstr ""
+
+msgid "IATA.DEZ"
+msgstr ""
+
+msgid "IATA.DFW"
+msgstr ""
+
+msgid "IATA.DGA"
+msgstr ""
+
+msgid "IATA.DGE"
+msgstr ""
+
+msgid "IATA.DGO"
+msgstr ""
+
+msgid "IATA.DGP"
+msgstr ""
+
+msgid "IATA.DGT"
+msgstr ""
+
+msgid "IATA.DHA"
+msgstr ""
+
+msgid "IATA.DHF"
+msgstr ""
+
+msgid "IATA.DHM"
+msgstr ""
+
+msgid "IATA.DHN"
+msgstr ""
+
+msgid "IATA.DHR"
+msgstr ""
+
+msgid "IATA.DHT"
+msgstr ""
+
+msgid "IATA.DIA"
+msgstr ""
+
+msgid "IATA.DIB"
+msgstr ""
+
+msgid "IATA.DIE"
+msgstr ""
+
+msgid "IATA.DIG"
+msgstr ""
+
+msgid "IATA.DIJ"
+msgstr ""
+
+msgid "IATA.DIK"
+msgstr ""
+
+msgid "IATA.DIL"
+msgstr ""
+
+msgid "IATA.DIN"
+msgstr ""
+
+msgid "IATA.DIR"
+msgstr ""
+
+msgid "IATA.DIS"
+msgstr ""
+
+msgid "IATA.DIY"
+msgstr ""
+
+msgid "IATA.DJE"
+msgstr ""
+
+msgid "IATA.DJG"
+msgstr ""
+
+msgid "IATA.DJJ"
+msgstr ""
+
+msgid "IATA.DJO"
+msgstr ""
+
+msgid "IATA.DKR"
+msgstr ""
+
+msgid "IATA.DKS"
+msgstr ""
+
+msgid "IATA.DLA"
+msgstr ""
+
+msgid "IATA.DLC"
+msgstr ""
+
+msgid "IATA.DLE"
+msgstr ""
+
+msgid "IATA.DLF"
+msgstr ""
+
+msgid "IATA.DLG"
+msgstr ""
+
+msgid "IATA.DLH"
+msgstr ""
+
+msgid "IATA.DLI"
+msgstr ""
+
+msgid "IATA.DLM"
+msgstr ""
+
+msgid "IATA.DLS"
+msgstr ""
+
+msgid "IATA.DLU"
+msgstr ""
+
+msgid "IATA.DLZ"
+msgstr ""
+
+msgid "IATA.DMA"
+msgstr ""
+
+msgid "IATA.DMB"
+msgstr ""
+
+msgid "IATA.DME"
+msgstr ""
+
+msgid "IATA.DMK"
+msgstr ""
+
+msgid "IATA.DMM"
+msgstr ""
+
+msgid "IATA.DMN"
+msgstr ""
+
+msgid "IATA.DMU"
+msgstr ""
+
+msgid "IATA.DNA"
+msgstr ""
+
+msgid "IATA.DND"
+msgstr ""
+
+msgid "IATA.DNH"
+msgstr ""
+
+msgid "IATA.DNK"
+msgstr ""
+
+msgid "IATA.DNL"
+msgstr ""
+
+msgid "IATA.DNQ"
+msgstr ""
+
+msgid "IATA.DNR"
+msgstr ""
+
+msgid "IATA.DNZ"
+msgstr ""
+
+msgid "IATA.DOD"
+msgstr ""
+
+msgid "IATA.DOG"
+msgstr ""
+
+msgid "IATA.DOH"
+msgstr ""
+
+msgid "IATA.DOL"
+msgstr ""
+
+msgid "IATA.DOM"
+msgstr ""
+
+msgid "IATA.DOV"
+msgstr ""
+
+msgid "IATA.DOY"
+msgstr ""
+
+msgid "IATA.DPA"
+msgstr ""
+
+msgid "IATA.DPL"
+msgstr ""
+
+msgid "IATA.DPO"
+msgstr ""
+
+msgid "IATA.DPS"
+msgstr ""
+
+msgid "IATA.DQM"
+msgstr ""
+
+msgid "IATA.DRA"
+msgstr ""
+
+msgid "IATA.DRB"
+msgstr ""
+
+msgid "IATA.DRG"
+msgstr ""
+
+msgid "IATA.DRI"
+msgstr ""
+
+msgid "IATA.DRN"
+msgstr ""
+
+msgid "IATA.DRS"
+msgstr ""
+
+msgid "IATA.DRT"
+msgstr ""
+
+msgid "IATA.DRW"
+msgstr ""
+
+msgid "IATA.DSA"
+msgstr ""
+
+msgid "IATA.DSK"
+msgstr ""
+
+msgid "IATA.DSM"
+msgstr ""
+
+msgid "IATA.DSN"
+msgstr ""
+
+msgid "IATA.DSO"
+msgstr ""
+
+msgid "IATA.DSS"
+msgstr ""
+
+msgid "IATA.DTE"
+msgstr ""
+
+msgid "IATA.DTM"
+msgstr ""
+
+msgid "IATA.DTU"
+msgstr ""
+
+msgid "IATA.DTW"
+msgstr ""
+
+msgid "IATA.DUB"
+msgstr ""
+
+msgid "IATA.DUD"
+msgstr ""
+
+msgid "IATA.DUE"
+msgstr ""
+
+msgid "IATA.DUG"
+msgstr ""
+
+msgid "IATA.DUJ"
+msgstr ""
+
+msgid "IATA.DUM"
+msgstr ""
+
+msgid "IATA.DUR"
+msgstr ""
+
+msgid "IATA.DUS"
+msgstr ""
+
+msgid "IATA.DUT"
+msgstr ""
+
+msgid "IATA.DVO"
+msgstr ""
+
+msgid "IATA.DWA"
+msgstr ""
+
+msgid "IATA.DWC"
+msgstr ""
+
+msgid "IATA.DWD"
+msgstr ""
+
+msgid "IATA.DXB"
+msgstr ""
+
+msgid "IATA.DYA"
+msgstr ""
+
+msgid "IATA.DYR"
+msgstr ""
+
+msgid "IATA.DYS"
+msgstr ""
+
+msgid "IATA.DYU"
+msgstr ""
+
+msgid "IATA.DZA"
+msgstr ""
+
+msgid "IATA.DZN"
+msgstr ""
+
+msgid "IATA.DZO"
+msgstr ""
+
+msgid "IATA.EAM"
+msgstr ""
+
+msgid "IATA.EAS"
+msgstr ""
+
+msgid "IATA.EAT"
+msgstr ""
+
+msgid "IATA.EAU"
+msgstr ""
+
+msgid "IATA.EBA"
+msgstr ""
+
+msgid "IATA.EBB"
+msgstr ""
+
+msgid "IATA.EBD"
+msgstr ""
+
+msgid "IATA.EBG"
+msgstr ""
+
+msgid "IATA.EBJ"
+msgstr ""
+
+msgid "IATA.EBL"
+msgstr ""
+
+msgid "IATA.EBM"
+msgstr ""
+
+msgid "IATA.EBU"
+msgstr ""
+
+msgid "IATA.ECG"
+msgstr ""
+
+msgid "IATA.ECH"
+msgstr ""
+
+msgid "IATA.ECN"
+msgstr ""
+
+msgid "IATA.ECP"
+msgstr ""
+
+msgid "IATA.ECV"
+msgstr ""
+
+msgid "IATA.EDF"
+msgstr ""
+
+msgid "IATA.EDI"
+msgstr ""
+
+msgid "IATA.EDL"
+msgstr ""
+
+msgid "IATA.EDM"
+msgstr ""
+
+msgid "IATA.EDO"
+msgstr ""
+
+msgid "IATA.EDW"
+msgstr ""
+
+msgid "IATA.EED"
+msgstr ""
+
+msgid "IATA.EEN"
+msgstr ""
+
+msgid "IATA.EFD"
+msgstr ""
+
+msgid "IATA.EFL"
+msgstr ""
+
+msgid "IATA.EGC"
+msgstr ""
+
+msgid "IATA.EGE"
+msgstr ""
+
+msgid "IATA.EGH"
+msgstr ""
+
+msgid "IATA.EGI"
+msgstr ""
+
+msgid "IATA.EGO"
+msgstr ""
+
+msgid "IATA.EGS"
+msgstr ""
+
+msgid "IATA.EGX"
+msgstr ""
+
+msgid "IATA.EHL"
+msgstr ""
+
+msgid "IATA.EHM"
+msgstr ""
+
+msgid "IATA.EIB"
+msgstr ""
+
+msgid "IATA.EIE"
+msgstr ""
+
+msgid "IATA.EIK"
+msgstr ""
+
+msgid "IATA.EIL"
+msgstr ""
+
+msgid "IATA.EIN"
+msgstr ""
+
+msgid "IATA.EIS"
+msgstr ""
+
+msgid "IATA.EJA"
+msgstr ""
+
+msgid "IATA.EJH"
+msgstr ""
+
+msgid "IATA.EKA"
+msgstr ""
+
+msgid "IATA.EKB"
+msgstr ""
+
+msgid "IATA.EKN"
+msgstr ""
+
+msgid "IATA.EKO"
+msgstr ""
+
+msgid "IATA.EKT"
+msgstr ""
+
+msgid "IATA.ELB"
+msgstr ""
+
+msgid "IATA.ELC"
+msgstr ""
+
+msgid "IATA.ELD"
+msgstr ""
+
+msgid "IATA.ELF"
+msgstr ""
+
+msgid "IATA.ELG"
+msgstr ""
+
+msgid "IATA.ELH"
+msgstr ""
+
+msgid "IATA.ELM"
+msgstr ""
+
+msgid "IATA.ELP"
+msgstr ""
+
+msgid "IATA.ELQ"
+msgstr ""
+
+msgid "IATA.ELS"
+msgstr ""
+
+msgid "IATA.ELU"
+msgstr ""
+
+msgid "IATA.ELY"
+msgstr ""
+
+msgid "IATA.EMA"
+msgstr ""
+
+msgid "IATA.EMD"
+msgstr ""
+
+msgid "IATA.EMK"
+msgstr ""
+
+msgid "IATA.EML"
+msgstr ""
+
+msgid "IATA.ENA"
+msgstr ""
+
+msgid "IATA.ENC"
+msgstr ""
+
+msgid "IATA.END"
+msgstr ""
+
+msgid "IATA.ENF"
+msgstr ""
+
+msgid "IATA.ENK"
+msgstr ""
+
+msgid "IATA.ENN"
+msgstr ""
+
+msgid "IATA.ENS"
+msgstr ""
+
+msgid "IATA.ENU"
+msgstr ""
+
+msgid "IATA.ENV"
+msgstr ""
+
+msgid "IATA.ENW"
+msgstr ""
+
+msgid "IATA.EOH"
+msgstr ""
+
+msgid "IATA.EOI"
+msgstr ""
+
+msgid "IATA.EOR"
+msgstr ""
+
+msgid "IATA.EOZ"
+msgstr ""
+
+msgid "IATA.EPA"
+msgstr ""
+
+msgid "IATA.EPL"
+msgstr ""
+
+msgid "IATA.EPR"
+msgstr ""
+
+msgid "IATA.EPU"
+msgstr ""
+
+msgid "IATA.EQS"
+msgstr ""
+
+msgid "IATA.ERC"
+msgstr ""
+
+msgid "IATA.ERF"
+msgstr ""
+
+msgid "IATA.ERH"
+msgstr ""
+
+msgid "IATA.ERI"
+msgstr ""
+
+msgid "IATA.ERL"
+msgstr ""
+
+msgid "IATA.ERS"
+msgstr ""
+
+msgid "IATA.ERZ"
+msgstr ""
+
+msgid "IATA.ESB"
+msgstr ""
+
+msgid "IATA.ESF"
+msgstr ""
+
+msgid "IATA.ESG"
+msgstr ""
+
+msgid "IATA.ESH"
+msgstr ""
+
+msgid "IATA.ESK"
+msgstr ""
+
+msgid "IATA.ESL"
+msgstr ""
+
+msgid "IATA.ESR"
+msgstr ""
+
+msgid "IATA.ETM"
+msgstr ""
+
+msgid "IATA.ETR"
+msgstr ""
+
+msgid "IATA.ETZ"
+msgstr ""
+
+msgid "IATA.EUG"
+msgstr ""
+
+msgid "IATA.EUN"
+msgstr ""
+
+msgid "IATA.EUQ"
+msgstr ""
+
+msgid "IATA.EUX"
+msgstr ""
+
+msgid "IATA.EVE"
+msgstr ""
+
+msgid "IATA.EVG"
+msgstr ""
+
+msgid "IATA.EVN"
+msgstr ""
+
+msgid "IATA.EVV"
+msgstr ""
+
+msgid "IATA.EVW"
+msgstr ""
+
+msgid "IATA.EVX"
+msgstr ""
+
+msgid "IATA.EWB"
+msgstr ""
+
+msgid "IATA.EWN"
+msgstr ""
+
+msgid "IATA.EWR"
+msgstr ""
+
+msgid "IATA.EXT"
+msgstr ""
+
+msgid "IATA.EYK"
+msgstr ""
+
+msgid "IATA.EYP"
+msgstr ""
+
+msgid "IATA.EYW"
+msgstr ""
+
+msgid "IATA.EZE"
+msgstr ""
+
+msgid "IATA.EZS"
+msgstr ""
+
+msgid "IATA.EZV"
+msgstr ""
+
+msgid "IATA.FAB"
+msgstr ""
+
+msgid "IATA.FAE"
+msgstr ""
+
+msgid "IATA.FAF"
+msgstr ""
+
+msgid "IATA.FAI"
+msgstr ""
+
+msgid "IATA.FAJ"
+msgstr ""
+
+msgid "IATA.FAO"
+msgstr ""
+
+msgid "IATA.FAR"
+msgstr ""
+
+msgid "IATA.FAT"
+msgstr ""
+
+msgid "IATA.FAV"
+msgstr ""
+
+msgid "IATA.FAY"
+msgstr ""
+
+msgid "IATA.FAZ"
+msgstr ""
+
+msgid "IATA.FBG"
+msgstr ""
+
+msgid "IATA.FBK"
+msgstr ""
+
+msgid "IATA.FBM"
+msgstr ""
+
+msgid "IATA.FCA"
+msgstr ""
+
+msgid "IATA.FCB"
+msgstr ""
+
+msgid "IATA.FCN"
+msgstr ""
+
+msgid "IATA.FCO"
+msgstr ""
+
+msgid "IATA.FCS"
+msgstr ""
+
+msgid "IATA.FDF"
+msgstr ""
+
+msgid "IATA.FDH"
+msgstr ""
+
+msgid "IATA.FDO"
+msgstr ""
+
+msgid "IATA.FDU"
+msgstr ""
+
+msgid "IATA.FDY"
+msgstr ""
+
+msgid "IATA.FEN"
+msgstr ""
+
+msgid "IATA.FEZ"
+msgstr ""
+
+msgid "IATA.FFD"
+msgstr ""
+
+msgid "IATA.FFO"
+msgstr ""
+
+msgid "IATA.FGU"
+msgstr ""
+
+msgid "IATA.FHU"
+msgstr ""
+
+msgid "IATA.FIE"
+msgstr ""
+
+msgid "IATA.FIH"
+msgstr ""
+
+msgid "IATA.FIZ"
+msgstr ""
+
+msgid "IATA.FJR"
+msgstr ""
+
+msgid "IATA.FKB"
+msgstr ""
+
+msgid "IATA.FKI"
+msgstr ""
+
+msgid "IATA.FKJ"
+msgstr ""
+
+msgid "IATA.FKL"
+msgstr ""
+
+msgid "IATA.FKQ"
+msgstr ""
+
+msgid "IATA.FKS"
+msgstr ""
+
+msgid "IATA.FLA"
+msgstr ""
+
+msgid "IATA.FLG"
+msgstr ""
+
+msgid "IATA.FLL"
+msgstr ""
+
+msgid "IATA.FLN"
+msgstr ""
+
+msgid "IATA.FLO"
+msgstr ""
+
+msgid "IATA.FLR"
+msgstr ""
+
+msgid "IATA.FLW"
+msgstr ""
+
+msgid "IATA.FMA"
+msgstr ""
+
+msgid "IATA.FME"
+msgstr ""
+
+msgid "IATA.FMI"
+msgstr ""
+
+msgid "IATA.FMM"
+msgstr ""
+
+msgid "IATA.FMN"
+msgstr ""
+
+msgid "IATA.FMO"
+msgstr ""
+
+msgid "IATA.FMY"
+msgstr ""
+
+msgid "IATA.FNA"
+msgstr ""
+
+msgid "IATA.FNB"
+msgstr ""
+
+msgid "IATA.FNC"
+msgstr ""
+
+msgid "IATA.FNI"
+msgstr ""
+
+msgid "IATA.FNJ"
+msgstr ""
+
+msgid "IATA.FNT"
+msgstr ""
+
+msgid "IATA.FOC"
+msgstr ""
+
+msgid "IATA.FOD"
+msgstr ""
+
+msgid "IATA.FOE"
+msgstr ""
+
+msgid "IATA.FOG"
+msgstr ""
+
+msgid "IATA.FOM"
+msgstr ""
+
+msgid "IATA.FOR"
+msgstr ""
+
+msgid "IATA.FOS"
+msgstr ""
+
+msgid "IATA.FPO"
+msgstr ""
+
+msgid "IATA.FPR"
+msgstr ""
+
+msgid "IATA.FRA"
+msgstr ""
+
+msgid "IATA.FRB"
+msgstr ""
+
+msgid "IATA.FRG"
+msgstr ""
+
+msgid "IATA.FRI"
+msgstr ""
+
+msgid "IATA.FRL"
+msgstr ""
+
+msgid "IATA.FRO"
+msgstr ""
+
+msgid "IATA.FRS"
+msgstr ""
+
+msgid "IATA.FRU"
+msgstr ""
+
+msgid "IATA.FRW"
+msgstr ""
+
+msgid "IATA.FRZ"
+msgstr ""
+
+msgid "IATA.FSC"
+msgstr ""
+
+msgid "IATA.FSD"
+msgstr ""
+
+msgid "IATA.FSI"
+msgstr ""
+
+msgid "IATA.FSM"
+msgstr ""
+
+msgid "IATA.FSP"
+msgstr ""
+
+msgid "IATA.FSS"
+msgstr ""
+
+msgid "IATA.FST"
+msgstr ""
+
+msgid "IATA.FSZ"
+msgstr ""
+
+msgid "IATA.FTE"
+msgstr ""
+
+msgid "IATA.FTI"
+msgstr ""
+
+msgid "IATA.FTK"
+msgstr ""
+
+msgid "IATA.FTU"
+msgstr ""
+
+msgid "IATA.FTW"
+msgstr ""
+
+msgid "IATA.FTX"
+msgstr ""
+
+msgid "IATA.FTY"
+msgstr ""
+
+msgid "IATA.FUE"
+msgstr ""
+
+msgid "IATA.FUG"
+msgstr ""
+
+msgid "IATA.FUJ"
+msgstr ""
+
+msgid "IATA.FUK"
+msgstr ""
+
+msgid "IATA.FUN"
+msgstr ""
+
+msgid "IATA.FUO"
+msgstr ""
+
+msgid "IATA.FUT"
+msgstr ""
+
+msgid "IATA.FWA"
+msgstr ""
+
+msgid "IATA.FWH"
+msgstr ""
+
+msgid "IATA.FXE"
+msgstr ""
+
+msgid "IATA.FYJ"
+msgstr ""
+
+msgid "IATA.FYN"
+msgstr ""
+
+msgid "IATA.FYT"
+msgstr ""
+
+msgid "IATA.FYU"
+msgstr ""
+
+msgid "IATA.FYV"
+msgstr ""
+
+msgid "IATA.GAE"
+msgstr ""
+
+msgid "IATA.GAF"
+msgstr ""
+
+msgid "IATA.GAJ"
+msgstr ""
+
+msgid "IATA.GAL"
+msgstr ""
+
+msgid "IATA.GAM"
+msgstr ""
+
+msgid "IATA.GAN"
+msgstr ""
+
+msgid "IATA.GAO"
+msgstr ""
+
+msgid "IATA.GAQ"
+msgstr ""
+
+msgid "IATA.GAU"
+msgstr ""
+
+msgid "IATA.GAY"
+msgstr ""
+
+msgid "IATA.GBB"
+msgstr ""
+
+msgid "IATA.GBE"
+msgstr ""
+
+msgid "IATA.GBJ"
+msgstr ""
+
+msgid "IATA.GBT"
+msgstr ""
+
+msgid "IATA.GCC"
+msgstr ""
+
+msgid "IATA.GCH"
+msgstr ""
+
+msgid "IATA.GCI"
+msgstr ""
+
+msgid "IATA.GCJ"
+msgstr ""
+
+msgid "IATA.GCK"
+msgstr ""
+
+msgid "IATA.GCM"
+msgstr ""
+
+msgid "IATA.GCN"
+msgstr ""
+
+msgid "IATA.GDE"
+msgstr ""
+
+msgid "IATA.GDL"
+msgstr ""
+
+msgid "IATA.GDN"
+msgstr ""
+
+msgid "IATA.GDO"
+msgstr ""
+
+msgid "IATA.GDQ"
+msgstr ""
+
+msgid "IATA.GDT"
+msgstr ""
+
+msgid "IATA.GDV"
+msgstr ""
+
+msgid "IATA.GDX"
+msgstr ""
+
+msgid "IATA.GDZ"
+msgstr ""
+
+msgid "IATA.GEA"
+msgstr ""
+
+msgid "IATA.GEC"
+msgstr ""
+
+msgid "IATA.GEG"
+msgstr ""
+
+msgid "IATA.GEL"
+msgstr ""
+
+msgid "IATA.GEO"
+msgstr ""
+
+msgid "IATA.GER"
+msgstr ""
+
+msgid "IATA.GES"
+msgstr ""
+
+msgid "IATA.GET"
+msgstr ""
+
+msgid "IATA.GEV"
+msgstr ""
+
+msgid "IATA.GFF"
+msgstr ""
+
+msgid "IATA.GFK"
+msgstr ""
+
+msgid "IATA.GFL"
+msgstr ""
+
+msgid "IATA.GFN"
+msgstr ""
+
+msgid "IATA.GFR"
+msgstr ""
+
+msgid "IATA.GFY"
+msgstr ""
+
+msgid "IATA.GGG"
+msgstr ""
+
+msgid "IATA.GGT"
+msgstr ""
+
+msgid "IATA.GGW"
+msgstr ""
+
+msgid "IATA.GHA"
+msgstr ""
+
+msgid "IATA.GHB"
+msgstr ""
+
+msgid "IATA.GHC"
+msgstr ""
+
+msgid "IATA.GHT"
+msgstr ""
+
+msgid "IATA.GHU"
+msgstr ""
+
+msgid "IATA.GIB"
+msgstr ""
+
+msgid "IATA.GIG"
+msgstr ""
+
+msgid "IATA.GIL"
+msgstr ""
+
+msgid "IATA.GIR"
+msgstr ""
+
+msgid "IATA.GIS"
+msgstr ""
+
+msgid "IATA.GIZ"
+msgstr ""
+
+msgid "IATA.GJA"
+msgstr ""
+
+msgid "IATA.GJL"
+msgstr ""
+
+msgid "IATA.GJM"
+msgstr ""
+
+msgid "IATA.GJT"
+msgstr ""
+
+msgid "IATA.GKA"
+msgstr ""
+
+msgid "IATA.GKE"
+msgstr ""
+
+msgid "IATA.GKN"
+msgstr ""
+
+msgid "IATA.GLA"
+msgstr ""
+
+msgid "IATA.GLD"
+msgstr ""
+
+msgid "IATA.GLF"
+msgstr ""
+
+msgid "IATA.GLH"
+msgstr ""
+
+msgid "IATA.GLI"
+msgstr ""
+
+msgid "IATA.GLO"
+msgstr ""
+
+msgid "IATA.GLS"
+msgstr ""
+
+msgid "IATA.GLT"
+msgstr ""
+
+msgid "IATA.GLU"
+msgstr ""
+
+msgid "IATA.GLZ"
+msgstr ""
+
+msgid "IATA.GMA"
+msgstr ""
+
+msgid "IATA.GMB"
+msgstr ""
+
+msgid "IATA.GME"
+msgstr ""
+
+msgid "IATA.GML"
+msgstr ""
+
+msgid "IATA.GMO"
+msgstr ""
+
+msgid "IATA.GMP"
+msgstr ""
+
+msgid "IATA.GMQ"
+msgstr ""
+
+msgid "IATA.GMR"
+msgstr ""
+
+msgid "IATA.GMU"
+msgstr ""
+
+msgid "IATA.GNA"
+msgstr ""
+
+msgid "IATA.GNB"
+msgstr ""
+
+msgid "IATA.GND"
+msgstr ""
+
+msgid "IATA.GNS"
+msgstr ""
+
+msgid "IATA.GNV"
+msgstr ""
+
+msgid "IATA.GNY"
+msgstr ""
+
+msgid "IATA.GOA"
+msgstr ""
+
+msgid "IATA.GOH"
+msgstr ""
+
+msgid "IATA.GOI"
+msgstr ""
+
+msgid "IATA.GOJ"
+msgstr ""
+
+msgid "IATA.GOM"
+msgstr ""
+
+msgid "IATA.GON"
+msgstr ""
+
+msgid "IATA.GOP"
+msgstr ""
+
+msgid "IATA.GOQ"
+msgstr ""
+
+msgid "IATA.GOT"
+msgstr ""
+
+msgid "IATA.GOU"
+msgstr ""
+
+msgid "IATA.GOV"
+msgstr ""
+
+msgid "IATA.GOZ"
+msgstr ""
+
+msgid "IATA.GPA"
+msgstr ""
+
+msgid "IATA.GPI"
+msgstr ""
+
+msgid "IATA.GPL"
+msgstr ""
+
+msgid "IATA.GPN"
+msgstr ""
+
+msgid "IATA.GPO"
+msgstr ""
+
+msgid "IATA.GPT"
+msgstr ""
+
+msgid "IATA.GRB"
+msgstr ""
+
+msgid "IATA.GRF"
+msgstr ""
+
+msgid "IATA.GRI"
+msgstr ""
+
+msgid "IATA.GRJ"
+msgstr ""
+
+msgid "IATA.GRK"
+msgstr ""
+
+msgid "IATA.GRO"
+msgstr ""
+
+msgid "IATA.GRQ"
+msgstr ""
+
+msgid "IATA.GRR"
+msgstr ""
+
+msgid "IATA.GRS"
+msgstr ""
+
+msgid "IATA.GRU"
+msgstr ""
+
+msgid "IATA.GRV"
+msgstr ""
+
+msgid "IATA.GRW"
+msgstr ""
+
+msgid "IATA.GRX"
+msgstr ""
+
+msgid "IATA.GRZ"
+msgstr ""
+
+msgid "IATA.GSB"
+msgstr ""
+
+msgid "IATA.GSE"
+msgstr ""
+
+msgid "IATA.GSJ"
+msgstr ""
+
+msgid "IATA.GSO"
+msgstr ""
+
+msgid "IATA.GSP"
+msgstr ""
+
+msgid "IATA.GST"
+msgstr ""
+
+msgid "IATA.GTE"
+msgstr ""
+
+msgid "IATA.GTF"
+msgstr ""
+
+msgid "IATA.GTN"
+msgstr ""
+
+msgid "IATA.GTR"
+msgstr ""
+
+msgid "IATA.GUA"
+msgstr ""
+
+msgid "IATA.GUH"
+msgstr ""
+
+msgid "IATA.GUI"
+msgstr ""
+
+msgid "IATA.GUJ"
+msgstr ""
+
+msgid "IATA.GUL"
+msgstr ""
+
+msgid "IATA.GUM"
+msgstr ""
+
+msgid "IATA.GUP"
+msgstr ""
+
+msgid "IATA.GUQ"
+msgstr ""
+
+msgid "IATA.GUR"
+msgstr ""
+
+msgid "IATA.GUS"
+msgstr ""
+
+msgid "IATA.GUW"
+msgstr ""
+
+msgid "IATA.GUY"
+msgstr ""
+
+msgid "IATA.GVA"
+msgstr ""
+
+msgid "IATA.GVN"
+msgstr ""
+
+msgid "IATA.GVX"
+msgstr ""
+
+msgid "IATA.GWD"
+msgstr ""
+
+msgid "IATA.GWE"
+msgstr ""
+
+msgid "IATA.GWL"
+msgstr ""
+
+msgid "IATA.GWO"
+msgstr ""
+
+msgid "IATA.GWT"
+msgstr ""
+
+msgid "IATA.GWY"
+msgstr ""
+
+msgid "IATA.GXF"
+msgstr ""
+
+msgid "IATA.GXG"
+msgstr ""
+
+msgid "IATA.GXH"
+msgstr ""
+
+msgid "IATA.GXQ"
+msgstr ""
+
+msgid "IATA.GYD"
+msgstr ""
+
+msgid "IATA.GYE"
+msgstr ""
+
+msgid "IATA.GYG"
+msgstr ""
+
+msgid "IATA.GYI"
+msgstr ""
+
+msgid "IATA.GYM"
+msgstr ""
+
+msgid "IATA.GYN"
+msgstr ""
+
+msgid "IATA.GYS"
+msgstr ""
+
+msgid "IATA.GYU"
+msgstr ""
+
+msgid "IATA.GYY"
+msgstr ""
+
+msgid "IATA.GZP"
+msgstr ""
+
+msgid "IATA.GZT"
+msgstr ""
+
+msgid "IATA.GZW"
+msgstr ""
+
+msgid "IATA.HAC"
+msgstr ""
+
+msgid "IATA.HAD"
+msgstr ""
+
+msgid "IATA.HAH"
+msgstr ""
+
+msgid "IATA.HAJ"
+msgstr ""
+
+msgid "IATA.HAK"
+msgstr ""
+
+msgid "IATA.HAM"
+msgstr ""
+
+msgid "IATA.HAN"
+msgstr ""
+
+msgid "IATA.HAQ"
+msgstr ""
+
+msgid "IATA.HAS"
+msgstr ""
+
+msgid "IATA.HAU"
+msgstr ""
+
+msgid "IATA.HAV"
+msgstr ""
+
+msgid "IATA.HAW"
+msgstr ""
+
+msgid "IATA.HBA"
+msgstr ""
+
+msgid "IATA.HBE"
+msgstr ""
+
+msgid "IATA.HBG"
+msgstr ""
+
+msgid "IATA.HBQ"
+msgstr ""
+
+msgid "IATA.HBR"
+msgstr ""
+
+msgid "IATA.HBX"
+msgstr ""
+
+msgid "IATA.HCJ"
+msgstr ""
+
+msgid "IATA.HCN"
+msgstr ""
+
+msgid "IATA.HCQ"
+msgstr ""
+
+msgid "IATA.HCR"
+msgstr ""
+
+msgid "IATA.HDF"
+msgstr ""
+
+msgid "IATA.HDG"
+msgstr ""
+
+msgid "IATA.HDH"
+msgstr ""
+
+msgid "IATA.HDM"
+msgstr ""
+
+msgid "IATA.HDY"
+msgstr ""
+
+msgid "IATA.HEA"
+msgstr ""
+
+msgid "IATA.HEH"
+msgstr ""
+
+msgid "IATA.HEK"
+msgstr ""
+
+msgid "IATA.HEL"
+msgstr ""
+
+msgid "IATA.HEM"
+msgstr ""
+
+msgid "IATA.HER"
+msgstr ""
+
+msgid "IATA.HET"
+msgstr ""
+
+msgid "IATA.HFA"
+msgstr ""
+
+msgid "IATA.HFD"
+msgstr ""
+
+msgid "IATA.HFE"
+msgstr ""
+
+msgid "IATA.HFN"
+msgstr ""
+
+msgid "IATA.HFS"
+msgstr ""
+
+msgid "IATA.HFT"
+msgstr ""
+
+msgid "IATA.HGA"
+msgstr ""
+
+msgid "IATA.HGH"
+msgstr ""
+
+msgid "IATA.HGI"
+msgstr ""
+
+msgid "IATA.HGN"
+msgstr ""
+
+msgid "IATA.HGO"
+msgstr ""
+
+msgid "IATA.HGR"
+msgstr ""
+
+msgid "IATA.HGU"
+msgstr ""
+
+msgid "IATA.HHE"
+msgstr ""
+
+msgid "IATA.HHI"
+msgstr ""
+
+msgid "IATA.HHN"
+msgstr ""
+
+msgid "IATA.HHQ"
+msgstr ""
+
+msgid "IATA.HHR"
+msgstr ""
+
+msgid "IATA.HIA"
+msgstr ""
+
+msgid "IATA.HIB"
+msgstr ""
+
+msgid "IATA.HID"
+msgstr ""
+
+msgid "IATA.HIF"
+msgstr ""
+
+msgid "IATA.HIJ"
+msgstr ""
+
+msgid "IATA.HIM"
+msgstr ""
+
+msgid "IATA.HIN"
+msgstr ""
+
+msgid "IATA.HIO"
+msgstr ""
+
+msgid "IATA.HIR"
+msgstr ""
+
+msgid "IATA.HJJ"
+msgstr ""
+
+msgid "IATA.HJR"
+msgstr ""
+
+msgid "IATA.HKD"
+msgstr ""
+
+msgid "IATA.HKG"
+msgstr ""
+
+msgid "IATA.HKK"
+msgstr ""
+
+msgid "IATA.HKN"
+msgstr ""
+
+msgid "IATA.HKT"
+msgstr ""
+
+msgid "IATA.HKY"
+msgstr ""
+
+msgid "IATA.HLA"
+msgstr ""
+
+msgid "IATA.HLD"
+msgstr ""
+
+msgid "IATA.HLG"
+msgstr ""
+
+msgid "IATA.HLN"
+msgstr ""
+
+msgid "IATA.HLP"
+msgstr ""
+
+msgid "IATA.HLR"
+msgstr ""
+
+msgid "IATA.HLT"
+msgstr ""
+
+msgid "IATA.HLZ"
+msgstr ""
+
+msgid "IATA.HMA"
+msgstr ""
+
+msgid "IATA.HMB"
+msgstr ""
+
+msgid "IATA.HME"
+msgstr ""
+
+msgid "IATA.HMI"
+msgstr ""
+
+msgid "IATA.HMJ"
+msgstr ""
+
+msgid "IATA.HMN"
+msgstr ""
+
+msgid "IATA.HMO"
+msgstr ""
+
+msgid "IATA.HMV"
+msgstr ""
+
+msgid "IATA.HNA"
+msgstr ""
+
+msgid "IATA.HND"
+msgstr ""
+
+msgid "IATA.HNL"
+msgstr ""
+
+msgid "IATA.HNM"
+msgstr ""
+
+msgid "IATA.HNS"
+msgstr ""
+
+msgid "IATA.HOB"
+msgstr ""
+
+msgid "IATA.HOD"
+msgstr ""
+
+msgid "IATA.HOF"
+msgstr ""
+
+msgid "IATA.HOG"
+msgstr ""
+
+msgid "IATA.HOI"
+msgstr ""
+
+msgid "IATA.HOM"
+msgstr ""
+
+msgid "IATA.HON"
+msgstr ""
+
+msgid "IATA.HOP"
+msgstr ""
+
+msgid "IATA.HOQ"
+msgstr ""
+
+msgid "IATA.HOR"
+msgstr ""
+
+msgid "IATA.HOT"
+msgstr ""
+
+msgid "IATA.HOU"
+msgstr ""
+
+msgid "IATA.HOV"
+msgstr ""
+
+msgid "IATA.HPA"
+msgstr ""
+
+msgid "IATA.HPB"
+msgstr ""
+
+msgid "IATA.HPG"
+msgstr ""
+
+msgid "IATA.HPH"
+msgstr ""
+
+msgid "IATA.HPN"
+msgstr ""
+
+msgid "IATA.HQM"
+msgstr ""
+
+msgid "IATA.HRB"
+msgstr ""
+
+msgid "IATA.HRE"
+msgstr ""
+
+msgid "IATA.HRG"
+msgstr ""
+
+msgid "IATA.HRI"
+msgstr ""
+
+msgid "IATA.HRK"
+msgstr ""
+
+msgid "IATA.HRL"
+msgstr ""
+
+msgid "IATA.HRM"
+msgstr ""
+
+msgid "IATA.HRO"
+msgstr ""
+
+msgid "IATA.HRS"
+msgstr ""
+
+msgid "IATA.HRT"
+msgstr ""
+
+msgid "IATA.HSC"
+msgstr ""
+
+msgid "IATA.HSG"
+msgstr ""
+
+msgid "IATA.HSL"
+msgstr ""
+
+msgid "IATA.HSM"
+msgstr ""
+
+msgid "IATA.HSS"
+msgstr ""
+
+msgid "IATA.HST"
+msgstr ""
+
+msgid "IATA.HSV"
+msgstr ""
+
+msgid "IATA.HSZ"
+msgstr ""
+
+msgid "IATA.HTA"
+msgstr ""
+
+msgid "IATA.HTG"
+msgstr ""
+
+msgid "IATA.HTI"
+msgstr ""
+
+msgid "IATA.HTN"
+msgstr ""
+
+msgid "IATA.HTS"
+msgstr ""
+
+msgid "IATA.HTT"
+msgstr ""
+
+msgid "IATA.HTU"
+msgstr ""
+
+msgid "IATA.HTV"
+msgstr ""
+
+msgid "IATA.HTY"
+msgstr ""
+
+msgid "IATA.HUA"
+msgstr ""
+
+msgid "IATA.HUF"
+msgstr ""
+
+msgid "IATA.HUH"
+msgstr ""
+
+msgid "IATA.HUI"
+msgstr ""
+
+msgid "IATA.HUL"
+msgstr ""
+
+msgid "IATA.HUN"
+msgstr ""
+
+msgid "IATA.HUO"
+msgstr ""
+
+msgid "IATA.HUT"
+msgstr ""
+
+msgid "IATA.HUU"
+msgstr ""
+
+msgid "IATA.HUX"
+msgstr ""
+
+msgid "IATA.HUY"
+msgstr ""
+
+msgid "IATA.HUZ"
+msgstr ""
+
+msgid "IATA.HVA"
+msgstr ""
+
+msgid "IATA.HVB"
+msgstr ""
+
+msgid "IATA.HVD"
+msgstr ""
+
+msgid "IATA.HVG"
+msgstr ""
+
+msgid "IATA.HVN"
+msgstr ""
+
+msgid "IATA.HVR"
+msgstr ""
+
+msgid "IATA.HWN"
+msgstr ""
+
+msgid "IATA.HXX"
+msgstr ""
+
+msgid "IATA.HYA"
+msgstr ""
+
+msgid "IATA.HYD"
+msgstr ""
+
+msgid "IATA.HYN"
+msgstr ""
+
+msgid "IATA.HYR"
+msgstr ""
+
+msgid "IATA.HYS"
+msgstr ""
+
+msgid "IATA.HZB"
+msgstr ""
+
+msgid "IATA.HZH"
+msgstr ""
+
+msgid "IATA.HZK"
+msgstr ""
+
+msgid "IATA.IAA"
+msgstr ""
+
+msgid "IATA.IAB"
+msgstr ""
+
+msgid "IATA.IAD"
+msgstr ""
+
+msgid "IATA.IAG"
+msgstr ""
+
+msgid "IATA.IAH"
+msgstr ""
+
+msgid "IATA.IAM"
+msgstr ""
+
+msgid "IATA.IAN"
+msgstr ""
+
+msgid "IATA.IAS"
+msgstr ""
+
+msgid "IATA.IBA"
+msgstr ""
+
+msgid "IATA.IBE"
+msgstr ""
+
+msgid "IATA.IBL"
+msgstr ""
+
+msgid "IATA.IBP"
+msgstr ""
+
+msgid "IATA.IBR"
+msgstr ""
+
+msgid "IATA.IBZ"
+msgstr ""
+
+msgid "IATA.ICN"
+msgstr ""
+
+msgid "IATA.ICT"
+msgstr ""
+
+msgid "IATA.IDA"
+msgstr ""
+
+msgid "IATA.IDR"
+msgstr ""
+
+msgid "IATA.IDY"
+msgstr ""
+
+msgid "IATA.IEG"
+msgstr ""
+
+msgid "IATA.IEJ"
+msgstr ""
+
+msgid "IATA.IEV"
+msgstr ""
+
+msgid "IATA.IFJ"
+msgstr ""
+
+msgid "IATA.IFN"
+msgstr ""
+
+msgid "IATA.IFO"
+msgstr ""
+
+msgid "IATA.IGA"
+msgstr ""
+
+msgid "IATA.IGD"
+msgstr ""
+
+msgid "IATA.IGL"
+msgstr ""
+
+msgid "IATA.IGR"
+msgstr ""
+
+msgid "IATA.IGS"
+msgstr ""
+
+msgid "IATA.IGT"
+msgstr ""
+
+msgid "IATA.IGU"
+msgstr ""
+
+msgid "IATA.IHR"
+msgstr ""
+
+msgid "IATA.IIL"
+msgstr ""
+
+msgid "IATA.IJK"
+msgstr ""
+
+msgid "IATA.IKA"
+msgstr ""
+
+msgid "IATA.IKI"
+msgstr ""
+
+msgid "IATA.IKK"
+msgstr ""
+
+msgid "IATA.IKS"
+msgstr ""
+
+msgid "IATA.IKT"
+msgstr ""
+
+msgid "IATA.IKU"
+msgstr ""
+
+msgid "IATA.ILD"
+msgstr ""
+
+msgid "IATA.ILF"
+msgstr ""
+
+msgid "IATA.ILG"
+msgstr ""
+
+msgid "IATA.ILI"
+msgstr ""
+
+msgid "IATA.ILM"
+msgstr ""
+
+msgid "IATA.ILN"
+msgstr ""
+
+msgid "IATA.ILO"
+msgstr ""
+
+msgid "IATA.ILP"
+msgstr ""
+
+msgid "IATA.ILQ"
+msgstr ""
+
+msgid "IATA.ILR"
+msgstr ""
+
+msgid "IATA.ILY"
+msgstr ""
+
+msgid "IATA.ILZ"
+msgstr ""
+
+msgid "IATA.IMF"
+msgstr ""
+
+msgid "IATA.IMP"
+msgstr ""
+
+msgid "IATA.INA"
+msgstr ""
+
+msgid "IATA.INC"
+msgstr ""
+
+msgid "IATA.IND"
+msgstr ""
+
+msgid "IATA.INH"
+msgstr ""
+
+msgid "IATA.INI"
+msgstr ""
+
+msgid "IATA.INK"
+msgstr ""
+
+msgid "IATA.INL"
+msgstr ""
+
+msgid "IATA.INN"
+msgstr ""
+
+msgid "IATA.INT"
+msgstr ""
+
+msgid "IATA.INU"
+msgstr ""
+
+msgid "IATA.INV"
+msgstr ""
+
+msgid "IATA.INW"
+msgstr ""
+
+msgid "IATA.INZ"
+msgstr ""
+
+msgid "IATA.IOA"
+msgstr ""
+
+msgid "IATA.IOM"
+msgstr ""
+
+msgid "IATA.IOS"
+msgstr ""
+
+msgid "IATA.IPC"
+msgstr ""
+
+msgid "IATA.IPH"
+msgstr ""
+
+msgid "IATA.IPI"
+msgstr ""
+
+msgid "IATA.IPL"
+msgstr ""
+
+msgid "IATA.IPN"
+msgstr ""
+
+msgid "IATA.IPT"
+msgstr ""
+
+msgid "IATA.IQA"
+msgstr ""
+
+msgid "IATA.IQM"
+msgstr ""
+
+msgid "IATA.IQN"
+msgstr ""
+
+msgid "IATA.IQQ"
+msgstr ""
+
+msgid "IATA.IQT"
+msgstr ""
+
+msgid "IATA.IRD"
+msgstr ""
+
+msgid "IATA.IRG"
+msgstr ""
+
+msgid "IATA.IRI"
+msgstr ""
+
+msgid "IATA.IRJ"
+msgstr ""
+
+msgid "IATA.IRK"
+msgstr ""
+
+msgid "IATA.IRP"
+msgstr ""
+
+msgid "IATA.ISA"
+msgstr ""
+
+msgid "IATA.ISB"
+msgstr ""
+
+msgid "IATA.ISC"
+msgstr ""
+
+msgid "IATA.ISE"
+msgstr ""
+
+msgid "IATA.ISG"
+msgstr ""
+
+msgid "IATA.ISK"
+msgstr ""
+
+msgid "IATA.ISL"
+msgstr ""
+
+msgid "IATA.ISM"
+msgstr ""
+
+msgid "IATA.ISN"
+msgstr ""
+
+msgid "IATA.ISO"
+msgstr ""
+
+msgid "IATA.ISP"
+msgstr ""
+
+msgid "IATA.IST"
+msgstr ""
+
+msgid "IATA.ISU"
+msgstr ""
+
+msgid "IATA.ITA"
+msgstr ""
+
+msgid "IATA.ITB"
+msgstr ""
+
+msgid "IATA.ITH"
+msgstr ""
+
+msgid "IATA.ITM"
+msgstr ""
+
+msgid "IATA.ITO"
+msgstr ""
+
+msgid "IATA.IUE"
+msgstr ""
+
+msgid "IATA.IVC"
+msgstr ""
+
+msgid "IATA.IVL"
+msgstr ""
+
+msgid "IATA.IVR"
+msgstr ""
+
+msgid "IATA.IWA"
+msgstr ""
+
+msgid "IATA.IWJ"
+msgstr ""
+
+msgid "IATA.IWK"
+msgstr ""
+
+msgid "IATA.IWO"
+msgstr ""
+
+msgid "IATA.IXA"
+msgstr ""
+
+msgid "IATA.IXB"
+msgstr ""
+
+msgid "IATA.IXC"
+msgstr ""
+
+msgid "IATA.IXD"
+msgstr ""
+
+msgid "IATA.IXE"
+msgstr ""
+
+msgid "IATA.IXG"
+msgstr ""
+
+msgid "IATA.IXH"
+msgstr ""
+
+msgid "IATA.IXI"
+msgstr ""
+
+msgid "IATA.IXJ"
+msgstr ""
+
+msgid "IATA.IXK"
+msgstr ""
+
+msgid "IATA.IXL"
+msgstr ""
+
+msgid "IATA.IXM"
+msgstr ""
+
+msgid "IATA.IXP"
+msgstr ""
+
+msgid "IATA.IXR"
+msgstr ""
+
+msgid "IATA.IXS"
+msgstr ""
+
+msgid "IATA.IXU"
+msgstr ""
+
+msgid "IATA.IXV"
+msgstr ""
+
+msgid "IATA.IXW"
+msgstr ""
+
+msgid "IATA.IXX"
+msgstr ""
+
+msgid "IATA.IXY"
+msgstr ""
+
+msgid "IATA.IXZ"
+msgstr ""
+
+msgid "IATA.IZA"
+msgstr ""
+
+msgid "IATA.IZO"
+msgstr ""
+
+msgid "IATA.IZT"
+msgstr ""
+
+msgid "IATA.JAA"
+msgstr ""
+
+msgid "IATA.JAC"
+msgstr ""
+
+msgid "IATA.JAD"
+msgstr ""
+
+msgid "IATA.JAE"
+msgstr ""
+
+msgid "IATA.JAF"
+msgstr ""
+
+msgid "IATA.JAG"
+msgstr ""
+
+msgid "IATA.JAI"
+msgstr ""
+
+msgid "IATA.JAK"
+msgstr ""
+
+msgid "IATA.JAL"
+msgstr ""
+
+msgid "IATA.JAM"
+msgstr ""
+
+msgid "IATA.JAN"
+msgstr ""
+
+msgid "IATA.JAU"
+msgstr ""
+
+msgid "IATA.JAX"
+msgstr ""
+
+msgid "IATA.JBQ"
+msgstr ""
+
+msgid "IATA.JBR"
+msgstr ""
+
+msgid "IATA.JCR"
+msgstr ""
+
+msgid "IATA.JCT"
+msgstr ""
+
+msgid "IATA.JDF"
+msgstr ""
+
+msgid "IATA.JDG"
+msgstr ""
+
+msgid "IATA.JDH"
+msgstr ""
+
+msgid "IATA.JDZ"
+msgstr ""
+
+msgid "IATA.JED"
+msgstr ""
+
+msgid "IATA.JEE"
+msgstr ""
+
+msgid "IATA.JEG"
+msgstr ""
+
+msgid "IATA.JER"
+msgstr ""
+
+msgid "IATA.JFK"
+msgstr ""
+
+msgid "IATA.JGA"
+msgstr ""
+
+msgid "IATA.JGD"
+msgstr ""
+
+msgid "IATA.JGN"
+msgstr ""
+
+msgid "IATA.JGS"
+msgstr ""
+
+msgid "IATA.JHB"
+msgstr ""
+
+msgid "IATA.JHG"
+msgstr ""
+
+msgid "IATA.JHM"
+msgstr ""
+
+msgid "IATA.JHW"
+msgstr ""
+
+msgid "IATA.JIB"
+msgstr ""
+
+msgid "IATA.JIJ"
+msgstr ""
+
+msgid "IATA.JIM"
+msgstr ""
+
+msgid "IATA.JIQ"
+msgstr ""
+
+msgid "IATA.JJD"
+msgstr ""
+
+msgid "IATA.JJI"
+msgstr ""
+
+msgid "IATA.JJN"
+msgstr ""
+
+msgid "IATA.JKG"
+msgstr ""
+
+msgid "IATA.JKH"
+msgstr ""
+
+msgid "IATA.JKR"
+msgstr ""
+
+msgid "IATA.JLN"
+msgstr ""
+
+msgid "IATA.JLR"
+msgstr ""
+
+msgid "IATA.JMJ"
+msgstr ""
+
+msgid "IATA.JMK"
+msgstr ""
+
+msgid "IATA.JMS"
+msgstr ""
+
+msgid "IATA.JMU"
+msgstr ""
+
+msgid "IATA.JNB"
+msgstr ""
+
+msgid "IATA.JNG"
+msgstr ""
+
+msgid "IATA.JNU"
+msgstr ""
+
+msgid "IATA.JNZ"
+msgstr ""
+
+msgid "IATA.JOE"
+msgstr ""
+
+msgid "IATA.JOH"
+msgstr ""
+
+msgid "IATA.JOI"
+msgstr ""
+
+msgid "IATA.JOK"
+msgstr ""
+
+msgid "IATA.JOL"
+msgstr ""
+
+msgid "IATA.JOS"
+msgstr ""
+
+msgid "IATA.JPA"
+msgstr ""
+
+msgid "IATA.JRF"
+msgstr ""
+
+msgid "IATA.JRH"
+msgstr ""
+
+msgid "IATA.JRO"
+msgstr ""
+
+msgid "IATA.JSA"
+msgstr ""
+
+msgid "IATA.JSH"
+msgstr ""
+
+msgid "IATA.JSI"
+msgstr ""
+
+msgid "IATA.JSJ"
+msgstr ""
+
+msgid "IATA.JSR"
+msgstr ""
+
+msgid "IATA.JST"
+msgstr ""
+
+msgid "IATA.JTC"
+msgstr ""
+
+msgid "IATA.JTR"
+msgstr ""
+
+msgid "IATA.JUB"
+msgstr ""
+
+msgid "IATA.JUJ"
+msgstr ""
+
+msgid "IATA.JUL"
+msgstr ""
+
+msgid "IATA.JUZ"
+msgstr ""
+
+msgid "IATA.JWA"
+msgstr ""
+
+msgid "IATA.JWN"
+msgstr ""
+
+msgid "IATA.JXA"
+msgstr ""
+
+msgid "IATA.JXN"
+msgstr ""
+
+msgid "IATA.JYR"
+msgstr ""
+
+msgid "IATA.JYV"
+msgstr ""
+
+msgid "IATA.JZH"
+msgstr ""
+
+msgid "IATA.KAB"
+msgstr ""
+
+msgid "IATA.KAC"
+msgstr ""
+
+msgid "IATA.KAD"
+msgstr ""
+
+msgid "IATA.KAG"
+msgstr ""
+
+msgid "IATA.KAI"
+msgstr ""
+
+msgid "IATA.KAJ"
+msgstr ""
+
+msgid "IATA.KAN"
+msgstr ""
+
+msgid "IATA.KAO"
+msgstr ""
+
+msgid "IATA.KAT"
+msgstr ""
+
+msgid "IATA.KAU"
+msgstr ""
+
+msgid "IATA.KAW"
+msgstr ""
+
+msgid "IATA.KBL"
+msgstr ""
+
+msgid "IATA.KBP"
+msgstr ""
+
+msgid "IATA.KBR"
+msgstr ""
+
+msgid "IATA.KBS"
+msgstr ""
+
+msgid "IATA.KBV"
+msgstr ""
+
+msgid "IATA.KCH"
+msgstr ""
+
+msgid "IATA.KCM"
+msgstr ""
+
+msgid "IATA.KCO"
+msgstr ""
+
+msgid "IATA.KCT"
+msgstr ""
+
+msgid "IATA.KCZ"
+msgstr ""
+
+msgid "IATA.KDH"
+msgstr ""
+
+msgid "IATA.KDL"
+msgstr ""
+
+msgid "IATA.KDM"
+msgstr ""
+
+msgid "IATA.KDO"
+msgstr ""
+
+msgid "IATA.KDT"
+msgstr ""
+
+msgid "IATA.KDU"
+msgstr ""
+
+msgid "IATA.KEF"
+msgstr ""
+
+msgid "IATA.KEJ"
+msgstr ""
+
+msgid "IATA.KEL"
+msgstr ""
+
+msgid "IATA.KEM"
+msgstr ""
+
+msgid "IATA.KEN"
+msgstr ""
+
+msgid "IATA.KEP"
+msgstr ""
+
+msgid "IATA.KER"
+msgstr ""
+
+msgid "IATA.KES"
+msgstr ""
+
+msgid "IATA.KET"
+msgstr ""
+
+msgid "IATA.KEV"
+msgstr ""
+
+msgid "IATA.KGA"
+msgstr ""
+
+msgid "IATA.KGC"
+msgstr ""
+
+msgid "IATA.KGD"
+msgstr ""
+
+msgid "IATA.KGF"
+msgstr ""
+
+msgid "IATA.KGG"
+msgstr ""
+
+msgid "IATA.KGI"
+msgstr ""
+
+msgid "IATA.KGJ"
+msgstr ""
+
+msgid "IATA.KGL"
+msgstr ""
+
+msgid "IATA.KGP"
+msgstr ""
+
+msgid "IATA.KGS"
+msgstr ""
+
+msgid "IATA.KGT"
+msgstr ""
+
+msgid "IATA.KGY"
+msgstr ""
+
+msgid "IATA.KHD"
+msgstr ""
+
+msgid "IATA.KHG"
+msgstr ""
+
+msgid "IATA.KHH"
+msgstr ""
+
+msgid "IATA.KHI"
+msgstr ""
+
+msgid "IATA.KHJ"
+msgstr ""
+
+msgid "IATA.KHK"
+msgstr ""
+
+msgid "IATA.KHN"
+msgstr ""
+
+msgid "IATA.KHS"
+msgstr ""
+
+msgid "IATA.KHV"
+msgstr ""
+
+msgid "IATA.KID"
+msgstr ""
+
+msgid "IATA.KIH"
+msgstr ""
+
+msgid "IATA.KIJ"
+msgstr ""
+
+msgid "IATA.KIK"
+msgstr ""
+
+msgid "IATA.KIM"
+msgstr ""
+
+msgid "IATA.KIN"
+msgstr ""
+
+msgid "IATA.KIR"
+msgstr ""
+
+msgid "IATA.KIS"
+msgstr ""
+
+msgid "IATA.KIV"
+msgstr ""
+
+msgid "IATA.KIW"
+msgstr ""
+
+msgid "IATA.KIX"
+msgstr ""
+
+msgid "IATA.KJA"
+msgstr ""
+
+msgid "IATA.KJH"
+msgstr ""
+
+msgid "IATA.KJI"
+msgstr ""
+
+msgid "IATA.KJK"
+msgstr ""
+
+msgid "IATA.KJT"
+msgstr ""
+
+msgid "IATA.KKC"
+msgstr ""
+
+msgid "IATA.KKE"
+msgstr ""
+
+msgid "IATA.KKJ"
+msgstr ""
+
+msgid "IATA.KKN"
+msgstr ""
+
+msgid "IATA.KKR"
+msgstr ""
+
+msgid "IATA.KKS"
+msgstr ""
+
+msgid "IATA.KKW"
+msgstr ""
+
+msgid "IATA.KKX"
+msgstr ""
+
+msgid "IATA.KLC"
+msgstr ""
+
+msgid "IATA.KLD"
+msgstr ""
+
+msgid "IATA.KLF"
+msgstr ""
+
+msgid "IATA.KLH"
+msgstr ""
+
+msgid "IATA.KLO"
+msgstr ""
+
+msgid "IATA.KLR"
+msgstr ""
+
+msgid "IATA.KLS"
+msgstr ""
+
+msgid "IATA.KLU"
+msgstr ""
+
+msgid "IATA.KLV"
+msgstr ""
+
+msgid "IATA.KLW"
+msgstr ""
+
+msgid "IATA.KLX"
+msgstr ""
+
+msgid "IATA.KLZ"
+msgstr ""
+
+msgid "IATA.KMA"
+msgstr ""
+
+msgid "IATA.KMC"
+msgstr ""
+
+msgid "IATA.KME"
+msgstr ""
+
+msgid "IATA.KMG"
+msgstr ""
+
+msgid "IATA.KMH"
+msgstr ""
+
+msgid "IATA.KMI"
+msgstr ""
+
+msgid "IATA.KMJ"
+msgstr ""
+
+msgid "IATA.KMN"
+msgstr ""
+
+msgid "IATA.KMP"
+msgstr ""
+
+msgid "IATA.KMQ"
+msgstr ""
+
+msgid "IATA.KMS"
+msgstr ""
+
+msgid "IATA.KMU"
+msgstr ""
+
+msgid "IATA.KMW"
+msgstr ""
+
+msgid "IATA.KMX"
+msgstr ""
+
+msgid "IATA.KNA"
+msgstr ""
+
+msgid "IATA.KND"
+msgstr ""
+
+msgid "IATA.KNF"
+msgstr ""
+
+msgid "IATA.KNG"
+msgstr ""
+
+msgid "IATA.KNH"
+msgstr ""
+
+msgid "IATA.KNO"
+msgstr ""
+
+msgid "IATA.KNQ"
+msgstr ""
+
+msgid "IATA.KNR"
+msgstr ""
+
+msgid "IATA.KNS"
+msgstr ""
+
+msgid "IATA.KNU"
+msgstr ""
+
+msgid "IATA.KNX"
+msgstr ""
+
+msgid "IATA.KOA"
+msgstr ""
+
+msgid "IATA.KOC"
+msgstr ""
+
+msgid "IATA.KOI"
+msgstr ""
+
+msgid "IATA.KOJ"
+msgstr ""
+
+msgid "IATA.KOK"
+msgstr ""
+
+msgid "IATA.KON"
+msgstr ""
+
+msgid "IATA.KOP"
+msgstr ""
+
+msgid "IATA.KOU"
+msgstr ""
+
+msgid "IATA.KOV"
+msgstr ""
+
+msgid "IATA.KPC"
+msgstr ""
+
+msgid "IATA.KPO"
+msgstr ""
+
+msgid "IATA.KPS"
+msgstr ""
+
+msgid "IATA.KPW"
+msgstr ""
+
+msgid "IATA.KQH"
+msgstr ""
+
+msgid "IATA.KQT"
+msgstr ""
+
+msgid "IATA.KRA"
+msgstr ""
+
+msgid "IATA.KRF"
+msgstr ""
+
+msgid "IATA.KRK"
+msgstr ""
+
+msgid "IATA.KRL"
+msgstr ""
+
+msgid "IATA.KRN"
+msgstr ""
+
+msgid "IATA.KRO"
+msgstr ""
+
+msgid "IATA.KRP"
+msgstr ""
+
+msgid "IATA.KRR"
+msgstr ""
+
+msgid "IATA.KRS"
+msgstr ""
+
+msgid "IATA.KRT"
+msgstr ""
+
+msgid "IATA.KRW"
+msgstr ""
+
+msgid "IATA.KSA"
+msgstr ""
+
+msgid "IATA.KSC"
+msgstr ""
+
+msgid "IATA.KSD"
+msgstr ""
+
+msgid "IATA.KSF"
+msgstr ""
+
+msgid "IATA.KSH"
+msgstr ""
+
+msgid "IATA.KSK"
+msgstr ""
+
+msgid "IATA.KSL"
+msgstr ""
+
+msgid "IATA.KSM"
+msgstr ""
+
+msgid "IATA.KSN"
+msgstr ""
+
+msgid "IATA.KSU"
+msgstr ""
+
+msgid "IATA.KSY"
+msgstr ""
+
+msgid "IATA.KSZ"
+msgstr ""
+
+msgid "IATA.KTA"
+msgstr ""
+
+msgid "IATA.KTD"
+msgstr ""
+
+msgid "IATA.KTE"
+msgstr ""
+
+msgid "IATA.KTG"
+msgstr ""
+
+msgid "IATA.KTL"
+msgstr ""
+
+msgid "IATA.KTM"
+msgstr ""
+
+msgid "IATA.KTN"
+msgstr ""
+
+msgid "IATA.KTP"
+msgstr ""
+
+msgid "IATA.KTQ"
+msgstr ""
+
+msgid "IATA.KTR"
+msgstr ""
+
+msgid "IATA.KTT"
+msgstr ""
+
+msgid "IATA.KTU"
+msgstr ""
+
+msgid "IATA.KTW"
+msgstr ""
+
+msgid "IATA.KUA"
+msgstr ""
+
+msgid "IATA.KUF"
+msgstr ""
+
+msgid "IATA.KUH"
+msgstr ""
+
+msgid "IATA.KUL"
+msgstr ""
+
+msgid "IATA.KUM"
+msgstr ""
+
+msgid "IATA.KUN"
+msgstr ""
+
+msgid "IATA.KUO"
+msgstr ""
+
+msgid "IATA.KUT"
+msgstr ""
+
+msgid "IATA.KUU"
+msgstr ""
+
+msgid "IATA.KUV"
+msgstr ""
+
+msgid "IATA.KVA"
+msgstr ""
+
+msgid "IATA.KVB"
+msgstr ""
+
+msgid "IATA.KVD"
+msgstr ""
+
+msgid "IATA.KVG"
+msgstr ""
+
+msgid "IATA.KVL"
+msgstr ""
+
+msgid "IATA.KVX"
+msgstr ""
+
+msgid "IATA.KWA"
+msgstr ""
+
+msgid "IATA.KWE"
+msgstr ""
+
+msgid "IATA.KWG"
+msgstr ""
+
+msgid "IATA.KWI"
+msgstr ""
+
+msgid "IATA.KWJ"
+msgstr ""
+
+msgid "IATA.KWL"
+msgstr ""
+
+msgid "IATA.KWM"
+msgstr ""
+
+msgid "IATA.KWY"
+msgstr ""
+
+msgid "IATA.KWZ"
+msgstr ""
+
+msgid "IATA.KXE"
+msgstr ""
+
+msgid "IATA.KXK"
+msgstr ""
+
+msgid "IATA.KYA"
+msgstr ""
+
+msgid "IATA.KYD"
+msgstr ""
+
+msgid "IATA.KYE"
+msgstr ""
+
+msgid "IATA.KYP"
+msgstr ""
+
+msgid "IATA.KYS"
+msgstr ""
+
+msgid "IATA.KYZ"
+msgstr ""
+
+msgid "IATA.KZC"
+msgstr ""
+
+msgid "IATA.KZI"
+msgstr ""
+
+msgid "IATA.KZN"
+msgstr ""
+
+msgid "IATA.LAD"
+msgstr ""
+
+msgid "IATA.LAE"
+msgstr ""
+
+msgid "IATA.LAF"
+msgstr ""
+
+msgid "IATA.LAI"
+msgstr ""
+
+msgid "IATA.LAJ"
+msgstr ""
+
+msgid "IATA.LAK"
+msgstr ""
+
+msgid "IATA.LAL"
+msgstr ""
+
+msgid "IATA.LAN"
+msgstr ""
+
+msgid "IATA.LAO"
+msgstr ""
+
+msgid "IATA.LAP"
+msgstr ""
+
+msgid "IATA.LAQ"
+msgstr ""
+
+msgid "IATA.LAR"
+msgstr ""
+
+msgid "IATA.LAS"
+msgstr ""
+
+msgid "IATA.LAU"
+msgstr ""
+
+msgid "IATA.LAW"
+msgstr ""
+
+msgid "IATA.LAX"
+msgstr ""
+
+msgid "IATA.LAY"
+msgstr ""
+
+msgid "IATA.LAZ"
+msgstr ""
+
+msgid "IATA.LBA"
+msgstr ""
+
+msgid "IATA.LBB"
+msgstr ""
+
+msgid "IATA.LBC"
+msgstr ""
+
+msgid "IATA.LBD"
+msgstr ""
+
+msgid "IATA.LBE"
+msgstr ""
+
+msgid "IATA.LBF"
+msgstr ""
+
+msgid "IATA.LBG"
+msgstr ""
+
+msgid "IATA.LBI"
+msgstr ""
+
+msgid "IATA.LBL"
+msgstr ""
+
+msgid "IATA.LBQ"
+msgstr ""
+
+msgid "IATA.LBS"
+msgstr ""
+
+msgid "IATA.LBT"
+msgstr ""
+
+msgid "IATA.LBU"
+msgstr ""
+
+msgid "IATA.LBV"
+msgstr ""
+
+msgid "IATA.LBX"
+msgstr ""
+
+msgid "IATA.LBY"
+msgstr ""
+
+msgid "IATA.LCA"
+msgstr ""
+
+msgid "IATA.LCC"
+msgstr ""
+
+msgid "IATA.LCE"
+msgstr ""
+
+msgid "IATA.LCG"
+msgstr ""
+
+msgid "IATA.LCH"
+msgstr ""
+
+msgid "IATA.LCJ"
+msgstr ""
+
+msgid "IATA.LCK"
+msgstr ""
+
+msgid "IATA.LCL"
+msgstr ""
+
+msgid "IATA.LCX"
+msgstr ""
+
+msgid "IATA.LCY"
+msgstr ""
+
+msgid "IATA.LDB"
+msgstr ""
+
+msgid "IATA.LDE"
+msgstr ""
+
+msgid "IATA.LDS"
+msgstr ""
+
+msgid "IATA.LDU"
+msgstr ""
+
+msgid "IATA.LDV"
+msgstr ""
+
+msgid "IATA.LDY"
+msgstr ""
+
+msgid "IATA.LEA"
+msgstr ""
+
+msgid "IATA.LEB"
+msgstr ""
+
+msgid "IATA.LED"
+msgstr ""
+
+msgid "IATA.LEE"
+msgstr ""
+
+msgid "IATA.LEH"
+msgstr ""
+
+msgid "IATA.LEI"
+msgstr ""
+
+msgid "IATA.LEJ"
+msgstr ""
+
+msgid "IATA.LEN"
+msgstr ""
+
+msgid "IATA.LEQ"
+msgstr ""
+
+msgid "IATA.LER"
+msgstr ""
+
+msgid "IATA.LET"
+msgstr ""
+
+msgid "IATA.LEX"
+msgstr ""
+
+msgid "IATA.LEY"
+msgstr ""
+
+msgid "IATA.LFI"
+msgstr ""
+
+msgid "IATA.LFK"
+msgstr ""
+
+msgid "IATA.LFQ"
+msgstr ""
+
+msgid "IATA.LFR"
+msgstr ""
+
+msgid "IATA.LFT"
+msgstr ""
+
+msgid "IATA.LFW"
+msgstr ""
+
+msgid "IATA.LGA"
+msgstr ""
+
+msgid "IATA.LGB"
+msgstr ""
+
+msgid "IATA.LGG"
+msgstr ""
+
+msgid "IATA.LGH"
+msgstr ""
+
+msgid "IATA.LGI"
+msgstr ""
+
+msgid "IATA.LGK"
+msgstr ""
+
+msgid "IATA.LGP"
+msgstr ""
+
+msgid "IATA.LGR"
+msgstr ""
+
+msgid "IATA.LGS"
+msgstr ""
+
+msgid "IATA.LGU"
+msgstr ""
+
+msgid "IATA.LGW"
+msgstr ""
+
+msgid "IATA.LHA"
+msgstr ""
+
+msgid "IATA.LHE"
+msgstr ""
+
+msgid "IATA.LHG"
+msgstr ""
+
+msgid "IATA.LHK"
+msgstr ""
+
+msgid "IATA.LHR"
+msgstr ""
+
+msgid "IATA.LHS"
+msgstr ""
+
+msgid "IATA.LHW"
+msgstr ""
+
+msgid "IATA.LIF"
+msgstr ""
+
+msgid "IATA.LIG"
+msgstr ""
+
+msgid "IATA.LIH"
+msgstr ""
+
+msgid "IATA.LIL"
+msgstr ""
+
+msgid "IATA.LIM"
+msgstr ""
+
+msgid "IATA.LIN"
+msgstr ""
+
+msgid "IATA.LIO"
+msgstr ""
+
+msgid "IATA.LIP"
+msgstr ""
+
+msgid "IATA.LIQ"
+msgstr ""
+
+msgid "IATA.LIR"
+msgstr ""
+
+msgid "IATA.LIS"
+msgstr ""
+
+msgid "IATA.LIT"
+msgstr ""
+
+msgid "IATA.LIW"
+msgstr ""
+
+msgid "IATA.LJG"
+msgstr ""
+
+msgid "IATA.LJN"
+msgstr ""
+
+msgid "IATA.LJU"
+msgstr ""
+
+msgid "IATA.LKG"
+msgstr ""
+
+msgid "IATA.LKL"
+msgstr ""
+
+msgid "IATA.LKN"
+msgstr ""
+
+msgid "IATA.LKO"
+msgstr ""
+
+msgid "IATA.LKY"
+msgstr ""
+
+msgid "IATA.LKZ"
+msgstr ""
+
+msgid "IATA.LLA"
+msgstr ""
+
+msgid "IATA.LLE"
+msgstr ""
+
+msgid "IATA.LLF"
+msgstr ""
+
+msgid "IATA.LLV"
+msgstr ""
+
+msgid "IATA.LLW"
+msgstr ""
+
+msgid "IATA.LME"
+msgstr ""
+
+msgid "IATA.LMM"
+msgstr ""
+
+msgid "IATA.LMN"
+msgstr ""
+
+msgid "IATA.LMO"
+msgstr ""
+
+msgid "IATA.LMP"
+msgstr ""
+
+msgid "IATA.LMQ"
+msgstr ""
+
+msgid "IATA.LMR"
+msgstr ""
+
+msgid "IATA.LMT"
+msgstr ""
+
+msgid "IATA.LND"
+msgstr ""
+
+msgid "IATA.LNJ"
+msgstr ""
+
+msgid "IATA.LNK"
+msgstr ""
+
+msgid "IATA.LNL"
+msgstr ""
+
+msgid "IATA.LNO"
+msgstr ""
+
+msgid "IATA.LNS"
+msgstr ""
+
+msgid "IATA.LNX"
+msgstr ""
+
+msgid "IATA.LNY"
+msgstr ""
+
+msgid "IATA.LNZ"
+msgstr ""
+
+msgid "IATA.LOE"
+msgstr ""
+
+msgid "IATA.LOK"
+msgstr ""
+
+msgid "IATA.LOL"
+msgstr ""
+
+msgid "IATA.LOO"
+msgstr ""
+
+msgid "IATA.LOP"
+msgstr ""
+
+msgid "IATA.LOS"
+msgstr ""
+
+msgid "IATA.LOU"
+msgstr ""
+
+msgid "IATA.LOV"
+msgstr ""
+
+msgid "IATA.LOZ"
+msgstr ""
+
+msgid "IATA.LPA"
+msgstr ""
+
+msgid "IATA.LPB"
+msgstr ""
+
+msgid "IATA.LPF"
+msgstr ""
+
+msgid "IATA.LPG"
+msgstr ""
+
+msgid "IATA.LPI"
+msgstr ""
+
+msgid "IATA.LPK"
+msgstr ""
+
+msgid "IATA.LPL"
+msgstr ""
+
+msgid "IATA.LPP"
+msgstr ""
+
+msgid "IATA.LPQ"
+msgstr ""
+
+msgid "IATA.LPT"
+msgstr ""
+
+msgid "IATA.LPX"
+msgstr ""
+
+msgid "IATA.LPY"
+msgstr ""
+
+msgid "IATA.LRD"
+msgstr ""
+
+msgid "IATA.LRE"
+msgstr ""
+
+msgid "IATA.LRF"
+msgstr ""
+
+msgid "IATA.LRH"
+msgstr ""
+
+msgid "IATA.LRL"
+msgstr ""
+
+msgid "IATA.LRM"
+msgstr ""
+
+msgid "IATA.LRR"
+msgstr ""
+
+msgid "IATA.LRT"
+msgstr ""
+
+msgid "IATA.LRU"
+msgstr ""
+
+msgid "IATA.LSC"
+msgstr ""
+
+msgid "IATA.LSE"
+msgstr ""
+
+msgid "IATA.LSF"
+msgstr ""
+
+msgid "IATA.LSH"
+msgstr ""
+
+msgid "IATA.LSI"
+msgstr ""
+
+msgid "IATA.LSL"
+msgstr ""
+
+msgid "IATA.LSP"
+msgstr ""
+
+msgid "IATA.LST"
+msgstr ""
+
+msgid "IATA.LSV"
+msgstr ""
+
+msgid "IATA.LSX"
+msgstr ""
+
+msgid "IATA.LSY"
+msgstr ""
+
+msgid "IATA.LTA"
+msgstr ""
+
+msgid "IATA.LTD"
+msgstr ""
+
+msgid "IATA.LTI"
+msgstr ""
+
+msgid "IATA.LTK"
+msgstr ""
+
+msgid "IATA.LTM"
+msgstr ""
+
+msgid "IATA.LTN"
+msgstr ""
+
+msgid "IATA.LTO"
+msgstr ""
+
+msgid "IATA.LTQ"
+msgstr ""
+
+msgid "IATA.LTS"
+msgstr ""
+
+msgid "IATA.LTU"
+msgstr ""
+
+msgid "IATA.LTX"
+msgstr ""
+
+msgid "IATA.LUD"
+msgstr ""
+
+msgid "IATA.LUF"
+msgstr ""
+
+msgid "IATA.LUG"
+msgstr ""
+
+msgid "IATA.LUH"
+msgstr ""
+
+msgid "IATA.LUK"
+msgstr ""
+
+msgid "IATA.LUM"
+msgstr ""
+
+msgid "IATA.LUN"
+msgstr ""
+
+msgid "IATA.LUO"
+msgstr ""
+
+msgid "IATA.LUQ"
+msgstr ""
+
+msgid "IATA.LUR"
+msgstr ""
+
+msgid "IATA.LUV"
+msgstr ""
+
+msgid "IATA.LUW"
+msgstr ""
+
+msgid "IATA.LUX"
+msgstr ""
+
+msgid "IATA.LUZ"
+msgstr ""
+
+msgid "IATA.LVA"
+msgstr ""
+
+msgid "IATA.LVI"
+msgstr ""
+
+msgid "IATA.LVM"
+msgstr ""
+
+msgid "IATA.LVP"
+msgstr ""
+
+msgid "IATA.LVS"
+msgstr ""
+
+msgid "IATA.LWB"
+msgstr ""
+
+msgid "IATA.LWM"
+msgstr ""
+
+msgid "IATA.LWN"
+msgstr ""
+
+msgid "IATA.LWO"
+msgstr ""
+
+msgid "IATA.LWR"
+msgstr ""
+
+msgid "IATA.LWS"
+msgstr ""
+
+msgid "IATA.LWT"
+msgstr ""
+
+msgid "IATA.LXA"
+msgstr ""
+
+msgid "IATA.LXR"
+msgstr ""
+
+msgid "IATA.LYB"
+msgstr ""
+
+msgid "IATA.LYC"
+msgstr ""
+
+msgid "IATA.LYH"
+msgstr ""
+
+msgid "IATA.LYN"
+msgstr ""
+
+msgid "IATA.LYP"
+msgstr ""
+
+msgid "IATA.LYR"
+msgstr ""
+
+msgid "IATA.LYS"
+msgstr ""
+
+msgid "IATA.LYU"
+msgstr ""
+
+msgid "IATA.LYX"
+msgstr ""
+
+msgid "IATA.LZC"
+msgstr ""
+
+msgid "IATA.LZH"
+msgstr ""
+
+msgid "IATA.LZN"
+msgstr ""
+
+msgid "IATA.LZY"
+msgstr ""
+
+msgid "IATA.MAA"
+msgstr ""
+
+msgid "IATA.MAB"
+msgstr ""
+
+msgid "IATA.MAD"
+msgstr ""
+
+msgid "IATA.MAF"
+msgstr ""
+
+msgid "IATA.MAG"
+msgstr ""
+
+msgid "IATA.MAH"
+msgstr ""
+
+msgid "IATA.MAI"
+msgstr ""
+
+msgid "IATA.MAJ"
+msgstr ""
+
+msgid "IATA.MAK"
+msgstr ""
+
+msgid "IATA.MAM"
+msgstr ""
+
+msgid "IATA.MAN"
+msgstr ""
+
+msgid "IATA.MAO"
+msgstr ""
+
+msgid "IATA.MAQ"
+msgstr ""
+
+msgid "IATA.MAR"
+msgstr ""
+
+msgid "IATA.MAS"
+msgstr ""
+
+msgid "IATA.MAU"
+msgstr ""
+
+msgid "IATA.MAX"
+msgstr ""
+
+msgid "IATA.MAY"
+msgstr ""
+
+msgid "IATA.MAZ"
+msgstr ""
+
+msgid "IATA.MBA"
+msgstr ""
+
+msgid "IATA.MBD"
+msgstr ""
+
+msgid "IATA.MBE"
+msgstr ""
+
+msgid "IATA.MBG"
+msgstr ""
+
+msgid "IATA.MBI"
+msgstr ""
+
+msgid "IATA.MBJ"
+msgstr ""
+
+msgid "IATA.MBO"
+msgstr ""
+
+msgid "IATA.MBS"
+msgstr ""
+
+msgid "IATA.MBT"
+msgstr ""
+
+msgid "IATA.MBW"
+msgstr ""
+
+msgid "IATA.MBX"
+msgstr ""
+
+msgid "IATA.MCB"
+msgstr ""
+
+msgid "IATA.MCC"
+msgstr ""
+
+msgid "IATA.MCE"
+msgstr ""
+
+msgid "IATA.MCF"
+msgstr ""
+
+msgid "IATA.MCG"
+msgstr ""
+
+msgid "IATA.MCH"
+msgstr ""
+
+msgid "IATA.MCI"
+msgstr ""
+
+msgid "IATA.MCJ"
+msgstr ""
+
+msgid "IATA.MCK"
+msgstr ""
+
+msgid "IATA.MCN"
+msgstr ""
+
+msgid "IATA.MCO"
+msgstr ""
+
+msgid "IATA.MCP"
+msgstr ""
+
+msgid "IATA.MCS"
+msgstr ""
+
+msgid "IATA.MCT"
+msgstr ""
+
+msgid "IATA.MCU"
+msgstr ""
+
+msgid "IATA.MCW"
+msgstr ""
+
+msgid "IATA.MCX"
+msgstr ""
+
+msgid "IATA.MCY"
+msgstr ""
+
+msgid "IATA.MCZ"
+msgstr ""
+
+msgid "IATA.MDC"
+msgstr ""
+
+msgid "IATA.MDE"
+msgstr ""
+
+msgid "IATA.MDG"
+msgstr ""
+
+msgid "IATA.MDH"
+msgstr ""
+
+msgid "IATA.MDI"
+msgstr ""
+
+msgid "IATA.MDK"
+msgstr ""
+
+msgid "IATA.MDL"
+msgstr ""
+
+msgid "IATA.MDQ"
+msgstr ""
+
+msgid "IATA.MDT"
+msgstr ""
+
+msgid "IATA.MDU"
+msgstr ""
+
+msgid "IATA.MDW"
+msgstr ""
+
+msgid "IATA.MDY"
+msgstr ""
+
+msgid "IATA.MDZ"
+msgstr ""
+
+msgid "IATA.MEA"
+msgstr ""
+
+msgid "IATA.MEB"
+msgstr ""
+
+msgid "IATA.MEC"
+msgstr ""
+
+msgid "IATA.MED"
+msgstr ""
+
+msgid "IATA.MEE"
+msgstr ""
+
+msgid "IATA.MEG"
+msgstr ""
+
+msgid "IATA.MEH"
+msgstr ""
+
+msgid "IATA.MEI"
+msgstr ""
+
+msgid "IATA.MEK"
+msgstr ""
+
+msgid "IATA.MEL"
+msgstr ""
+
+msgid "IATA.MEM"
+msgstr ""
+
+msgid "IATA.MEN"
+msgstr ""
+
+msgid "IATA.MER"
+msgstr ""
+
+msgid "IATA.MES"
+msgstr ""
+
+msgid "IATA.MEU"
+msgstr ""
+
+msgid "IATA.MEX"
+msgstr ""
+
+msgid "IATA.MFD"
+msgstr ""
+
+msgid "IATA.MFE"
+msgstr ""
+
+msgid "IATA.MFG"
+msgstr ""
+
+msgid "IATA.MFK"
+msgstr ""
+
+msgid "IATA.MFM"
+msgstr ""
+
+msgid "IATA.MFQ"
+msgstr ""
+
+msgid "IATA.MFR"
+msgstr ""
+
+msgid "IATA.MFU"
+msgstr ""
+
+msgid "IATA.MGA"
+msgstr ""
+
+msgid "IATA.MGB"
+msgstr ""
+
+msgid "IATA.MGE"
+msgstr ""
+
+msgid "IATA.MGF"
+msgstr ""
+
+msgid "IATA.MGH"
+msgstr ""
+
+msgid "IATA.MGL"
+msgstr ""
+
+msgid "IATA.MGM"
+msgstr ""
+
+msgid "IATA.MGN"
+msgstr ""
+
+msgid "IATA.MGQ"
+msgstr ""
+
+msgid "IATA.MGW"
+msgstr ""
+
+msgid "IATA.MGZ"
+msgstr ""
+
+msgid "IATA.MHD"
+msgstr ""
+
+msgid "IATA.MHG"
+msgstr ""
+
+msgid "IATA.MHH"
+msgstr ""
+
+msgid "IATA.MHK"
+msgstr ""
+
+msgid "IATA.MHQ"
+msgstr ""
+
+msgid "IATA.MHR"
+msgstr ""
+
+msgid "IATA.MHT"
+msgstr ""
+
+msgid "IATA.MHU"
+msgstr ""
+
+msgid "IATA.MHZ"
+msgstr ""
+
+msgid "IATA.MIA"
+msgstr ""
+
+msgid "IATA.MIB"
+msgstr ""
+
+msgid "IATA.MID"
+msgstr ""
+
+msgid "IATA.MIE"
+msgstr ""
+
+msgid "IATA.MIG"
+msgstr ""
+
+msgid "IATA.MII"
+msgstr ""
+
+msgid "IATA.MIK"
+msgstr ""
+
+msgid "IATA.MIM"
+msgstr ""
+
+msgid "IATA.MIP"
+msgstr ""
+
+msgid "IATA.MIR"
+msgstr ""
+
+msgid "IATA.MIU"
+msgstr ""
+
+msgid "IATA.MIV"
+msgstr ""
+
+msgid "IATA.MJC"
+msgstr ""
+
+msgid "IATA.MJD"
+msgstr ""
+
+msgid "IATA.MJF"
+msgstr ""
+
+msgid "IATA.MJI"
+msgstr ""
+
+msgid "IATA.MJK"
+msgstr ""
+
+msgid "IATA.MJL"
+msgstr ""
+
+msgid "IATA.MJM"
+msgstr ""
+
+msgid "IATA.MJN"
+msgstr ""
+
+msgid "IATA.MJT"
+msgstr ""
+
+msgid "IATA.MJV"
+msgstr ""
+
+msgid "IATA.MJZ"
+msgstr ""
+
+msgid "IATA.MKC"
+msgstr ""
+
+msgid "IATA.MKE"
+msgstr ""
+
+msgid "IATA.MKG"
+msgstr ""
+
+msgid "IATA.MKK"
+msgstr ""
+
+msgid "IATA.MKL"
+msgstr ""
+
+msgid "IATA.MKP"
+msgstr ""
+
+msgid "IATA.MKQ"
+msgstr ""
+
+msgid "IATA.MKR"
+msgstr ""
+
+msgid "IATA.MKU"
+msgstr ""
+
+msgid "IATA.MKW"
+msgstr ""
+
+msgid "IATA.MKY"
+msgstr ""
+
+msgid "IATA.MKZ"
+msgstr ""
+
+msgid "IATA.MLA"
+msgstr ""
+
+msgid "IATA.MLB"
+msgstr ""
+
+msgid "IATA.MLC"
+msgstr ""
+
+msgid "IATA.MLE"
+msgstr ""
+
+msgid "IATA.MLI"
+msgstr ""
+
+msgid "IATA.MLL"
+msgstr ""
+
+msgid "IATA.MLM"
+msgstr ""
+
+msgid "IATA.MLN"
+msgstr ""
+
+msgid "IATA.MLS"
+msgstr ""
+
+msgid "IATA.MLU"
+msgstr ""
+
+msgid "IATA.MLW"
+msgstr ""
+
+msgid "IATA.MLX"
+msgstr ""
+
+msgid "IATA.MMB"
+msgstr ""
+
+msgid "IATA.MMD"
+msgstr ""
+
+msgid "IATA.MME"
+msgstr ""
+
+msgid "IATA.MMG"
+msgstr ""
+
+msgid "IATA.MMJ"
+msgstr ""
+
+msgid "IATA.MMK"
+msgstr ""
+
+msgid "IATA.MMO"
+msgstr ""
+
+msgid "IATA.MMT"
+msgstr ""
+
+msgid "IATA.MMU"
+msgstr ""
+
+msgid "IATA.MMX"
+msgstr ""
+
+msgid "IATA.MMY"
+msgstr ""
+
+msgid "IATA.MMZ"
+msgstr ""
+
+msgid "IATA.MNG"
+msgstr ""
+
+msgid "IATA.MNH"
+msgstr ""
+
+msgid "IATA.MNI"
+msgstr ""
+
+msgid "IATA.MNJ"
+msgstr ""
+
+msgid "IATA.MNL"
+msgstr ""
+
+msgid "IATA.MNR"
+msgstr ""
+
+msgid "IATA.MNX"
+msgstr ""
+
+msgid "IATA.MOA"
+msgstr ""
+
+msgid "IATA.MOB"
+msgstr ""
+
+msgid "IATA.MOC"
+msgstr ""
+
+msgid "IATA.MOD"
+msgstr ""
+
+msgid "IATA.MOE"
+msgstr ""
+
+msgid "IATA.MOG"
+msgstr ""
+
+msgid "IATA.MOL"
+msgstr ""
+
+msgid "IATA.MON"
+msgstr ""
+
+msgid "IATA.MOQ"
+msgstr ""
+
+msgid "IATA.MOT"
+msgstr ""
+
+msgid "IATA.MOV"
+msgstr ""
+
+msgid "IATA.MOZ"
+msgstr ""
+
+msgid "IATA.MPH"
+msgstr ""
+
+msgid "IATA.MPL"
+msgstr ""
+
+msgid "IATA.MPM"
+msgstr ""
+
+msgid "IATA.MPN"
+msgstr ""
+
+msgid "IATA.MPV"
+msgstr ""
+
+msgid "IATA.MPW"
+msgstr ""
+
+msgid "IATA.MQC"
+msgstr ""
+
+msgid "IATA.MQF"
+msgstr ""
+
+msgid "IATA.MQH"
+msgstr ""
+
+msgid "IATA.MQJ"
+msgstr ""
+
+msgid "IATA.MQL"
+msgstr ""
+
+msgid "IATA.MQM"
+msgstr ""
+
+msgid "IATA.MQN"
+msgstr ""
+
+msgid "IATA.MQP"
+msgstr ""
+
+msgid "IATA.MQQ"
+msgstr ""
+
+msgid "IATA.MQS"
+msgstr ""
+
+msgid "IATA.MQT"
+msgstr ""
+
+msgid "IATA.MQU"
+msgstr ""
+
+msgid "IATA.MQX"
+msgstr ""
+
+msgid "IATA.MQY"
+msgstr ""
+
+msgid "IATA.MRB"
+msgstr ""
+
+msgid "IATA.MRD"
+msgstr ""
+
+msgid "IATA.MRE"
+msgstr ""
+
+msgid "IATA.MRG"
+msgstr ""
+
+msgid "IATA.MRI"
+msgstr ""
+
+msgid "IATA.MRO"
+msgstr ""
+
+msgid "IATA.MRQ"
+msgstr ""
+
+msgid "IATA.MRR"
+msgstr ""
+
+msgid "IATA.MRS"
+msgstr ""
+
+msgid "IATA.MRU"
+msgstr ""
+
+msgid "IATA.MRV"
+msgstr ""
+
+msgid "IATA.MRW"
+msgstr ""
+
+msgid "IATA.MRX"
+msgstr ""
+
+msgid "IATA.MRY"
+msgstr ""
+
+msgid "IATA.MRZ"
+msgstr ""
+
+msgid "IATA.MSA"
+msgstr ""
+
+msgid "IATA.MSH"
+msgstr ""
+
+msgid "IATA.MSJ"
+msgstr ""
+
+msgid "IATA.MSL"
+msgstr ""
+
+msgid "IATA.MSN"
+msgstr ""
+
+msgid "IATA.MSO"
+msgstr ""
+
+msgid "IATA.MSP"
+msgstr ""
+
+msgid "IATA.MSQ"
+msgstr ""
+
+msgid "IATA.MSR"
+msgstr ""
+
+msgid "IATA.MSS"
+msgstr ""
+
+msgid "IATA.MST"
+msgstr ""
+
+msgid "IATA.MSU"
+msgstr ""
+
+msgid "IATA.MSW"
+msgstr ""
+
+msgid "IATA.MSY"
+msgstr ""
+
+msgid "IATA.MSZ"
+msgstr ""
+
+msgid "IATA.MTC"
+msgstr ""
+
+msgid "IATA.MTH"
+msgstr ""
+
+msgid "IATA.MTJ"
+msgstr ""
+
+msgid "IATA.MTN"
+msgstr ""
+
+msgid "IATA.MTR"
+msgstr ""
+
+msgid "IATA.MTS"
+msgstr ""
+
+msgid "IATA.MTT"
+msgstr ""
+
+msgid "IATA.MTY"
+msgstr ""
+
+msgid "IATA.MTZ"
+msgstr ""
+
+msgid "IATA.MUA"
+msgstr ""
+
+msgid "IATA.MUB"
+msgstr ""
+
+msgid "IATA.MUC"
+msgstr ""
+
+msgid "IATA.MUD"
+msgstr ""
+
+msgid "IATA.MUE"
+msgstr ""
+
+msgid "IATA.MUH"
+msgstr ""
+
+msgid "IATA.MUI"
+msgstr ""
+
+msgid "IATA.MUN"
+msgstr ""
+
+msgid "IATA.MUO"
+msgstr ""
+
+msgid "IATA.MUR"
+msgstr ""
+
+msgid "IATA.MUW"
+msgstr ""
+
+msgid "IATA.MUX"
+msgstr ""
+
+msgid "IATA.MVB"
+msgstr ""
+
+msgid "IATA.MVD"
+msgstr ""
+
+msgid "IATA.MVF"
+msgstr ""
+
+msgid "IATA.MVP"
+msgstr ""
+
+msgid "IATA.MVQ"
+msgstr ""
+
+msgid "IATA.MVR"
+msgstr ""
+
+msgid "IATA.MVT"
+msgstr ""
+
+msgid "IATA.MVZ"
+msgstr ""
+
+msgid "IATA.MWD"
+msgstr ""
+
+msgid "IATA.MWE"
+msgstr ""
+
+msgid "IATA.MWH"
+msgstr ""
+
+msgid "IATA.MWX"
+msgstr ""
+
+msgid "IATA.MWZ"
+msgstr ""
+
+msgid "IATA.MXF"
+msgstr ""
+
+msgid "IATA.MXI"
+msgstr ""
+
+msgid "IATA.MXJ"
+msgstr ""
+
+msgid "IATA.MXL"
+msgstr ""
+
+msgid "IATA.MXM"
+msgstr ""
+
+msgid "IATA.MXN"
+msgstr ""
+
+msgid "IATA.MXP"
+msgstr ""
+
+msgid "IATA.MXV"
+msgstr ""
+
+msgid "IATA.MXX"
+msgstr ""
+
+msgid "IATA.MYA"
+msgstr ""
+
+msgid "IATA.MYC"
+msgstr ""
+
+msgid "IATA.MYD"
+msgstr ""
+
+msgid "IATA.MYE"
+msgstr ""
+
+msgid "IATA.MYG"
+msgstr ""
+
+msgid "IATA.MYJ"
+msgstr ""
+
+msgid "IATA.MYL"
+msgstr ""
+
+msgid "IATA.MYP"
+msgstr ""
+
+msgid "IATA.MYR"
+msgstr ""
+
+msgid "IATA.MYT"
+msgstr ""
+
+msgid "IATA.MYU"
+msgstr ""
+
+msgid "IATA.MYV"
+msgstr ""
+
+msgid "IATA.MYW"
+msgstr ""
+
+msgid "IATA.MYY"
+msgstr ""
+
+msgid "IATA.MZB"
+msgstr ""
+
+msgid "IATA.MZG"
+msgstr ""
+
+msgid "IATA.MZI"
+msgstr ""
+
+msgid "IATA.MZL"
+msgstr ""
+
+msgid "IATA.MZO"
+msgstr ""
+
+msgid "IATA.MZQ"
+msgstr ""
+
+msgid "IATA.MZR"
+msgstr ""
+
+msgid "IATA.MZT"
+msgstr ""
+
+msgid "IATA.MZU"
+msgstr ""
+
+msgid "IATA.MZV"
+msgstr ""
+
+msgid "IATA.MZW"
+msgstr ""
+
+msgid "IATA.NAA"
+msgstr ""
+
+msgid "IATA.NAG"
+msgstr ""
+
+msgid "IATA.NAH"
+msgstr ""
+
+msgid "IATA.NAJ"
+msgstr ""
+
+msgid "IATA.NAK"
+msgstr ""
+
+msgid "IATA.NAL"
+msgstr ""
+
+msgid "IATA.NAN"
+msgstr ""
+
+msgid "IATA.NAP"
+msgstr ""
+
+msgid "IATA.NAS"
+msgstr ""
+
+msgid "IATA.NAT"
+msgstr ""
+
+msgid "IATA.NAW"
+msgstr ""
+
+msgid "IATA.NAY"
+msgstr ""
+
+msgid "IATA.NBC"
+msgstr ""
+
+msgid "IATA.NBE"
+msgstr ""
+
+msgid "IATA.NBG"
+msgstr ""
+
+msgid "IATA.NBO"
+msgstr ""
+
+msgid "IATA.NBS"
+msgstr ""
+
+msgid "IATA.NBW"
+msgstr ""
+
+msgid "IATA.NBX"
+msgstr ""
+
+msgid "IATA.NCA"
+msgstr ""
+
+msgid "IATA.NCE"
+msgstr ""
+
+msgid "IATA.NCL"
+msgstr ""
+
+msgid "IATA.NCO"
+msgstr ""
+
+msgid "IATA.NCS"
+msgstr ""
+
+msgid "IATA.NCY"
+msgstr ""
+
+msgid "IATA.NDB"
+msgstr ""
+
+msgid "IATA.NDC"
+msgstr ""
+
+msgid "IATA.NDD"
+msgstr ""
+
+msgid "IATA.NDG"
+msgstr ""
+
+msgid "IATA.NDJ"
+msgstr ""
+
+msgid "IATA.NDR"
+msgstr ""
+
+msgid "IATA.NDU"
+msgstr ""
+
+msgid "IATA.NEC"
+msgstr ""
+
+msgid "IATA.NEL"
+msgstr ""
+
+msgid "IATA.NER"
+msgstr ""
+
+msgid "IATA.NEU"
+msgstr ""
+
+msgid "IATA.NEV"
+msgstr ""
+
+msgid "IATA.NEW"
+msgstr ""
+
+msgid "IATA.NFG"
+msgstr ""
+
+msgid "IATA.NFL"
+msgstr ""
+
+msgid "IATA.NGA"
+msgstr ""
+
+msgid "IATA.NGB"
+msgstr ""
+
+msgid "IATA.NGE"
+msgstr ""
+
+msgid "IATA.NGF"
+msgstr ""
+
+msgid "IATA.NGO"
+msgstr ""
+
+msgid "IATA.NGQ"
+msgstr ""
+
+msgid "IATA.NGS"
+msgstr ""
+
+msgid "IATA.NGU"
+msgstr ""
+
+msgid "IATA.NHD"
+msgstr ""
+
+msgid "IATA.NHK"
+msgstr ""
+
+msgid "IATA.NHT"
+msgstr ""
+
+msgid "IATA.NHV"
+msgstr ""
+
+msgid "IATA.NHZ"
+msgstr ""
+
+msgid "IATA.NIM"
+msgstr ""
+
+msgid "IATA.NIP"
+msgstr ""
+
+msgid "IATA.NIT"
+msgstr ""
+
+msgid "IATA.NJA"
+msgstr ""
+
+msgid "IATA.NJC"
+msgstr ""
+
+msgid "IATA.NJK"
+msgstr ""
+
+msgid "IATA.NKC"
+msgstr ""
+
+msgid "IATA.NKG"
+msgstr ""
+
+msgid "IATA.NKM"
+msgstr ""
+
+msgid "IATA.NKT"
+msgstr ""
+
+msgid "IATA.NKW"
+msgstr ""
+
+msgid "IATA.NKX"
+msgstr ""
+
+msgid "IATA.NLA"
+msgstr ""
+
+msgid "IATA.NLC"
+msgstr ""
+
+msgid "IATA.NLD"
+msgstr ""
+
+msgid "IATA.NLH"
+msgstr ""
+
+msgid "IATA.NLI"
+msgstr ""
+
+msgid "IATA.NLK"
+msgstr ""
+
+msgid "IATA.NLO"
+msgstr ""
+
+msgid "IATA.NLT"
+msgstr ""
+
+msgid "IATA.NLV"
+msgstr ""
+
+msgid "IATA.NMB"
+msgstr ""
+
+msgid "IATA.NMC"
+msgstr ""
+
+msgid "IATA.NMS"
+msgstr ""
+
+msgid "IATA.NNA"
+msgstr ""
+
+msgid "IATA.NNG"
+msgstr ""
+
+msgid "IATA.NNM"
+msgstr ""
+
+msgid "IATA.NNT"
+msgstr ""
+
+msgid "IATA.NOA"
+msgstr ""
+
+msgid "IATA.NOB"
+msgstr ""
+
+msgid "IATA.NOC"
+msgstr ""
+
+msgid "IATA.NOJ"
+msgstr ""
+
+msgid "IATA.NOS"
+msgstr ""
+
+msgid "IATA.NOU"
+msgstr ""
+
+msgid "IATA.NOV"
+msgstr ""
+
+msgid "IATA.NOZ"
+msgstr ""
+
+msgid "IATA.NPA"
+msgstr ""
+
+msgid "IATA.NPE"
+msgstr ""
+
+msgid "IATA.NPL"
+msgstr ""
+
+msgid "IATA.NPO"
+msgstr ""
+
+msgid "IATA.NQA"
+msgstr ""
+
+msgid "IATA.NQI"
+msgstr ""
+
+msgid "IATA.NQN"
+msgstr ""
+
+msgid "IATA.NQT"
+msgstr ""
+
+msgid "IATA.NQX"
+msgstr ""
+
+msgid "IATA.NQY"
+msgstr ""
+
+msgid "IATA.NRA"
+msgstr ""
+
+msgid "IATA.NRB"
+msgstr ""
+
+msgid "IATA.NRK"
+msgstr ""
+
+msgid "IATA.NRN"
+msgstr ""
+
+msgid "IATA.NRT"
+msgstr ""
+
+msgid "IATA.NSE"
+msgstr ""
+
+msgid "IATA.NSH"
+msgstr ""
+
+msgid "IATA.NSI"
+msgstr ""
+
+msgid "IATA.NSK"
+msgstr ""
+
+msgid "IATA.NSN"
+msgstr ""
+
+msgid "IATA.NST"
+msgstr ""
+
+msgid "IATA.NSY"
+msgstr ""
+
+msgid "IATA.NTB"
+msgstr ""
+
+msgid "IATA.NTD"
+msgstr ""
+
+msgid "IATA.NTE"
+msgstr ""
+
+msgid "IATA.NTL"
+msgstr ""
+
+msgid "IATA.NTN"
+msgstr ""
+
+msgid "IATA.NTQ"
+msgstr ""
+
+msgid "IATA.NTR"
+msgstr ""
+
+msgid "IATA.NTU"
+msgstr ""
+
+msgid "IATA.NTX"
+msgstr ""
+
+msgid "IATA.NUE"
+msgstr ""
+
+msgid "IATA.NUI"
+msgstr ""
+
+msgid "IATA.NUM"
+msgstr ""
+
+msgid "IATA.NUQ"
+msgstr ""
+
+msgid "IATA.NUW"
+msgstr ""
+
+msgid "IATA.NUX"
+msgstr ""
+
+msgid "IATA.NVA"
+msgstr ""
+
+msgid "IATA.NVK"
+msgstr ""
+
+msgid "IATA.NVS"
+msgstr ""
+
+msgid "IATA.NVT"
+msgstr ""
+
+msgid "IATA.NWA"
+msgstr ""
+
+msgid "IATA.NWI"
+msgstr ""
+
+msgid "IATA.NYA"
+msgstr ""
+
+msgid "IATA.NYI"
+msgstr ""
+
+msgid "IATA.NYK"
+msgstr ""
+
+msgid "IATA.NYM"
+msgstr ""
+
+msgid "IATA.NYO"
+msgstr ""
+
+msgid "IATA.NYT"
+msgstr ""
+
+msgid "IATA.NZC"
+msgstr ""
+
+msgid "IATA.NZH"
+msgstr ""
+
+msgid "IATA.NZL"
+msgstr ""
+
+msgid "IATA.NZY"
+msgstr ""
+
+msgid "IATA.OAG"
+msgstr ""
+
+msgid "IATA.OAI"
+msgstr ""
+
+msgid "IATA.OAJ"
+msgstr ""
+
+msgid "IATA.OAK"
+msgstr ""
+
+msgid "IATA.OAM"
+msgstr ""
+
+msgid "IATA.OAX"
+msgstr ""
+
+msgid "IATA.OBF"
+msgstr ""
+
+msgid "IATA.OBO"
+msgstr ""
+
+msgid "IATA.OBS"
+msgstr ""
+
+msgid "IATA.OCC"
+msgstr ""
+
+msgid "IATA.OCJ"
+msgstr ""
+
+msgid "IATA.OCV"
+msgstr ""
+
+msgid "IATA.ODB"
+msgstr ""
+
+msgid "IATA.ODE"
+msgstr ""
+
+msgid "IATA.ODH"
+msgstr ""
+
+msgid "IATA.ODS"
+msgstr ""
+
+msgid "IATA.OEC"
+msgstr ""
+
+msgid "IATA.OEL"
+msgstr ""
+
+msgid "IATA.OER"
+msgstr ""
+
+msgid "IATA.OFF"
+msgstr ""
+
+msgid "IATA.OFK"
+msgstr ""
+
+msgid "IATA.OGB"
+msgstr ""
+
+msgid "IATA.OGD"
+msgstr ""
+
+msgid "IATA.OGG"
+msgstr ""
+
+msgid "IATA.OGL"
+msgstr ""
+
+msgid "IATA.OGN"
+msgstr ""
+
+msgid "IATA.OGX"
+msgstr ""
+
+msgid "IATA.OGZ"
+msgstr ""
+
+msgid "IATA.OHA"
+msgstr ""
+
+msgid "IATA.OHD"
+msgstr ""
+
+msgid "IATA.OHE"
+msgstr ""
+
+msgid "IATA.OHO"
+msgstr ""
+
+msgid "IATA.OIM"
+msgstr ""
+
+msgid "IATA.OIR"
+msgstr ""
+
+msgid "IATA.OIT"
+msgstr ""
+
+msgid "IATA.OKA"
+msgstr ""
+
+msgid "IATA.OKC"
+msgstr ""
+
+msgid "IATA.OKD"
+msgstr ""
+
+msgid "IATA.OKE"
+msgstr ""
+
+msgid "IATA.OKI"
+msgstr ""
+
+msgid "IATA.OKJ"
+msgstr ""
+
+msgid "IATA.OKN"
+msgstr ""
+
+msgid "IATA.OKO"
+msgstr ""
+
+msgid "IATA.OKY"
+msgstr ""
+
+msgid "IATA.OLA"
+msgstr ""
+
+msgid "IATA.OLB"
+msgstr ""
+
+msgid "IATA.OLF"
+msgstr ""
+
+msgid "IATA.OLL"
+msgstr ""
+
+msgid "IATA.OLM"
+msgstr ""
+
+msgid "IATA.OLS"
+msgstr ""
+
+msgid "IATA.OLZ"
+msgstr ""
+
+msgid "IATA.OMA"
+msgstr ""
+
+msgid "IATA.OMB"
+msgstr ""
+
+msgid "IATA.OMC"
+msgstr ""
+
+msgid "IATA.OMD"
+msgstr ""
+
+msgid "IATA.OME"
+msgstr ""
+
+msgid "IATA.OMH"
+msgstr ""
+
+msgid "IATA.OMO"
+msgstr ""
+
+msgid "IATA.OMR"
+msgstr ""
+
+msgid "IATA.OMS"
+msgstr ""
+
+msgid "IATA.OND"
+msgstr ""
+
+msgid "IATA.ONJ"
+msgstr ""
+
+msgid "IATA.ONP"
+msgstr ""
+
+msgid "IATA.ONT"
+msgstr ""
+
+msgid "IATA.ONX"
+msgstr ""
+
+msgid "IATA.OOL"
+msgstr ""
+
+msgid "IATA.OOM"
+msgstr ""
+
+msgid "IATA.OPF"
+msgstr ""
+
+msgid "IATA.OPO"
+msgstr ""
+
+msgid "IATA.OPU"
+msgstr ""
+
+msgid "IATA.ORA"
+msgstr ""
+
+msgid "IATA.ORB"
+msgstr ""
+
+msgid "IATA.ORD"
+msgstr ""
+
+msgid "IATA.ORE"
+msgstr ""
+
+msgid "IATA.ORF"
+msgstr ""
+
+msgid "IATA.ORH"
+msgstr ""
+
+msgid "IATA.ORK"
+msgstr ""
+
+msgid "IATA.ORN"
+msgstr ""
+
+msgid "IATA.ORT"
+msgstr ""
+
+msgid "IATA.ORU"
+msgstr ""
+
+msgid "IATA.ORY"
+msgstr ""
+
+msgid "IATA.OSD"
+msgstr ""
+
+msgid "IATA.OSF"
+msgstr ""
+
+msgid "IATA.OSH"
+msgstr ""
+
+msgid "IATA.OSI"
+msgstr ""
+
+msgid "IATA.OSL"
+msgstr ""
+
+msgid "IATA.OSM"
+msgstr ""
+
+msgid "IATA.OSN"
+msgstr ""
+
+msgid "IATA.OSR"
+msgstr ""
+
+msgid "IATA.OSS"
+msgstr ""
+
+msgid "IATA.OST"
+msgstr ""
+
+msgid "IATA.OSU"
+msgstr ""
+
+msgid "IATA.OSW"
+msgstr ""
+
+msgid "IATA.OTH"
+msgstr ""
+
+msgid "IATA.OTI"
+msgstr ""
+
+msgid "IATA.OTM"
+msgstr ""
+
+msgid "IATA.OTP"
+msgstr ""
+
+msgid "IATA.OTR"
+msgstr ""
+
+msgid "IATA.OTZ"
+msgstr ""
+
+msgid "IATA.OUA"
+msgstr ""
+
+msgid "IATA.OUD"
+msgstr ""
+
+msgid "IATA.OUE"
+msgstr ""
+
+msgid "IATA.OUH"
+msgstr ""
+
+msgid "IATA.OUK"
+msgstr ""
+
+msgid "IATA.OUL"
+msgstr ""
+
+msgid "IATA.OVB"
+msgstr ""
+
+msgid "IATA.OVD"
+msgstr ""
+
+msgid "IATA.OVS"
+msgstr ""
+
+msgid "IATA.OWB"
+msgstr ""
+
+msgid "IATA.OWD"
+msgstr ""
+
+msgid "IATA.OXB"
+msgstr ""
+
+msgid "IATA.OXF"
+msgstr ""
+
+msgid "IATA.OXR"
+msgstr ""
+
+msgid "IATA.OYA"
+msgstr ""
+
+msgid "IATA.OYE"
+msgstr ""
+
+msgid "IATA.OYK"
+msgstr ""
+
+msgid "IATA.OYO"
+msgstr ""
+
+msgid "IATA.OYP"
+msgstr ""
+
+msgid "IATA.OZC"
+msgstr ""
+
+msgid "IATA.OZH"
+msgstr ""
+
+msgid "IATA.OZP"
+msgstr ""
+
+msgid "IATA.OZR"
+msgstr ""
+
+msgid "IATA.OZZ"
+msgstr ""
+
+msgid "IATA.PAB"
+msgstr ""
+
+msgid "IATA.PAC"
+msgstr ""
+
+msgid "IATA.PAD"
+msgstr ""
+
+msgid "IATA.PAE"
+msgstr ""
+
+msgid "IATA.PAG"
+msgstr ""
+
+msgid "IATA.PAH"
+msgstr ""
+
+msgid "IATA.PAL"
+msgstr ""
+
+msgid "IATA.PAM"
+msgstr ""
+
+msgid "IATA.PAN"
+msgstr ""
+
+msgid "IATA.PAP"
+msgstr ""
+
+msgid "IATA.PAQ"
+msgstr ""
+
+msgid "IATA.PAT"
+msgstr ""
+
+msgid "IATA.PAV"
+msgstr ""
+
+msgid "IATA.PAX"
+msgstr ""
+
+msgid "IATA.PAZ"
+msgstr ""
+
+msgid "IATA.PBC"
+msgstr ""
+
+msgid "IATA.PBD"
+msgstr ""
+
+msgid "IATA.PBF"
+msgstr ""
+
+msgid "IATA.PBG"
+msgstr ""
+
+msgid "IATA.PBH"
+msgstr ""
+
+msgid "IATA.PBI"
+msgstr ""
+
+msgid "IATA.PBL"
+msgstr ""
+
+msgid "IATA.PBM"
+msgstr ""
+
+msgid "IATA.PBN"
+msgstr ""
+
+msgid "IATA.PBO"
+msgstr ""
+
+msgid "IATA.PBR"
+msgstr ""
+
+msgid "IATA.PBU"
+msgstr ""
+
+msgid "IATA.PBZ"
+msgstr ""
+
+msgid "IATA.PCF"
+msgstr ""
+
+msgid "IATA.PCL"
+msgstr ""
+
+msgid "IATA.PCP"
+msgstr ""
+
+msgid "IATA.PCR"
+msgstr ""
+
+msgid "IATA.PDA"
+msgstr ""
+
+msgid "IATA.PDG"
+msgstr ""
+
+msgid "IATA.PDK"
+msgstr ""
+
+msgid "IATA.PDL"
+msgstr ""
+
+msgid "IATA.PDO"
+msgstr ""
+
+msgid "IATA.PDP"
+msgstr ""
+
+msgid "IATA.PDS"
+msgstr ""
+
+msgid "IATA.PDT"
+msgstr ""
+
+msgid "IATA.PDV"
+msgstr ""
+
+msgid "IATA.PDX"
+msgstr ""
+
+msgid "IATA.PED"
+msgstr ""
+
+msgid "IATA.PEE"
+msgstr ""
+
+msgid "IATA.PEG"
+msgstr ""
+
+msgid "IATA.PEH"
+msgstr ""
+
+msgid "IATA.PEI"
+msgstr ""
+
+msgid "IATA.PEK"
+msgstr ""
+
+msgid "IATA.PEM"
+msgstr ""
+
+msgid "IATA.PEN"
+msgstr ""
+
+msgid "IATA.PER"
+msgstr ""
+
+msgid "IATA.PES"
+msgstr ""
+
+msgid "IATA.PET"
+msgstr ""
+
+msgid "IATA.PEV"
+msgstr ""
+
+msgid "IATA.PEW"
+msgstr ""
+
+msgid "IATA.PEX"
+msgstr ""
+
+msgid "IATA.PEZ"
+msgstr ""
+
+msgid "IATA.PFB"
+msgstr ""
+
+msgid "IATA.PFO"
+msgstr ""
+
+msgid "IATA.PGA"
+msgstr ""
+
+msgid "IATA.PGF"
+msgstr ""
+
+msgid "IATA.PGH"
+msgstr ""
+
+msgid "IATA.PGU"
+msgstr ""
+
+msgid "IATA.PGV"
+msgstr ""
+
+msgid "IATA.PGX"
+msgstr ""
+
+msgid "IATA.PGZ"
+msgstr ""
+
+msgid "IATA.PHC"
+msgstr ""
+
+msgid "IATA.PHE"
+msgstr ""
+
+msgid "IATA.PHF"
+msgstr ""
+
+msgid "IATA.PHL"
+msgstr ""
+
+msgid "IATA.PHS"
+msgstr ""
+
+msgid "IATA.PHW"
+msgstr ""
+
+msgid "IATA.PHX"
+msgstr ""
+
+msgid "IATA.PHY"
+msgstr ""
+
+msgid "IATA.PIA"
+msgstr ""
+
+msgid "IATA.PIB"
+msgstr ""
+
+msgid "IATA.PIE"
+msgstr ""
+
+msgid "IATA.PIF"
+msgstr ""
+
+msgid "IATA.PIH"
+msgstr ""
+
+msgid "IATA.PIK"
+msgstr ""
+
+msgid "IATA.PIL"
+msgstr ""
+
+msgid "IATA.PIO"
+msgstr ""
+
+msgid "IATA.PIR"
+msgstr ""
+
+msgid "IATA.PIS"
+msgstr ""
+
+msgid "IATA.PIT"
+msgstr ""
+
+msgid "IATA.PIU"
+msgstr ""
+
+msgid "IATA.PIW"
+msgstr ""
+
+msgid "IATA.PIX"
+msgstr ""
+
+msgid "IATA.PIZ"
+msgstr ""
+
+msgid "IATA.PJA"
+msgstr ""
+
+msgid "IATA.PJG"
+msgstr ""
+
+msgid "IATA.PJM"
+msgstr ""
+
+msgid "IATA.PKB"
+msgstr ""
+
+msgid "IATA.PKC"
+msgstr ""
+
+msgid "IATA.PKE"
+msgstr ""
+
+msgid "IATA.PKP"
+msgstr ""
+
+msgid "IATA.PKR"
+msgstr ""
+
+msgid "IATA.PKT"
+msgstr ""
+
+msgid "IATA.PKU"
+msgstr ""
+
+msgid "IATA.PKV"
+msgstr ""
+
+msgid "IATA.PKW"
+msgstr ""
+
+msgid "IATA.PKX"
+msgstr ""
+
+msgid "IATA.PKZ"
+msgstr ""
+
+msgid "IATA.PLJ"
+msgstr ""
+
+msgid "IATA.PLL"
+msgstr ""
+
+msgid "IATA.PLM"
+msgstr ""
+
+msgid "IATA.PLN"
+msgstr ""
+
+msgid "IATA.PLO"
+msgstr ""
+
+msgid "IATA.PLQ"
+msgstr ""
+
+msgid "IATA.PLS"
+msgstr ""
+
+msgid "IATA.PLU"
+msgstr ""
+
+msgid "IATA.PLW"
+msgstr ""
+
+msgid "IATA.PLX"
+msgstr ""
+
+msgid "IATA.PLZ"
+msgstr ""
+
+msgid "IATA.PMA"
+msgstr ""
+
+msgid "IATA.PMC"
+msgstr ""
+
+msgid "IATA.PMD"
+msgstr ""
+
+msgid "IATA.PMF"
+msgstr ""
+
+msgid "IATA.PMG"
+msgstr ""
+
+msgid "IATA.PMI"
+msgstr ""
+
+msgid "IATA.PMO"
+msgstr ""
+
+msgid "IATA.PMQ"
+msgstr ""
+
+msgid "IATA.PMR"
+msgstr ""
+
+msgid "IATA.PMS"
+msgstr ""
+
+msgid "IATA.PMV"
+msgstr ""
+
+msgid "IATA.PMW"
+msgstr ""
+
+msgid "IATA.PMY"
+msgstr ""
+
+msgid "IATA.PMZ"
+msgstr ""
+
+msgid "IATA.PNA"
+msgstr ""
+
+msgid "IATA.PNB"
+msgstr ""
+
+msgid "IATA.PNC"
+msgstr ""
+
+msgid "IATA.PND"
+msgstr ""
+
+msgid "IATA.PNE"
+msgstr ""
+
+msgid "IATA.PNH"
+msgstr ""
+
+msgid "IATA.PNI"
+msgstr ""
+
+msgid "IATA.PNK"
+msgstr ""
+
+msgid "IATA.PNL"
+msgstr ""
+
+msgid "IATA.PNP"
+msgstr ""
+
+msgid "IATA.PNQ"
+msgstr ""
+
+msgid "IATA.PNR"
+msgstr ""
+
+msgid "IATA.PNS"
+msgstr ""
+
+msgid "IATA.PNT"
+msgstr ""
+
+msgid "IATA.PNV"
+msgstr ""
+
+msgid "IATA.PNY"
+msgstr ""
+
+msgid "IATA.PNZ"
+msgstr ""
+
+msgid "IATA.POA"
+msgstr ""
+
+msgid "IATA.POB"
+msgstr ""
+
+msgid "IATA.POE"
+msgstr ""
+
+msgid "IATA.POG"
+msgstr ""
+
+msgid "IATA.POI"
+msgstr ""
+
+msgid "IATA.POL"
+msgstr ""
+
+msgid "IATA.POM"
+msgstr ""
+
+msgid "IATA.POO"
+msgstr ""
+
+msgid "IATA.POP"
+msgstr ""
+
+msgid "IATA.POR"
+msgstr ""
+
+msgid "IATA.POS"
+msgstr ""
+
+msgid "IATA.POT"
+msgstr ""
+
+msgid "IATA.POU"
+msgstr ""
+
+msgid "IATA.POW"
+msgstr ""
+
+msgid "IATA.POX"
+msgstr ""
+
+msgid "IATA.POZ"
+msgstr ""
+
+msgid "IATA.PPB"
+msgstr ""
+
+msgid "IATA.PPG"
+msgstr ""
+
+msgid "IATA.PPI"
+msgstr ""
+
+msgid "IATA.PPK"
+msgstr ""
+
+msgid "IATA.PPN"
+msgstr ""
+
+msgid "IATA.PPP"
+msgstr ""
+
+msgid "IATA.PPQ"
+msgstr ""
+
+msgid "IATA.PPS"
+msgstr ""
+
+msgid "IATA.PPT"
+msgstr ""
+
+msgid "IATA.PQC"
+msgstr ""
+
+msgid "IATA.PQI"
+msgstr ""
+
+msgid "IATA.PQQ"
+msgstr ""
+
+msgid "IATA.PRA"
+msgstr ""
+
+msgid "IATA.PRB"
+msgstr ""
+
+msgid "IATA.PRC"
+msgstr ""
+
+msgid "IATA.PRG"
+msgstr ""
+
+msgid "IATA.PRH"
+msgstr ""
+
+msgid "IATA.PRI"
+msgstr ""
+
+msgid "IATA.PRM"
+msgstr ""
+
+msgid "IATA.PRN"
+msgstr ""
+
+msgid "IATA.PRV"
+msgstr ""
+
+msgid "IATA.PRX"
+msgstr ""
+
+msgid "IATA.PRY"
+msgstr ""
+
+msgid "IATA.PSA"
+msgstr ""
+
+msgid "IATA.PSC"
+msgstr ""
+
+msgid "IATA.PSD"
+msgstr ""
+
+msgid "IATA.PSE"
+msgstr ""
+
+msgid "IATA.PSG"
+msgstr ""
+
+msgid "IATA.PSI"
+msgstr ""
+
+msgid "IATA.PSJ"
+msgstr ""
+
+msgid "IATA.PSM"
+msgstr ""
+
+msgid "IATA.PSO"
+msgstr ""
+
+msgid "IATA.PSP"
+msgstr ""
+
+msgid "IATA.PSR"
+msgstr ""
+
+msgid "IATA.PSS"
+msgstr ""
+
+msgid "IATA.PSU"
+msgstr ""
+
+msgid "IATA.PSY"
+msgstr ""
+
+msgid "IATA.PSZ"
+msgstr ""
+
+msgid "IATA.PTG"
+msgstr ""
+
+msgid "IATA.PTH"
+msgstr ""
+
+msgid "IATA.PTJ"
+msgstr ""
+
+msgid "IATA.PTK"
+msgstr ""
+
+msgid "IATA.PTM"
+msgstr ""
+
+msgid "IATA.PTP"
+msgstr ""
+
+msgid "IATA.PTU"
+msgstr ""
+
+msgid "IATA.PTX"
+msgstr ""
+
+msgid "IATA.PTY"
+msgstr ""
+
+msgid "IATA.PUD"
+msgstr ""
+
+msgid "IATA.PUF"
+msgstr ""
+
+msgid "IATA.PUG"
+msgstr ""
+
+msgid "IATA.PUJ"
+msgstr ""
+
+msgid "IATA.PUQ"
+msgstr ""
+
+msgid "IATA.PUS"
+msgstr ""
+
+msgid "IATA.PUT"
+msgstr ""
+
+msgid "IATA.PUU"
+msgstr ""
+
+msgid "IATA.PUW"
+msgstr ""
+
+msgid "IATA.PUY"
+msgstr ""
+
+msgid "IATA.PUZ"
+msgstr ""
+
+msgid "IATA.PVA"
+msgstr ""
+
+msgid "IATA.PVD"
+msgstr ""
+
+msgid "IATA.PVG"
+msgstr ""
+
+msgid "IATA.PVH"
+msgstr ""
+
+msgid "IATA.PVK"
+msgstr ""
+
+msgid "IATA.PVO"
+msgstr ""
+
+msgid "IATA.PVR"
+msgstr ""
+
+msgid "IATA.PVS"
+msgstr ""
+
+msgid "IATA.PVU"
+msgstr ""
+
+msgid "IATA.PWE"
+msgstr ""
+
+msgid "IATA.PWK"
+msgstr ""
+
+msgid "IATA.PWM"
+msgstr ""
+
+msgid "IATA.PWQ"
+msgstr ""
+
+msgid "IATA.PWT"
+msgstr ""
+
+msgid "IATA.PWY"
+msgstr ""
+
+msgid "IATA.PXM"
+msgstr ""
+
+msgid "IATA.PXO"
+msgstr ""
+
+msgid "IATA.PXR"
+msgstr ""
+
+msgid "IATA.PXU"
+msgstr ""
+
+msgid "IATA.PYH"
+msgstr ""
+
+msgid "IATA.PYJ"
+msgstr ""
+
+msgid "IATA.PYK"
+msgstr ""
+
+msgid "IATA.PYR"
+msgstr ""
+
+msgid "IATA.PZA"
+msgstr ""
+
+msgid "IATA.PZB"
+msgstr ""
+
+msgid "IATA.PZH"
+msgstr ""
+
+msgid "IATA.PZI"
+msgstr ""
+
+msgid "IATA.PZO"
+msgstr ""
+
+msgid "IATA.PZS"
+msgstr ""
+
+msgid "IATA.PZU"
+msgstr ""
+
+msgid "IATA.PZY"
+msgstr ""
+
+msgid "IATA.QBC"
+msgstr ""
+
+msgid "IATA.QCY"
+msgstr ""
+
+msgid "IATA.QGU"
+msgstr ""
+
+msgid "IATA.QHP"
+msgstr ""
+
+msgid "IATA.QHR"
+msgstr ""
+
+msgid "IATA.QJB"
+msgstr ""
+
+msgid "IATA.QLD"
+msgstr ""
+
+msgid "IATA.QLP"
+msgstr ""
+
+msgid "IATA.QLR"
+msgstr ""
+
+msgid "IATA.QLT"
+msgstr ""
+
+msgid "IATA.QNJ"
+msgstr ""
+
+msgid "IATA.QOW"
+msgstr ""
+
+msgid "IATA.QPA"
+msgstr ""
+
+msgid "IATA.QPD"
+msgstr ""
+
+msgid "IATA.QPG"
+msgstr ""
+
+msgid "IATA.QPS"
+msgstr ""
+
+msgid "IATA.QRA"
+msgstr ""
+
+msgid "IATA.QRC"
+msgstr ""
+
+msgid "IATA.QRM"
+msgstr ""
+
+msgid "IATA.QRO"
+msgstr ""
+
+msgid "IATA.QRR"
+msgstr ""
+
+msgid "IATA.QRW"
+msgstr ""
+
+msgid "IATA.QSF"
+msgstr ""
+
+msgid "IATA.QSN"
+msgstr ""
+
+msgid "IATA.QSR"
+msgstr ""
+
+msgid "IATA.QSZ"
+msgstr ""
+
+msgid "IATA.QUO"
+msgstr ""
+
+msgid "IATA.QUY"
+msgstr ""
+
+msgid "IATA.QYD"
+msgstr ""
+
+msgid "IATA.RAB"
+msgstr ""
+
+msgid "IATA.RAE"
+msgstr ""
+
+msgid "IATA.RAH"
+msgstr ""
+
+msgid "IATA.RAI"
+msgstr ""
+
+msgid "IATA.RAJ"
+msgstr ""
+
+msgid "IATA.RAK"
+msgstr ""
+
+msgid "IATA.RAL"
+msgstr ""
+
+msgid "IATA.RAO"
+msgstr ""
+
+msgid "IATA.RAP"
+msgstr ""
+
+msgid "IATA.RAR"
+msgstr ""
+
+msgid "IATA.RAS"
+msgstr ""
+
+msgid "IATA.RAZ"
+msgstr ""
+
+msgid "IATA.RBA"
+msgstr ""
+
+msgid "IATA.RBE"
+msgstr ""
+
+msgid "IATA.RBL"
+msgstr ""
+
+msgid "IATA.RBR"
+msgstr ""
+
+msgid "IATA.RBY"
+msgstr ""
+
+msgid "IATA.RCA"
+msgstr ""
+
+msgid "IATA.RCB"
+msgstr ""
+
+msgid "IATA.RCH"
+msgstr ""
+
+msgid "IATA.RCO"
+msgstr ""
+
+msgid "IATA.RCQ"
+msgstr ""
+
+msgid "IATA.RCU"
+msgstr ""
+
+msgid "IATA.RDD"
+msgstr ""
+
+msgid "IATA.RDG"
+msgstr ""
+
+msgid "IATA.RDM"
+msgstr ""
+
+msgid "IATA.RDO"
+msgstr ""
+
+msgid "IATA.RDP"
+msgstr ""
+
+msgid "IATA.RDR"
+msgstr ""
+
+msgid "IATA.RDS"
+msgstr ""
+
+msgid "IATA.RDU"
+msgstr ""
+
+msgid "IATA.RDZ"
+msgstr ""
+
+msgid "IATA.REA"
+msgstr ""
+
+msgid "IATA.REC"
+msgstr ""
+
+msgid "IATA.REG"
+msgstr ""
+
+msgid "IATA.REL"
+msgstr ""
+
+msgid "IATA.REN"
+msgstr ""
+
+msgid "IATA.REP"
+msgstr ""
+
+msgid "IATA.RER"
+msgstr ""
+
+msgid "IATA.RES"
+msgstr ""
+
+msgid "IATA.REU"
+msgstr ""
+
+msgid "IATA.REW"
+msgstr ""
+
+msgid "IATA.REX"
+msgstr ""
+
+msgid "IATA.RFD"
+msgstr ""
+
+msgid "IATA.RFP"
+msgstr ""
+
+msgid "IATA.RGA"
+msgstr ""
+
+msgid "IATA.RGI"
+msgstr ""
+
+msgid "IATA.RGK"
+msgstr ""
+
+msgid "IATA.RGL"
+msgstr ""
+
+msgid "IATA.RGN"
+msgstr ""
+
+msgid "IATA.RGO"
+msgstr ""
+
+msgid "IATA.RGS"
+msgstr ""
+
+msgid "IATA.RGT"
+msgstr ""
+
+msgid "IATA.RHD"
+msgstr ""
+
+msgid "IATA.RHI"
+msgstr ""
+
+msgid "IATA.RHO"
+msgstr ""
+
+msgid "IATA.RIA"
+msgstr ""
+
+msgid "IATA.RIC"
+msgstr ""
+
+msgid "IATA.RIJ"
+msgstr ""
+
+msgid "IATA.RIL"
+msgstr ""
+
+msgid "IATA.RIS"
+msgstr ""
+
+msgid "IATA.RIV"
+msgstr ""
+
+msgid "IATA.RIW"
+msgstr ""
+
+msgid "IATA.RIX"
+msgstr ""
+
+msgid "IATA.RIY"
+msgstr ""
+
+msgid "IATA.RIZ"
+msgstr ""
+
+msgid "IATA.RJA"
+msgstr ""
+
+msgid "IATA.RJH"
+msgstr ""
+
+msgid "IATA.RJK"
+msgstr ""
+
+msgid "IATA.RJN"
+msgstr ""
+
+msgid "IATA.RKE"
+msgstr ""
+
+msgid "IATA.RKS"
+msgstr ""
+
+msgid "IATA.RKT"
+msgstr ""
+
+msgid "IATA.RKV"
+msgstr ""
+
+msgid "IATA.RKZ"
+msgstr ""
+
+msgid "IATA.RLG"
+msgstr ""
+
+msgid "IATA.RLK"
+msgstr ""
+
+msgid "IATA.RMA"
+msgstr ""
+
+msgid "IATA.RME"
+msgstr ""
+
+msgid "IATA.RMF"
+msgstr ""
+
+msgid "IATA.RMG"
+msgstr ""
+
+msgid "IATA.RMI"
+msgstr ""
+
+msgid "IATA.RMK"
+msgstr ""
+
+msgid "IATA.RML"
+msgstr ""
+
+msgid "IATA.RMQ"
+msgstr ""
+
+msgid "IATA.RMS"
+msgstr ""
+
+msgid "IATA.RMU"
+msgstr ""
+
+msgid "IATA.RNB"
+msgstr ""
+
+msgid "IATA.RND"
+msgstr ""
+
+msgid "IATA.RNE"
+msgstr ""
+
+msgid "IATA.RNJ"
+msgstr ""
+
+msgid "IATA.RNN"
+msgstr ""
+
+msgid "IATA.RNO"
+msgstr ""
+
+msgid "IATA.RNS"
+msgstr ""
+
+msgid "IATA.ROA"
+msgstr ""
+
+msgid "IATA.ROB"
+msgstr ""
+
+msgid "IATA.ROC"
+msgstr ""
+
+msgid "IATA.ROD"
+msgstr ""
+
+msgid "IATA.ROI"
+msgstr ""
+
+msgid "IATA.ROK"
+msgstr ""
+
+msgid "IATA.ROP"
+msgstr ""
+
+msgid "IATA.ROR"
+msgstr ""
+
+msgid "IATA.ROS"
+msgstr ""
+
+msgid "IATA.ROT"
+msgstr ""
+
+msgid "IATA.ROV"
+msgstr ""
+
+msgid "IATA.ROW"
+msgstr ""
+
+msgid "IATA.ROZ"
+msgstr ""
+
+msgid "IATA.RPM"
+msgstr ""
+
+msgid "IATA.RPN"
+msgstr ""
+
+msgid "IATA.RQA"
+msgstr ""
+
+msgid "IATA.RQW"
+msgstr ""
+
+msgid "IATA.RRG"
+msgstr ""
+
+msgid "IATA.RRK"
+msgstr ""
+
+msgid "IATA.RRS"
+msgstr ""
+
+msgid "IATA.RSA"
+msgstr ""
+
+msgid "IATA.RSD"
+msgstr ""
+
+msgid "IATA.RSL"
+msgstr ""
+
+msgid "IATA.RST"
+msgstr ""
+
+msgid "IATA.RSU"
+msgstr ""
+
+msgid "IATA.RSW"
+msgstr ""
+
+msgid "IATA.RTB"
+msgstr ""
+
+msgid "IATA.RTC"
+msgstr ""
+
+msgid "IATA.RTM"
+msgstr ""
+
+msgid "IATA.RTW"
+msgstr ""
+
+msgid "IATA.RUA"
+msgstr ""
+
+msgid "IATA.RUG"
+msgstr ""
+
+msgid "IATA.RUH"
+msgstr ""
+
+msgid "IATA.RUI"
+msgstr ""
+
+msgid "IATA.RUN"
+msgstr ""
+
+msgid "IATA.RUR"
+msgstr ""
+
+msgid "IATA.RUT"
+msgstr ""
+
+msgid "IATA.RUV"
+msgstr ""
+
+msgid "IATA.RVK"
+msgstr ""
+
+msgid "IATA.RVN"
+msgstr ""
+
+msgid "IATA.RVS"
+msgstr ""
+
+msgid "IATA.RWF"
+msgstr ""
+
+msgid "IATA.RWI"
+msgstr ""
+
+msgid "IATA.RWL"
+msgstr ""
+
+msgid "IATA.RWN"
+msgstr ""
+
+msgid "IATA.RXS"
+msgstr ""
+
+msgid "IATA.RYB"
+msgstr ""
+
+msgid "IATA.RYG"
+msgstr ""
+
+msgid "IATA.RYK"
+msgstr ""
+
+msgid "IATA.RYN"
+msgstr ""
+
+msgid "IATA.RZA"
+msgstr ""
+
+msgid "IATA.RZE"
+msgstr ""
+
+msgid "IATA.RZR"
+msgstr ""
+
+msgid "IATA.SAC"
+msgstr ""
+
+msgid "IATA.SAF"
+msgstr ""
+
+msgid "IATA.SAG"
+msgstr ""
+
+msgid "IATA.SAH"
+msgstr ""
+
+msgid "IATA.SAL"
+msgstr ""
+
+msgid "IATA.SAN"
+msgstr ""
+
+msgid "IATA.SAP"
+msgstr ""
+
+msgid "IATA.SAQ"
+msgstr ""
+
+msgid "IATA.SAT"
+msgstr ""
+
+msgid "IATA.SAV"
+msgstr ""
+
+msgid "IATA.SAW"
+msgstr ""
+
+msgid "IATA.SAY"
+msgstr ""
+
+msgid "IATA.SBA"
+msgstr ""
+
+msgid "IATA.SBD"
+msgstr ""
+
+msgid "IATA.SBH"
+msgstr ""
+
+msgid "IATA.SBK"
+msgstr ""
+
+msgid "IATA.SBL"
+msgstr ""
+
+msgid "IATA.SBN"
+msgstr ""
+
+msgid "IATA.SBP"
+msgstr ""
+
+msgid "IATA.SBT"
+msgstr ""
+
+msgid "IATA.SBU"
+msgstr ""
+
+msgid "IATA.SBW"
+msgstr ""
+
+msgid "IATA.SBY"
+msgstr ""
+
+msgid "IATA.SBZ"
+msgstr ""
+
+msgid "IATA.SCC"
+msgstr ""
+
+msgid "IATA.SCE"
+msgstr ""
+
+msgid "IATA.SCH"
+msgstr ""
+
+msgid "IATA.SCI"
+msgstr ""
+
+msgid "IATA.SCK"
+msgstr ""
+
+msgid "IATA.SCL"
+msgstr ""
+
+msgid "IATA.SCM"
+msgstr ""
+
+msgid "IATA.SCN"
+msgstr ""
+
+msgid "IATA.SCO"
+msgstr ""
+
+msgid "IATA.SCQ"
+msgstr ""
+
+msgid "IATA.SCR"
+msgstr ""
+
+msgid "IATA.SCS"
+msgstr ""
+
+msgid "IATA.SCT"
+msgstr ""
+
+msgid "IATA.SCU"
+msgstr ""
+
+msgid "IATA.SCV"
+msgstr ""
+
+msgid "IATA.SCW"
+msgstr ""
+
+msgid "IATA.SDB"
+msgstr ""
+
+msgid "IATA.SDD"
+msgstr ""
+
+msgid "IATA.SDE"
+msgstr ""
+
+msgid "IATA.SDF"
+msgstr ""
+
+msgid "IATA.SDG"
+msgstr ""
+
+msgid "IATA.SDJ"
+msgstr ""
+
+msgid "IATA.SDK"
+msgstr ""
+
+msgid "IATA.SDL"
+msgstr ""
+
+msgid "IATA.SDM"
+msgstr ""
+
+msgid "IATA.SDP"
+msgstr ""
+
+msgid "IATA.SDQ"
+msgstr ""
+
+msgid "IATA.SDR"
+msgstr ""
+
+msgid "IATA.SDS"
+msgstr ""
+
+msgid "IATA.SDT"
+msgstr ""
+
+msgid "IATA.SDU"
+msgstr ""
+
+msgid "IATA.SDY"
+msgstr ""
+
+msgid "IATA.SEA"
+msgstr ""
+
+msgid "IATA.SEB"
+msgstr ""
+
+msgid "IATA.SEK"
+msgstr ""
+
+msgid "IATA.SEN"
+msgstr ""
+
+msgid "IATA.SEZ"
+msgstr ""
+
+msgid "IATA.SFA"
+msgstr ""
+
+msgid "IATA.SFB"
+msgstr ""
+
+msgid "IATA.SFD"
+msgstr ""
+
+msgid "IATA.SFE"
+msgstr ""
+
+msgid "IATA.SFF"
+msgstr ""
+
+msgid "IATA.SFG"
+msgstr ""
+
+msgid "IATA.SFJ"
+msgstr ""
+
+msgid "IATA.SFN"
+msgstr ""
+
+msgid "IATA.SFO"
+msgstr ""
+
+msgid "IATA.SFQ"
+msgstr ""
+
+msgid "IATA.SFS"
+msgstr ""
+
+msgid "IATA.SFT"
+msgstr ""
+
+msgid "IATA.SGC"
+msgstr ""
+
+msgid "IATA.SGD"
+msgstr ""
+
+msgid "IATA.SGE"
+msgstr ""
+
+msgid "IATA.SGF"
+msgstr ""
+
+msgid "IATA.SGH"
+msgstr ""
+
+msgid "IATA.SGI"
+msgstr ""
+
+msgid "IATA.SGN"
+msgstr ""
+
+msgid "IATA.SGR"
+msgstr ""
+
+msgid "IATA.SGU"
+msgstr ""
+
+msgid "IATA.SGZ"
+msgstr ""
+
+msgid "IATA.SHA"
+msgstr ""
+
+msgid "IATA.SHB"
+msgstr ""
+
+msgid "IATA.SHE"
+msgstr ""
+
+msgid "IATA.SHH"
+msgstr ""
+
+msgid "IATA.SHI"
+msgstr ""
+
+msgid "IATA.SHJ"
+msgstr ""
+
+msgid "IATA.SHL"
+msgstr ""
+
+msgid "IATA.SHM"
+msgstr ""
+
+msgid "IATA.SHO"
+msgstr ""
+
+msgid "IATA.SHR"
+msgstr ""
+
+msgid "IATA.SHT"
+msgstr ""
+
+msgid "IATA.SHV"
+msgstr ""
+
+msgid "IATA.SHW"
+msgstr ""
+
+msgid "IATA.SIA"
+msgstr ""
+
+msgid "IATA.SID"
+msgstr ""
+
+msgid "IATA.SIG"
+msgstr ""
+
+msgid "IATA.SIJ"
+msgstr ""
+
+msgid "IATA.SIN"
+msgstr ""
+
+msgid "IATA.SIO"
+msgstr ""
+
+msgid "IATA.SIP"
+msgstr ""
+
+msgid "IATA.SIR"
+msgstr ""
+
+msgid "IATA.SIS"
+msgstr ""
+
+msgid "IATA.SIT"
+msgstr ""
+
+msgid "IATA.SJC"
+msgstr ""
+
+msgid "IATA.SJD"
+msgstr ""
+
+msgid "IATA.SJE"
+msgstr ""
+
+msgid "IATA.SJI"
+msgstr ""
+
+msgid "IATA.SJJ"
+msgstr ""
+
+msgid "IATA.SJK"
+msgstr ""
+
+msgid "IATA.SJL"
+msgstr ""
+
+msgid "IATA.SJO"
+msgstr ""
+
+msgid "IATA.SJP"
+msgstr ""
+
+msgid "IATA.SJT"
+msgstr ""
+
+msgid "IATA.SJU"
+msgstr ""
+
+msgid "IATA.SJW"
+msgstr ""
+
+msgid "IATA.SJX"
+msgstr ""
+
+msgid "IATA.SJY"
+msgstr ""
+
+msgid "IATA.SJZ"
+msgstr ""
+
+msgid "IATA.SKA"
+msgstr ""
+
+msgid "IATA.SKB"
+msgstr ""
+
+msgid "IATA.SKD"
+msgstr ""
+
+msgid "IATA.SKE"
+msgstr ""
+
+msgid "IATA.SKF"
+msgstr ""
+
+msgid "IATA.SKG"
+msgstr ""
+
+msgid "IATA.SKN"
+msgstr ""
+
+msgid "IATA.SKO"
+msgstr ""
+
+msgid "IATA.SKP"
+msgstr ""
+
+msgid "IATA.SKS"
+msgstr ""
+
+msgid "IATA.SKT"
+msgstr ""
+
+msgid "IATA.SKV"
+msgstr ""
+
+msgid "IATA.SKX"
+msgstr ""
+
+msgid "IATA.SKZ"
+msgstr ""
+
+msgid "IATA.SLA"
+msgstr ""
+
+msgid "IATA.SLC"
+msgstr ""
+
+msgid "IATA.SLD"
+msgstr ""
+
+msgid "IATA.SLE"
+msgstr ""
+
+msgid "IATA.SLK"
+msgstr ""
+
+msgid "IATA.SLL"
+msgstr ""
+
+msgid "IATA.SLM"
+msgstr ""
+
+msgid "IATA.SLN"
+msgstr ""
+
+msgid "IATA.SLP"
+msgstr ""
+
+msgid "IATA.SLU"
+msgstr ""
+
+msgid "IATA.SLW"
+msgstr ""
+
+msgid "IATA.SLY"
+msgstr ""
+
+msgid "IATA.SLZ"
+msgstr ""
+
+msgid "IATA.SMA"
+msgstr ""
+
+msgid "IATA.SME"
+msgstr ""
+
+msgid "IATA.SMF"
+msgstr ""
+
+msgid "IATA.SMI"
+msgstr ""
+
+msgid "IATA.SML"
+msgstr ""
+
+msgid "IATA.SMN"
+msgstr ""
+
+msgid "IATA.SMR"
+msgstr ""
+
+msgid "IATA.SMS"
+msgstr ""
+
+msgid "IATA.SMV"
+msgstr ""
+
+msgid "IATA.SMW"
+msgstr ""
+
+msgid "IATA.SMX"
+msgstr ""
+
+msgid "IATA.SNA"
+msgstr ""
+
+msgid "IATA.SNB"
+msgstr ""
+
+msgid "IATA.SNC"
+msgstr ""
+
+msgid "IATA.SNE"
+msgstr ""
+
+msgid "IATA.SNF"
+msgstr ""
+
+msgid "IATA.SNJ"
+msgstr ""
+
+msgid "IATA.SNN"
+msgstr ""
+
+msgid "IATA.SNO"
+msgstr ""
+
+msgid "IATA.SNP"
+msgstr ""
+
+msgid "IATA.SNR"
+msgstr ""
+
+msgid "IATA.SNS"
+msgstr ""
+
+msgid "IATA.SNU"
+msgstr ""
+
+msgid "IATA.SNV"
+msgstr ""
+
+msgid "IATA.SNW"
+msgstr ""
+
+msgid "IATA.SNY"
+msgstr ""
+
+msgid "IATA.SNZ"
+msgstr ""
+
+msgid "IATA.SOB"
+msgstr ""
+
+msgid "IATA.SOF"
+msgstr ""
+
+msgid "IATA.SOJ"
+msgstr ""
+
+msgid "IATA.SOM"
+msgstr ""
+
+msgid "IATA.SON"
+msgstr ""
+
+msgid "IATA.SOO"
+msgstr ""
+
+msgid "IATA.SOQ"
+msgstr ""
+
+msgid "IATA.SOT"
+msgstr ""
+
+msgid "IATA.SOU"
+msgstr ""
+
+msgid "IATA.SOZ"
+msgstr ""
+
+msgid "IATA.SPC"
+msgstr ""
+
+msgid "IATA.SPD"
+msgstr ""
+
+msgid "IATA.SPI"
+msgstr ""
+
+msgid "IATA.SPM"
+msgstr ""
+
+msgid "IATA.SPN"
+msgstr ""
+
+msgid "IATA.SPP"
+msgstr ""
+
+msgid "IATA.SPR"
+msgstr ""
+
+msgid "IATA.SPS"
+msgstr ""
+
+msgid "IATA.SPU"
+msgstr ""
+
+msgid "IATA.SPY"
+msgstr ""
+
+msgid "IATA.SQD"
+msgstr ""
+
+msgid "IATA.SQG"
+msgstr ""
+
+msgid "IATA.SQJ"
+msgstr ""
+
+msgid "IATA.SQO"
+msgstr ""
+
+msgid "IATA.SQQ"
+msgstr ""
+
+msgid "IATA.SQW"
+msgstr ""
+
+msgid "IATA.SQZ"
+msgstr ""
+
+msgid "IATA.SRE"
+msgstr ""
+
+msgid "IATA.SRP"
+msgstr ""
+
+msgid "IATA.SRQ"
+msgstr ""
+
+msgid "IATA.SRT"
+msgstr ""
+
+msgid "IATA.SRX"
+msgstr ""
+
+msgid "IATA.SRY"
+msgstr ""
+
+msgid "IATA.SRZ"
+msgstr ""
+
+msgid "IATA.SSA"
+msgstr ""
+
+msgid "IATA.SSC"
+msgstr ""
+
+msgid "IATA.SSE"
+msgstr ""
+
+msgid "IATA.SSF"
+msgstr ""
+
+msgid "IATA.SSG"
+msgstr ""
+
+msgid "IATA.SSH"
+msgstr ""
+
+msgid "IATA.SSI"
+msgstr ""
+
+msgid "IATA.SSJ"
+msgstr ""
+
+msgid "IATA.SSN"
+msgstr ""
+
+msgid "IATA.SST"
+msgstr ""
+
+msgid "IATA.SSY"
+msgstr ""
+
+msgid "IATA.SSZ"
+msgstr ""
+
+msgid "IATA.STA"
+msgstr ""
+
+msgid "IATA.STB"
+msgstr ""
+
+msgid "IATA.STC"
+msgstr ""
+
+msgid "IATA.STD"
+msgstr ""
+
+msgid "IATA.STG"
+msgstr ""
+
+msgid "IATA.STI"
+msgstr ""
+
+msgid "IATA.STJ"
+msgstr ""
+
+msgid "IATA.STL"
+msgstr ""
+
+msgid "IATA.STM"
+msgstr ""
+
+msgid "IATA.STN"
+msgstr ""
+
+msgid "IATA.STP"
+msgstr ""
+
+msgid "IATA.STR"
+msgstr ""
+
+msgid "IATA.STS"
+msgstr ""
+
+msgid "IATA.STT"
+msgstr ""
+
+msgid "IATA.STV"
+msgstr ""
+
+msgid "IATA.STW"
+msgstr ""
+
+msgid "IATA.STX"
+msgstr ""
+
+msgid "IATA.STY"
+msgstr ""
+
+msgid "IATA.SUB"
+msgstr ""
+
+msgid "IATA.SUF"
+msgstr ""
+
+msgid "IATA.SUG"
+msgstr ""
+
+msgid "IATA.SUI"
+msgstr ""
+
+msgid "IATA.SUJ"
+msgstr ""
+
+msgid "IATA.SUL"
+msgstr ""
+
+msgid "IATA.SUN"
+msgstr ""
+
+msgid "IATA.SUS"
+msgstr ""
+
+msgid "IATA.SUU"
+msgstr ""
+
+msgid "IATA.SUV"
+msgstr ""
+
+msgid "IATA.SUX"
+msgstr ""
+
+msgid "IATA.SVA"
+msgstr ""
+
+msgid "IATA.SVB"
+msgstr ""
+
+msgid "IATA.SVD"
+msgstr ""
+
+msgid "IATA.SVG"
+msgstr ""
+
+msgid "IATA.SVI"
+msgstr ""
+
+msgid "IATA.SVJ"
+msgstr ""
+
+msgid "IATA.SVL"
+msgstr ""
+
+msgid "IATA.SVN"
+msgstr ""
+
+msgid "IATA.SVO"
+msgstr ""
+
+msgid "IATA.SVP"
+msgstr ""
+
+msgid "IATA.SVQ"
+msgstr ""
+
+msgid "IATA.SVW"
+msgstr ""
+
+msgid "IATA.SVX"
+msgstr ""
+
+msgid "IATA.SVZ"
+msgstr ""
+
+msgid "IATA.SWA"
+msgstr ""
+
+msgid "IATA.SWC"
+msgstr ""
+
+msgid "IATA.SWD"
+msgstr ""
+
+msgid "IATA.SWF"
+msgstr ""
+
+msgid "IATA.SWH"
+msgstr ""
+
+msgid "IATA.SWO"
+msgstr ""
+
+msgid "IATA.SWS"
+msgstr ""
+
+msgid "IATA.SWT"
+msgstr ""
+
+msgid "IATA.SWU"
+msgstr ""
+
+msgid "IATA.SXB"
+msgstr ""
+
+msgid "IATA.SXE"
+msgstr ""
+
+msgid "IATA.SXF"
+msgstr ""
+
+msgid "IATA.SXI"
+msgstr ""
+
+msgid "IATA.SXJ"
+msgstr ""
+
+msgid "IATA.SXL"
+msgstr ""
+
+msgid "IATA.SXM"
+msgstr ""
+
+msgid "IATA.SXN"
+msgstr ""
+
+msgid "IATA.SXQ"
+msgstr ""
+
+msgid "IATA.SXR"
+msgstr ""
+
+msgid "IATA.SXV"
+msgstr ""
+
+msgid "IATA.SXZ"
+msgstr ""
+
+msgid "IATA.SYA"
+msgstr ""
+
+msgid "IATA.SYD"
+msgstr ""
+
+msgid "IATA.SYJ"
+msgstr ""
+
+msgid "IATA.SYO"
+msgstr ""
+
+msgid "IATA.SYP"
+msgstr ""
+
+msgid "IATA.SYQ"
+msgstr ""
+
+msgid "IATA.SYR"
+msgstr ""
+
+msgid "IATA.SYS"
+msgstr ""
+
+msgid "IATA.SYT"
+msgstr ""
+
+msgid "IATA.SYW"
+msgstr ""
+
+msgid "IATA.SYX"
+msgstr ""
+
+msgid "IATA.SYY"
+msgstr ""
+
+msgid "IATA.SYZ"
+msgstr ""
+
+msgid "IATA.SZA"
+msgstr ""
+
+msgid "IATA.SZB"
+msgstr ""
+
+msgid "IATA.SZG"
+msgstr ""
+
+msgid "IATA.SZJ"
+msgstr ""
+
+msgid "IATA.SZK"
+msgstr ""
+
+msgid "IATA.SZL"
+msgstr ""
+
+msgid "IATA.SZV"
+msgstr ""
+
+msgid "IATA.SZW"
+msgstr ""
+
+msgid "IATA.SZX"
+msgstr ""
+
+msgid "IATA.SZY"
+msgstr ""
+
+msgid "IATA.SZZ"
+msgstr ""
+
+msgid "IATA.TAB"
+msgstr ""
+
+msgid "IATA.TAC"
+msgstr ""
+
+msgid "IATA.TAE"
+msgstr ""
+
+msgid "IATA.TAF"
+msgstr ""
+
+msgid "IATA.TAG"
+msgstr ""
+
+msgid "IATA.TAH"
+msgstr ""
+
+msgid "IATA.TAI"
+msgstr ""
+
+msgid "IATA.TAK"
+msgstr ""
+
+msgid "IATA.TAM"
+msgstr ""
+
+msgid "IATA.TAO"
+msgstr ""
+
+msgid "IATA.TAP"
+msgstr ""
+
+msgid "IATA.TAR"
+msgstr ""
+
+msgid "IATA.TAS"
+msgstr ""
+
+msgid "IATA.TAT"
+msgstr ""
+
+msgid "IATA.TAY"
+msgstr ""
+
+msgid "IATA.TAZ"
+msgstr ""
+
+msgid "IATA.TBB"
+msgstr ""
+
+msgid "IATA.TBF"
+msgstr ""
+
+msgid "IATA.TBH"
+msgstr ""
+
+msgid "IATA.TBI"
+msgstr ""
+
+msgid "IATA.TBJ"
+msgstr ""
+
+msgid "IATA.TBN"
+msgstr ""
+
+msgid "IATA.TBP"
+msgstr ""
+
+msgid "IATA.TBS"
+msgstr ""
+
+msgid "IATA.TBT"
+msgstr ""
+
+msgid "IATA.TBU"
+msgstr ""
+
+msgid "IATA.TBW"
+msgstr ""
+
+msgid "IATA.TBZ"
+msgstr ""
+
+msgid "IATA.TCA"
+msgstr ""
+
+msgid "IATA.TCB"
+msgstr ""
+
+msgid "IATA.TCC"
+msgstr ""
+
+msgid "IATA.TCE"
+msgstr ""
+
+msgid "IATA.TCL"
+msgstr ""
+
+msgid "IATA.TCM"
+msgstr ""
+
+msgid "IATA.TCO"
+msgstr ""
+
+msgid "IATA.TCP"
+msgstr ""
+
+msgid "IATA.TCQ"
+msgstr ""
+
+msgid "IATA.TCS"
+msgstr ""
+
+msgid "IATA.TCX"
+msgstr ""
+
+msgid "IATA.TCZ"
+msgstr ""
+
+msgid "IATA.TDD"
+msgstr ""
+
+msgid "IATA.TDG"
+msgstr ""
+
+msgid "IATA.TDK"
+msgstr ""
+
+msgid "IATA.TDL"
+msgstr ""
+
+msgid "IATA.TDX"
+msgstr ""
+
+msgid "IATA.TEA"
+msgstr ""
+
+msgid "IATA.TEB"
+msgstr ""
+
+msgid "IATA.TEC"
+msgstr ""
+
+msgid "IATA.TED"
+msgstr ""
+
+msgid "IATA.TEE"
+msgstr ""
+
+msgid "IATA.TEF"
+msgstr ""
+
+msgid "IATA.TEM"
+msgstr ""
+
+msgid "IATA.TEQ"
+msgstr ""
+
+msgid "IATA.TER"
+msgstr ""
+
+msgid "IATA.TET"
+msgstr ""
+
+msgid "IATA.TEU"
+msgstr ""
+
+msgid "IATA.TEV"
+msgstr ""
+
+msgid "IATA.TEZ"
+msgstr ""
+
+msgid "IATA.TFF"
+msgstr ""
+
+msgid "IATA.TFN"
+msgstr ""
+
+msgid "IATA.TFS"
+msgstr ""
+
+msgid "IATA.TGA"
+msgstr ""
+
+msgid "IATA.TGD"
+msgstr ""
+
+msgid "IATA.TGG"
+msgstr ""
+
+msgid "IATA.TGJ"
+msgstr ""
+
+msgid "IATA.TGK"
+msgstr ""
+
+msgid "IATA.TGM"
+msgstr ""
+
+msgid "IATA.TGN"
+msgstr ""
+
+msgid "IATA.TGO"
+msgstr ""
+
+msgid "IATA.TGP"
+msgstr ""
+
+msgid "IATA.TGR"
+msgstr ""
+
+msgid "IATA.TGT"
+msgstr ""
+
+msgid "IATA.TGU"
+msgstr ""
+
+msgid "IATA.TGZ"
+msgstr ""
+
+msgid "IATA.THE"
+msgstr ""
+
+msgid "IATA.THG"
+msgstr ""
+
+msgid "IATA.THL"
+msgstr ""
+
+msgid "IATA.THN"
+msgstr ""
+
+msgid "IATA.THQ"
+msgstr ""
+
+msgid "IATA.THR"
+msgstr ""
+
+msgid "IATA.THS"
+msgstr ""
+
+msgid "IATA.THU"
+msgstr ""
+
+msgid "IATA.THZ"
+msgstr ""
+
+msgid "IATA.TIA"
+msgstr ""
+
+msgid "IATA.TID"
+msgstr ""
+
+msgid "IATA.TIF"
+msgstr ""
+
+msgid "IATA.TIH"
+msgstr ""
+
+msgid "IATA.TIJ"
+msgstr ""
+
+msgid "IATA.TIK"
+msgstr ""
+
+msgid "IATA.TIM"
+msgstr ""
+
+msgid "IATA.TIN"
+msgstr ""
+
+msgid "IATA.TIP"
+msgstr ""
+
+msgid "IATA.TIQ"
+msgstr ""
+
+msgid "IATA.TIU"
+msgstr ""
+
+msgid "IATA.TIV"
+msgstr ""
+
+msgid "IATA.TIW"
+msgstr ""
+
+msgid "IATA.TIX"
+msgstr ""
+
+msgid "IATA.TJA"
+msgstr ""
+
+msgid "IATA.TJG"
+msgstr ""
+
+msgid "IATA.TJH"
+msgstr ""
+
+msgid "IATA.TJI"
+msgstr ""
+
+msgid "IATA.TJK"
+msgstr ""
+
+msgid "IATA.TJM"
+msgstr ""
+
+msgid "IATA.TJU"
+msgstr ""
+
+msgid "IATA.TKA"
+msgstr ""
+
+msgid "IATA.TKC"
+msgstr ""
+
+msgid "IATA.TKD"
+msgstr ""
+
+msgid "IATA.TKF"
+msgstr ""
+
+msgid "IATA.TKG"
+msgstr ""
+
+msgid "IATA.TKH"
+msgstr ""
+
+msgid "IATA.TKK"
+msgstr ""
+
+msgid "IATA.TKN"
+msgstr ""
+
+msgid "IATA.TKP"
+msgstr ""
+
+msgid "IATA.TKS"
+msgstr ""
+
+msgid "IATA.TKT"
+msgstr ""
+
+msgid "IATA.TKU"
+msgstr ""
+
+msgid "IATA.TKX"
+msgstr ""
+
+msgid "IATA.TLC"
+msgstr ""
+
+msgid "IATA.TLE"
+msgstr ""
+
+msgid "IATA.TLH"
+msgstr ""
+
+msgid "IATA.TLJ"
+msgstr ""
+
+msgid "IATA.TLL"
+msgstr ""
+
+msgid "IATA.TLM"
+msgstr ""
+
+msgid "IATA.TLN"
+msgstr ""
+
+msgid "IATA.TLQ"
+msgstr ""
+
+msgid "IATA.TLS"
+msgstr ""
+
+msgid "IATA.TLV"
+msgstr ""
+
+msgid "IATA.TLX"
+msgstr ""
+
+msgid "IATA.TMB"
+msgstr ""
+
+msgid "IATA.TME"
+msgstr ""
+
+msgid "IATA.TMJ"
+msgstr ""
+
+msgid "IATA.TML"
+msgstr ""
+
+msgid "IATA.TMM"
+msgstr ""
+
+msgid "IATA.TMO"
+msgstr ""
+
+msgid "IATA.TMP"
+msgstr ""
+
+msgid "IATA.TMR"
+msgstr ""
+
+msgid "IATA.TMS"
+msgstr ""
+
+msgid "IATA.TMT"
+msgstr ""
+
+msgid "IATA.TMW"
+msgstr ""
+
+msgid "IATA.TMX"
+msgstr ""
+
+msgid "IATA.TNA"
+msgstr ""
+
+msgid "IATA.TND"
+msgstr ""
+
+msgid "IATA.TNE"
+msgstr ""
+
+msgid "IATA.TNF"
+msgstr ""
+
+msgid "IATA.TNG"
+msgstr ""
+
+msgid "IATA.TNH"
+msgstr ""
+
+msgid "IATA.TNN"
+msgstr ""
+
+msgid "IATA.TNR"
+msgstr ""
+
+msgid "IATA.TNW"
+msgstr ""
+
+msgid "IATA.TNX"
+msgstr ""
+
+msgid "IATA.TOD"
+msgstr ""
+
+msgid "IATA.TOE"
+msgstr ""
+
+msgid "IATA.TOF"
+msgstr ""
+
+msgid "IATA.TOG"
+msgstr ""
+
+msgid "IATA.TOI"
+msgstr ""
+
+msgid "IATA.TOJ"
+msgstr ""
+
+msgid "IATA.TOL"
+msgstr ""
+
+msgid "IATA.TOM"
+msgstr ""
+
+msgid "IATA.TOO"
+msgstr ""
+
+msgid "IATA.TOP"
+msgstr ""
+
+msgid "IATA.TOQ"
+msgstr ""
+
+msgid "IATA.TOS"
+msgstr ""
+
+msgid "IATA.TOU"
+msgstr ""
+
+msgid "IATA.TOY"
+msgstr ""
+
+msgid "IATA.TPA"
+msgstr ""
+
+msgid "IATA.TPC"
+msgstr ""
+
+msgid "IATA.TPE"
+msgstr ""
+
+msgid "IATA.TPH"
+msgstr ""
+
+msgid "IATA.TPJ"
+msgstr ""
+
+msgid "IATA.TPL"
+msgstr ""
+
+msgid "IATA.TPP"
+msgstr ""
+
+msgid "IATA.TPQ"
+msgstr ""
+
+msgid "IATA.TPS"
+msgstr ""
+
+msgid "IATA.TQD"
+msgstr ""
+
+msgid "IATA.TQS"
+msgstr ""
+
+msgid "IATA.TRA"
+msgstr ""
+
+msgid "IATA.TRC"
+msgstr ""
+
+msgid "IATA.TRD"
+msgstr ""
+
+msgid "IATA.TRE"
+msgstr ""
+
+msgid "IATA.TRF"
+msgstr ""
+
+msgid "IATA.TRG"
+msgstr ""
+
+msgid "IATA.TRI"
+msgstr ""
+
+msgid "IATA.TRK"
+msgstr ""
+
+msgid "IATA.TRM"
+msgstr ""
+
+msgid "IATA.TRN"
+msgstr ""
+
+msgid "IATA.TRO"
+msgstr ""
+
+msgid "IATA.TRQ"
+msgstr ""
+
+msgid "IATA.TRR"
+msgstr ""
+
+msgid "IATA.TRS"
+msgstr ""
+
+msgid "IATA.TRU"
+msgstr ""
+
+msgid "IATA.TRV"
+msgstr ""
+
+msgid "IATA.TRW"
+msgstr ""
+
+msgid "IATA.TRZ"
+msgstr ""
+
+msgid "IATA.TSA"
+msgstr ""
+
+msgid "IATA.TSB"
+msgstr ""
+
+msgid "IATA.TSE"
+msgstr ""
+
+msgid "IATA.TSF"
+msgstr ""
+
+msgid "IATA.TSJ"
+msgstr ""
+
+msgid "IATA.TSN"
+msgstr ""
+
+msgid "IATA.TSR"
+msgstr ""
+
+msgid "IATA.TST"
+msgstr ""
+
+msgid "IATA.TSV"
+msgstr ""
+
+msgid "IATA.TTA"
+msgstr ""
+
+msgid "IATA.TTB"
+msgstr ""
+
+msgid "IATA.TTC"
+msgstr ""
+
+msgid "IATA.TTD"
+msgstr ""
+
+msgid "IATA.TTE"
+msgstr ""
+
+msgid "IATA.TTG"
+msgstr ""
+
+msgid "IATA.TTH"
+msgstr ""
+
+msgid "IATA.TTJ"
+msgstr ""
+
+msgid "IATA.TTN"
+msgstr ""
+
+msgid "IATA.TTQ"
+msgstr ""
+
+msgid "IATA.TTT"
+msgstr ""
+
+msgid "IATA.TTU"
+msgstr ""
+
+msgid "IATA.TUA"
+msgstr ""
+
+msgid "IATA.TUB"
+msgstr ""
+
+msgid "IATA.TUC"
+msgstr ""
+
+msgid "IATA.TUD"
+msgstr ""
+
+msgid "IATA.TUF"
+msgstr ""
+
+msgid "IATA.TUG"
+msgstr ""
+
+msgid "IATA.TUI"
+msgstr ""
+
+msgid "IATA.TUK"
+msgstr ""
+
+msgid "IATA.TUL"
+msgstr ""
+
+msgid "IATA.TUM"
+msgstr ""
+
+msgid "IATA.TUN"
+msgstr ""
+
+msgid "IATA.TUO"
+msgstr ""
+
+msgid "IATA.TUP"
+msgstr ""
+
+msgid "IATA.TUR"
+msgstr ""
+
+msgid "IATA.TUS"
+msgstr ""
+
+msgid "IATA.TUU"
+msgstr ""
+
+msgid "IATA.TUV"
+msgstr ""
+
+msgid "IATA.TVC"
+msgstr ""
+
+msgid "IATA.TVL"
+msgstr ""
+
+msgid "IATA.TVY"
+msgstr ""
+
+msgid "IATA.TWF"
+msgstr ""
+
+msgid "IATA.TWT"
+msgstr ""
+
+msgid "IATA.TWU"
+msgstr ""
+
+msgid "IATA.TWZ"
+msgstr ""
+
+msgid "IATA.TXE"
+msgstr ""
+
+msgid "IATA.TXK"
+msgstr ""
+
+msgid "IATA.TXL"
+msgstr ""
+
+msgid "IATA.TXN"
+msgstr ""
+
+msgid "IATA.TYB"
+msgstr ""
+
+msgid "IATA.TYF"
+msgstr ""
+
+msgid "IATA.TYL"
+msgstr ""
+
+msgid "IATA.TYM"
+msgstr ""
+
+msgid "IATA.TYN"
+msgstr ""
+
+msgid "IATA.TYR"
+msgstr ""
+
+msgid "IATA.TYS"
+msgstr ""
+
+msgid "IATA.TZA"
+msgstr ""
+
+msgid "IATA.TZL"
+msgstr ""
+
+msgid "IATA.TZN"
+msgstr ""
+
+msgid "IATA.TZR"
+msgstr ""
+
+msgid "IATA.TZX"
+msgstr ""
+
+msgid "IATA.UAB"
+msgstr ""
+
+msgid "IATA.UAI"
+msgstr ""
+
+msgid "IATA.UAK"
+msgstr ""
+
+msgid "IATA.UAM"
+msgstr ""
+
+msgid "IATA.UAQ"
+msgstr ""
+
+msgid "IATA.UAR"
+msgstr ""
+
+msgid "IATA.UBA"
+msgstr ""
+
+msgid "IATA.UBJ"
+msgstr ""
+
+msgid "IATA.UBP"
+msgstr ""
+
+msgid "IATA.UCB"
+msgstr ""
+
+msgid "IATA.UCT"
+msgstr ""
+
+msgid "IATA.UDI"
+msgstr ""
+
+msgid "IATA.UDJ"
+msgstr ""
+
+msgid "IATA.UDR"
+msgstr ""
+
+msgid "IATA.UEL"
+msgstr ""
+
+msgid "IATA.UEO"
+msgstr ""
+
+msgid "IATA.UET"
+msgstr ""
+
+msgid "IATA.UFA"
+msgstr ""
+
+msgid "IATA.UGA"
+msgstr ""
+
+msgid "IATA.UGC"
+msgstr ""
+
+msgid "IATA.UGO"
+msgstr ""
+
+msgid "IATA.UGU"
+msgstr ""
+
+msgid "IATA.UHE"
+msgstr ""
+
+msgid "IATA.UIB"
+msgstr ""
+
+msgid "IATA.UIH"
+msgstr ""
+
+msgid "IATA.UIN"
+msgstr ""
+
+msgid "IATA.UIO"
+msgstr ""
+
+msgid "IATA.UIP"
+msgstr ""
+
+msgid "IATA.UKB"
+msgstr ""
+
+msgid "IATA.UKI"
+msgstr ""
+
+msgid "IATA.UKK"
+msgstr ""
+
+msgid "IATA.UKS"
+msgstr ""
+
+msgid "IATA.UKX"
+msgstr ""
+
+msgid "IATA.ULA"
+msgstr ""
+
+msgid "IATA.ULD"
+msgstr ""
+
+msgid "IATA.ULH"
+msgstr ""
+
+msgid "IATA.ULK"
+msgstr ""
+
+msgid "IATA.ULN"
+msgstr ""
+
+msgid "IATA.ULP"
+msgstr ""
+
+msgid "IATA.ULQ"
+msgstr ""
+
+msgid "IATA.ULU"
+msgstr ""
+
+msgid "IATA.ULV"
+msgstr ""
+
+msgid "IATA.ULY"
+msgstr ""
+
+msgid "IATA.UME"
+msgstr ""
+
+msgid "IATA.UND"
+msgstr ""
+
+msgid "IATA.UNI"
+msgstr ""
+
+msgid "IATA.UNN"
+msgstr ""
+
+msgid "IATA.UOX"
+msgstr ""
+
+msgid "IATA.UPB"
+msgstr ""
+
+msgid "IATA.UPG"
+msgstr ""
+
+msgid "IATA.UPL"
+msgstr ""
+
+msgid "IATA.UPN"
+msgstr ""
+
+msgid "IATA.UPP"
+msgstr ""
+
+msgid "IATA.URA"
+msgstr ""
+
+msgid "IATA.URC"
+msgstr ""
+
+msgid "IATA.URE"
+msgstr ""
+
+msgid "IATA.URG"
+msgstr ""
+
+msgid "IATA.URJ"
+msgstr ""
+
+msgid "IATA.URO"
+msgstr ""
+
+msgid "IATA.URS"
+msgstr ""
+
+msgid "IATA.URT"
+msgstr ""
+
+msgid "IATA.URY"
+msgstr ""
+
+msgid "IATA.USH"
+msgstr ""
+
+msgid "IATA.USK"
+msgstr ""
+
+msgid "IATA.USM"
+msgstr ""
+
+msgid "IATA.USN"
+msgstr ""
+
+msgid "IATA.USR"
+msgstr ""
+
+msgid "IATA.UST"
+msgstr ""
+
+msgid "IATA.USU"
+msgstr ""
+
+msgid "IATA.UTH"
+msgstr ""
+
+msgid "IATA.UTI"
+msgstr ""
+
+msgid "IATA.UTN"
+msgstr ""
+
+msgid "IATA.UTO"
+msgstr ""
+
+msgid "IATA.UTP"
+msgstr ""
+
+msgid "IATA.UTS"
+msgstr ""
+
+msgid "IATA.UTT"
+msgstr ""
+
+msgid "IATA.UTW"
+msgstr ""
+
+msgid "IATA.UUA"
+msgstr ""
+
+msgid "IATA.UUD"
+msgstr ""
+
+msgid "IATA.UUN"
+msgstr ""
+
+msgid "IATA.UUS"
+msgstr ""
+
+msgid "IATA.UVE"
+msgstr ""
+
+msgid "IATA.UVF"
+msgstr ""
+
+msgid "IATA.UZU"
+msgstr ""
+
+msgid "IATA.VAA"
+msgstr ""
+
+msgid "IATA.VAD"
+msgstr ""
+
+msgid "IATA.VAF"
+msgstr ""
+
+msgid "IATA.VAG"
+msgstr ""
+
+msgid "IATA.VAI"
+msgstr ""
+
+msgid "IATA.VAM"
+msgstr ""
+
+msgid "IATA.VAN"
+msgstr ""
+
+msgid "IATA.VAR"
+msgstr ""
+
+msgid "IATA.VAV"
+msgstr ""
+
+msgid "IATA.VAW"
+msgstr ""
+
+msgid "IATA.VBG"
+msgstr ""
+
+msgid "IATA.VBS"
+msgstr ""
+
+msgid "IATA.VBY"
+msgstr ""
+
+msgid "IATA.VCA"
+msgstr ""
+
+msgid "IATA.VCE"
+msgstr ""
+
+msgid "IATA.VCP"
+msgstr ""
+
+msgid "IATA.VCR"
+msgstr ""
+
+msgid "IATA.VCS"
+msgstr ""
+
+msgid "IATA.VCT"
+msgstr ""
+
+msgid "IATA.VDA"
+msgstr ""
+
+msgid "IATA.VDB"
+msgstr ""
+
+msgid "IATA.VDE"
+msgstr ""
+
+msgid "IATA.VDH"
+msgstr ""
+
+msgid "IATA.VDM"
+msgstr ""
+
+msgid "IATA.VDO"
+msgstr ""
+
+msgid "IATA.VDP"
+msgstr ""
+
+msgid "IATA.VDR"
+msgstr ""
+
+msgid "IATA.VDS"
+msgstr ""
+
+msgid "IATA.VDZ"
+msgstr ""
+
+msgid "IATA.VEL"
+msgstr ""
+
+msgid "IATA.VER"
+msgstr ""
+
+msgid "IATA.VEY"
+msgstr ""
+
+msgid "IATA.VFA"
+msgstr ""
+
+msgid "IATA.VGA"
+msgstr ""
+
+msgid "IATA.VGD"
+msgstr ""
+
+msgid "IATA.VGO"
+msgstr ""
+
+msgid "IATA.VGT"
+msgstr ""
+
+msgid "IATA.VHC"
+msgstr ""
+
+msgid "IATA.VHM"
+msgstr ""
+
+msgid "IATA.VHY"
+msgstr ""
+
+msgid "IATA.VIE"
+msgstr ""
+
+msgid "IATA.VIG"
+msgstr ""
+
+msgid "IATA.VII"
+msgstr ""
+
+msgid "IATA.VIL"
+msgstr ""
+
+msgid "IATA.VIR"
+msgstr ""
+
+msgid "IATA.VIT"
+msgstr ""
+
+msgid "IATA.VIX"
+msgstr ""
+
+msgid "IATA.VIY"
+msgstr ""
+
+msgid "IATA.VKG"
+msgstr ""
+
+msgid "IATA.VKO"
+msgstr ""
+
+msgid "IATA.VKT"
+msgstr ""
+
+msgid "IATA.VLC"
+msgstr ""
+
+msgid "IATA.VLD"
+msgstr ""
+
+msgid "IATA.VLG"
+msgstr ""
+
+msgid "IATA.VLI"
+msgstr ""
+
+msgid "IATA.VLL"
+msgstr ""
+
+msgid "IATA.VLM"
+msgstr ""
+
+msgid "IATA.VLN"
+msgstr ""
+
+msgid "IATA.VLR"
+msgstr ""
+
+msgid "IATA.VLU"
+msgstr ""
+
+msgid "IATA.VLV"
+msgstr ""
+
+msgid "IATA.VLY"
+msgstr ""
+
+msgid "IATA.VME"
+msgstr ""
+
+msgid "IATA.VMU"
+msgstr ""
+
+msgid "IATA.VNE"
+msgstr ""
+
+msgid "IATA.VNO"
+msgstr ""
+
+msgid "IATA.VNS"
+msgstr ""
+
+msgid "IATA.VNT"
+msgstr ""
+
+msgid "IATA.VNX"
+msgstr ""
+
+msgid "IATA.VNY"
+msgstr ""
+
+msgid "IATA.VOD"
+msgstr ""
+
+msgid "IATA.VOG"
+msgstr ""
+
+msgid "IATA.VOH"
+msgstr ""
+
+msgid "IATA.VOK"
+msgstr ""
+
+msgid "IATA.VOL"
+msgstr ""
+
+msgid "IATA.VOZ"
+msgstr ""
+
+msgid "IATA.VPE"
+msgstr ""
+
+msgid "IATA.VPS"
+msgstr ""
+
+msgid "IATA.VPY"
+msgstr ""
+
+msgid "IATA.VPZ"
+msgstr ""
+
+msgid "IATA.VRA"
+msgstr ""
+
+msgid "IATA.VRB"
+msgstr ""
+
+msgid "IATA.VRC"
+msgstr ""
+
+msgid "IATA.VRE"
+msgstr ""
+
+msgid "IATA.VRK"
+msgstr ""
+
+msgid "IATA.VRL"
+msgstr ""
+
+msgid "IATA.VRN"
+msgstr ""
+
+msgid "IATA.VRO"
+msgstr ""
+
+msgid "IATA.VRU"
+msgstr ""
+
+msgid "IATA.VSA"
+msgstr ""
+
+msgid "IATA.VSE"
+msgstr ""
+
+msgid "IATA.VSG"
+msgstr ""
+
+msgid "IATA.VST"
+msgstr ""
+
+msgid "IATA.VTB"
+msgstr ""
+
+msgid "IATA.VTE"
+msgstr ""
+
+msgid "IATA.VTM"
+msgstr ""
+
+msgid "IATA.VTN"
+msgstr ""
+
+msgid "IATA.VTU"
+msgstr ""
+
+msgid "IATA.VUP"
+msgstr ""
+
+msgid "IATA.VVC"
+msgstr ""
+
+msgid "IATA.VVI"
+msgstr ""
+
+msgid "IATA.VVO"
+msgstr ""
+
+msgid "IATA.VVZ"
+msgstr ""
+
+msgid "IATA.VXC"
+msgstr ""
+
+msgid "IATA.VXE"
+msgstr ""
+
+msgid "IATA.VXO"
+msgstr ""
+
+msgid "IATA.VYI"
+msgstr ""
+
+msgid "IATA.WAE"
+msgstr ""
+
+msgid "IATA.WAG"
+msgstr ""
+
+msgid "IATA.WAI"
+msgstr ""
+
+msgid "IATA.WAT"
+msgstr ""
+
+msgid "IATA.WAW"
+msgstr ""
+
+msgid "IATA.WBG"
+msgstr ""
+
+msgid "IATA.WBM"
+msgstr ""
+
+msgid "IATA.WCH"
+msgstr ""
+
+msgid "IATA.WDH"
+msgstr ""
+
+msgid "IATA.WDS"
+msgstr ""
+
+msgid "IATA.WEF"
+msgstr ""
+
+msgid "IATA.WEH"
+msgstr ""
+
+msgid "IATA.WEI"
+msgstr ""
+
+msgid "IATA.WFI"
+msgstr ""
+
+msgid "IATA.WGA"
+msgstr ""
+
+msgid "IATA.WGE"
+msgstr ""
+
+msgid "IATA.WGN"
+msgstr ""
+
+msgid "IATA.WGT"
+msgstr ""
+
+msgid "IATA.WHK"
+msgstr ""
+
+msgid "IATA.WHU"
+msgstr ""
+
+msgid "IATA.WIC"
+msgstr ""
+
+msgid "IATA.WIE"
+msgstr ""
+
+msgid "IATA.WIL"
+msgstr ""
+
+msgid "IATA.WIN"
+msgstr ""
+
+msgid "IATA.WIR"
+msgstr ""
+
+msgid "IATA.WJF"
+msgstr ""
+
+msgid "IATA.WJR"
+msgstr ""
+
+msgid "IATA.WJU"
+msgstr ""
+
+msgid "IATA.WKA"
+msgstr ""
+
+msgid "IATA.WKB"
+msgstr ""
+
+msgid "IATA.WKF"
+msgstr ""
+
+msgid "IATA.WKJ"
+msgstr ""
+
+msgid "IATA.WKK"
+msgstr ""
+
+msgid "IATA.WLG"
+msgstr ""
+
+msgid "IATA.WLK"
+msgstr ""
+
+msgid "IATA.WLS"
+msgstr ""
+
+msgid "IATA.WMC"
+msgstr ""
+
+msgid "IATA.WME"
+msgstr ""
+
+msgid "IATA.WMH"
+msgstr ""
+
+msgid "IATA.WMI"
+msgstr ""
+
+msgid "IATA.WMN"
+msgstr ""
+
+msgid "IATA.WMR"
+msgstr ""
+
+msgid "IATA.WMT"
+msgstr ""
+
+msgid "IATA.WMX"
+msgstr ""
+
+msgid "IATA.WNI"
+msgstr ""
+
+msgid "IATA.WNP"
+msgstr ""
+
+msgid "IATA.WNR"
+msgstr ""
+
+msgid "IATA.WNS"
+msgstr ""
+
+msgid "IATA.WNZ"
+msgstr ""
+
+msgid "IATA.WOE"
+msgstr ""
+
+msgid "IATA.WOL"
+msgstr ""
+
+msgid "IATA.WOS"
+msgstr ""
+
+msgid "IATA.WPC"
+msgstr ""
+
+msgid "IATA.WPR"
+msgstr ""
+
+msgid "IATA.WPU"
+msgstr ""
+
+msgid "IATA.WRB"
+msgstr ""
+
+msgid "IATA.WRE"
+msgstr ""
+
+msgid "IATA.WRG"
+msgstr ""
+
+msgid "IATA.WRI"
+msgstr ""
+
+msgid "IATA.WRL"
+msgstr ""
+
+msgid "IATA.WRO"
+msgstr ""
+
+msgid "IATA.WRT"
+msgstr ""
+
+msgid "IATA.WSZ"
+msgstr ""
+
+msgid "IATA.WTB"
+msgstr ""
+
+msgid "IATA.WTK"
+msgstr ""
+
+msgid "IATA.WTN"
+msgstr ""
+
+msgid "IATA.WUH"
+msgstr ""
+
+msgid "IATA.WUN"
+msgstr ""
+
+msgid "IATA.WUS"
+msgstr ""
+
+msgid "IATA.WUU"
+msgstr ""
+
+msgid "IATA.WUX"
+msgstr ""
+
+msgid "IATA.WVB"
+msgstr ""
+
+msgid "IATA.WVK"
+msgstr ""
+
+msgid "IATA.WWA"
+msgstr ""
+
+msgid "IATA.WWD"
+msgstr ""
+
+msgid "IATA.WWK"
+msgstr ""
+
+msgid "IATA.WWR"
+msgstr ""
+
+msgid "IATA.WWY"
+msgstr ""
+
+msgid "IATA.WYA"
+msgstr ""
+
+msgid "IATA.WYE"
+msgstr ""
+
+msgid "IATA.WYS"
+msgstr ""
+
+msgid "IATA.XAI"
+msgstr ""
+
+msgid "IATA.XAP"
+msgstr ""
+
+msgid "IATA.XBJ"
+msgstr ""
+
+msgid "IATA.XCH"
+msgstr ""
+
+msgid "IATA.XCR"
+msgstr ""
+
+msgid "IATA.XCZ"
+msgstr ""
+
+msgid "IATA.XEN"
+msgstr ""
+
+msgid "IATA.XFW"
+msgstr ""
+
+msgid "IATA.XGN"
+msgstr ""
+
+msgid "IATA.XGR"
+msgstr ""
+
+msgid "IATA.XIC"
+msgstr ""
+
+msgid "IATA.XIJ"
+msgstr ""
+
+msgid "IATA.XIL"
+msgstr ""
+
+msgid "IATA.XIY"
+msgstr ""
+
+msgid "IATA.XJD"
+msgstr ""
+
+msgid "IATA.XJM"
+msgstr ""
+
+msgid "IATA.XKS"
+msgstr ""
+
+msgid "IATA.XLB"
+msgstr ""
+
+msgid "IATA.XLS"
+msgstr ""
+
+msgid "IATA.XME"
+msgstr ""
+
+msgid "IATA.XMH"
+msgstr ""
+
+msgid "IATA.XMN"
+msgstr ""
+
+msgid "IATA.XMS"
+msgstr ""
+
+msgid "IATA.XNA"
+msgstr ""
+
+msgid "IATA.XNH"
+msgstr ""
+
+msgid "IATA.XNN"
+msgstr ""
+
+msgid "IATA.XOG"
+msgstr ""
+
+msgid "IATA.XPK"
+msgstr ""
+
+msgid "IATA.XPL"
+msgstr ""
+
+msgid "IATA.XPP"
+msgstr ""
+
+msgid "IATA.XQP"
+msgstr ""
+
+msgid "IATA.XRH"
+msgstr ""
+
+msgid "IATA.XRR"
+msgstr ""
+
+msgid "IATA.XRY"
+msgstr ""
+
+msgid "IATA.XSB"
+msgstr ""
+
+msgid "IATA.XSC"
+msgstr ""
+
+msgid "IATA.XSI"
+msgstr ""
+
+msgid "IATA.XSP"
+msgstr ""
+
+msgid "IATA.XTG"
+msgstr ""
+
+msgid "IATA.XTL"
+msgstr ""
+
+msgid "IATA.XUZ"
+msgstr ""
+
+msgid "IATA.XVS"
+msgstr ""
+
+msgid "IATA.XWA"
+msgstr ""
+
+msgid "IATA.XXN"
+msgstr ""
+
+msgid "IATA.YAC"
+msgstr ""
+
+msgid "IATA.YAG"
+msgstr ""
+
+msgid "IATA.YAH"
+msgstr ""
+
+msgid "IATA.YAI"
+msgstr ""
+
+msgid "IATA.YAK"
+msgstr ""
+
+msgid "IATA.YAL"
+msgstr ""
+
+msgid "IATA.YAM"
+msgstr ""
+
+msgid "IATA.YAO"
+msgstr ""
+
+msgid "IATA.YAP"
+msgstr ""
+
+msgid "IATA.YAT"
+msgstr ""
+
+msgid "IATA.YAY"
+msgstr ""
+
+msgid "IATA.YAZ"
+msgstr ""
+
+msgid "IATA.YBB"
+msgstr ""
+
+msgid "IATA.YBC"
+msgstr ""
+
+msgid "IATA.YBE"
+msgstr ""
+
+msgid "IATA.YBG"
+msgstr ""
+
+msgid "IATA.YBK"
+msgstr ""
+
+msgid "IATA.YBL"
+msgstr ""
+
+msgid "IATA.YBR"
+msgstr ""
+
+msgid "IATA.YBT"
+msgstr ""
+
+msgid "IATA.YBV"
+msgstr ""
+
+msgid "IATA.YBX"
+msgstr ""
+
+msgid "IATA.YBY"
+msgstr ""
+
+msgid "IATA.YCB"
+msgstr ""
+
+msgid "IATA.YCC"
+msgstr ""
+
+msgid "IATA.YCD"
+msgstr ""
+
+msgid "IATA.YCE"
+msgstr ""
+
+msgid "IATA.YCG"
+msgstr ""
+
+msgid "IATA.YCH"
+msgstr ""
+
+msgid "IATA.YCL"
+msgstr ""
+
+msgid "IATA.YCM"
+msgstr ""
+
+msgid "IATA.YCN"
+msgstr ""
+
+msgid "IATA.YCO"
+msgstr ""
+
+msgid "IATA.YCQ"
+msgstr ""
+
+msgid "IATA.YCR"
+msgstr ""
+
+msgid "IATA.YCS"
+msgstr ""
+
+msgid "IATA.YCY"
+msgstr ""
+
+msgid "IATA.YDA"
+msgstr ""
+
+msgid "IATA.YDB"
+msgstr ""
+
+msgid "IATA.YDF"
+msgstr ""
+
+msgid "IATA.YDG"
+msgstr ""
+
+msgid "IATA.YDN"
+msgstr ""
+
+msgid "IATA.YDO"
+msgstr ""
+
+msgid "IATA.YDP"
+msgstr ""
+
+msgid "IATA.YDQ"
+msgstr ""
+
+msgid "IATA.YDT"
+msgstr ""
+
+msgid "IATA.YEC"
+msgstr ""
+
+msgid "IATA.YEG"
+msgstr ""
+
+msgid "IATA.YEI"
+msgstr ""
+
+msgid "IATA.YEK"
+msgstr ""
+
+msgid "IATA.YEL"
+msgstr ""
+
+msgid "IATA.YEM"
+msgstr ""
+
+msgid "IATA.YEN"
+msgstr ""
+
+msgid "IATA.YEO"
+msgstr ""
+
+msgid "IATA.YER"
+msgstr ""
+
+msgid "IATA.YES"
+msgstr ""
+
+msgid "IATA.YET"
+msgstr ""
+
+msgid "IATA.YEV"
+msgstr ""
+
+msgid "IATA.YEY"
+msgstr ""
+
+msgid "IATA.YFA"
+msgstr ""
+
+msgid "IATA.YFB"
+msgstr ""
+
+msgid "IATA.YFC"
+msgstr ""
+
+msgid "IATA.YFE"
+msgstr ""
+
+msgid "IATA.YFH"
+msgstr ""
+
+msgid "IATA.YFO"
+msgstr ""
+
+msgid "IATA.YFR"
+msgstr ""
+
+msgid "IATA.YFS"
+msgstr ""
+
+msgid "IATA.YGB"
+msgstr ""
+
+msgid "IATA.YGH"
+msgstr ""
+
+msgid "IATA.YGJ"
+msgstr ""
+
+msgid "IATA.YGK"
+msgstr ""
+
+msgid "IATA.YGL"
+msgstr ""
+
+msgid "IATA.YGM"
+msgstr ""
+
+msgid "IATA.YGO"
+msgstr ""
+
+msgid "IATA.YGP"
+msgstr ""
+
+msgid "IATA.YGQ"
+msgstr ""
+
+msgid "IATA.YGR"
+msgstr ""
+
+msgid "IATA.YGT"
+msgstr ""
+
+msgid "IATA.YGV"
+msgstr ""
+
+msgid "IATA.YGW"
+msgstr ""
+
+msgid "IATA.YGX"
+msgstr ""
+
+msgid "IATA.YGZ"
+msgstr ""
+
+msgid "IATA.YHD"
+msgstr ""
+
+msgid "IATA.YHE"
+msgstr ""
+
+msgid "IATA.YHF"
+msgstr ""
+
+msgid "IATA.YHI"
+msgstr ""
+
+msgid "IATA.YHK"
+msgstr ""
+
+msgid "IATA.YHM"
+msgstr ""
+
+msgid "IATA.YHN"
+msgstr ""
+
+msgid "IATA.YHO"
+msgstr ""
+
+msgid "IATA.YHR"
+msgstr ""
+
+msgid "IATA.YHT"
+msgstr ""
+
+msgid "IATA.YHU"
+msgstr ""
+
+msgid "IATA.YHY"
+msgstr ""
+
+msgid "IATA.YHZ"
+msgstr ""
+
+msgid "IATA.YIA"
+msgstr ""
+
+msgid "IATA.YIB"
+msgstr ""
+
+msgid "IATA.YIC"
+msgstr ""
+
+msgid "IATA.YIE"
+msgstr ""
+
+msgid "IATA.YIF"
+msgstr ""
+
+msgid "IATA.YIH"
+msgstr ""
+
+msgid "IATA.YIK"
+msgstr ""
+
+msgid "IATA.YIO"
+msgstr ""
+
+msgid "IATA.YIP"
+msgstr ""
+
+msgid "IATA.YIV"
+msgstr ""
+
+msgid "IATA.YIW"
+msgstr ""
+
+msgid "IATA.YJF"
+msgstr ""
+
+msgid "IATA.YJN"
+msgstr ""
+
+msgid "IATA.YJT"
+msgstr ""
+
+msgid "IATA.YKA"
+msgstr ""
+
+msgid "IATA.YKF"
+msgstr ""
+
+msgid "IATA.YKG"
+msgstr ""
+
+msgid "IATA.YKH"
+msgstr ""
+
+msgid "IATA.YKJ"
+msgstr ""
+
+msgid "IATA.YKL"
+msgstr ""
+
+msgid "IATA.YKM"
+msgstr ""
+
+msgid "IATA.YKN"
+msgstr ""
+
+msgid "IATA.YKO"
+msgstr ""
+
+msgid "IATA.YKQ"
+msgstr ""
+
+msgid "IATA.YKS"
+msgstr ""
+
+msgid "IATA.YKX"
+msgstr ""
+
+msgid "IATA.YKY"
+msgstr ""
+
+msgid "IATA.YKZ"
+msgstr ""
+
+msgid "IATA.YLC"
+msgstr ""
+
+msgid "IATA.YLD"
+msgstr ""
+
+msgid "IATA.YLH"
+msgstr ""
+
+msgid "IATA.YLI"
+msgstr ""
+
+msgid "IATA.YLJ"
+msgstr ""
+
+msgid "IATA.YLL"
+msgstr ""
+
+msgid "IATA.YLR"
+msgstr ""
+
+msgid "IATA.YLT"
+msgstr ""
+
+msgid "IATA.YLW"
+msgstr ""
+
+msgid "IATA.YMA"
+msgstr ""
+
+msgid "IATA.YME"
+msgstr ""
+
+msgid "IATA.YMG"
+msgstr ""
+
+msgid "IATA.YMH"
+msgstr ""
+
+msgid "IATA.YMJ"
+msgstr ""
+
+msgid "IATA.YML"
+msgstr ""
+
+msgid "IATA.YMM"
+msgstr ""
+
+msgid "IATA.YMN"
+msgstr ""
+
+msgid "IATA.YMO"
+msgstr ""
+
+msgid "IATA.YMS"
+msgstr ""
+
+msgid "IATA.YMT"
+msgstr ""
+
+msgid "IATA.YMX"
+msgstr ""
+
+msgid "IATA.YNA"
+msgstr ""
+
+msgid "IATA.YNB"
+msgstr ""
+
+msgid "IATA.YNC"
+msgstr ""
+
+msgid "IATA.YND"
+msgstr ""
+
+msgid "IATA.YNE"
+msgstr ""
+
+msgid "IATA.YNG"
+msgstr ""
+
+msgid "IATA.YNJ"
+msgstr ""
+
+msgid "IATA.YNL"
+msgstr ""
+
+msgid "IATA.YNM"
+msgstr ""
+
+msgid "IATA.YNS"
+msgstr ""
+
+msgid "IATA.YNT"
+msgstr ""
+
+msgid "IATA.YNY"
+msgstr ""
+
+msgid "IATA.YOA"
+msgstr ""
+
+msgid "IATA.YOC"
+msgstr ""
+
+msgid "IATA.YOD"
+msgstr ""
+
+msgid "IATA.YOH"
+msgstr ""
+
+msgid "IATA.YOJ"
+msgstr ""
+
+msgid "IATA.YOL"
+msgstr ""
+
+msgid "IATA.YOO"
+msgstr ""
+
+msgid "IATA.YOP"
+msgstr ""
+
+msgid "IATA.YOS"
+msgstr ""
+
+msgid "IATA.YOW"
+msgstr ""
+
+msgid "IATA.YPA"
+msgstr ""
+
+msgid "IATA.YPC"
+msgstr ""
+
+msgid "IATA.YPE"
+msgstr ""
+
+msgid "IATA.YPG"
+msgstr ""
+
+msgid "IATA.YPH"
+msgstr ""
+
+msgid "IATA.YPJ"
+msgstr ""
+
+msgid "IATA.YPL"
+msgstr ""
+
+msgid "IATA.YPM"
+msgstr ""
+
+msgid "IATA.YPN"
+msgstr ""
+
+msgid "IATA.YPO"
+msgstr ""
+
+msgid "IATA.YPQ"
+msgstr ""
+
+msgid "IATA.YPR"
+msgstr ""
+
+msgid "IATA.YPS"
+msgstr ""
+
+msgid "IATA.YPW"
+msgstr ""
+
+msgid "IATA.YPX"
+msgstr ""
+
+msgid "IATA.YPY"
+msgstr ""
+
+msgid "IATA.YQA"
+msgstr ""
+
+msgid "IATA.YQB"
+msgstr ""
+
+msgid "IATA.YQC"
+msgstr ""
+
+msgid "IATA.YQD"
+msgstr ""
+
+msgid "IATA.YQF"
+msgstr ""
+
+msgid "IATA.YQG"
+msgstr ""
+
+msgid "IATA.YQH"
+msgstr ""
+
+msgid "IATA.YQI"
+msgstr ""
+
+msgid "IATA.YQK"
+msgstr ""
+
+msgid "IATA.YQL"
+msgstr ""
+
+msgid "IATA.YQM"
+msgstr ""
+
+msgid "IATA.YQN"
+msgstr ""
+
+msgid "IATA.YQQ"
+msgstr ""
+
+msgid "IATA.YQR"
+msgstr ""
+
+msgid "IATA.YQS"
+msgstr ""
+
+msgid "IATA.YQT"
+msgstr ""
+
+msgid "IATA.YQU"
+msgstr ""
+
+msgid "IATA.YQV"
+msgstr ""
+
+msgid "IATA.YQW"
+msgstr ""
+
+msgid "IATA.YQX"
+msgstr ""
+
+msgid "IATA.YQY"
+msgstr ""
+
+msgid "IATA.YQZ"
+msgstr ""
+
+msgid "IATA.YRA"
+msgstr ""
+
+msgid "IATA.YRB"
+msgstr ""
+
+msgid "IATA.YRF"
+msgstr ""
+
+msgid "IATA.YRI"
+msgstr ""
+
+msgid "IATA.YRJ"
+msgstr ""
+
+msgid "IATA.YRL"
+msgstr ""
+
+msgid "IATA.YRO"
+msgstr ""
+
+msgid "IATA.YRQ"
+msgstr ""
+
+msgid "IATA.YRS"
+msgstr ""
+
+msgid "IATA.YRT"
+msgstr ""
+
+msgid "IATA.YRV"
+msgstr ""
+
+msgid "IATA.YSB"
+msgstr ""
+
+msgid "IATA.YSC"
+msgstr ""
+
+msgid "IATA.YSF"
+msgstr ""
+
+msgid "IATA.YSG"
+msgstr ""
+
+msgid "IATA.YSH"
+msgstr ""
+
+msgid "IATA.YSJ"
+msgstr ""
+
+msgid "IATA.YSK"
+msgstr ""
+
+msgid "IATA.YSL"
+msgstr ""
+
+msgid "IATA.YSM"
+msgstr ""
+
+msgid "IATA.YSN"
+msgstr ""
+
+msgid "IATA.YSP"
+msgstr ""
+
+msgid "IATA.YSQ"
+msgstr ""
+
+msgid "IATA.YST"
+msgstr ""
+
+msgid "IATA.YSU"
+msgstr ""
+
+msgid "IATA.YSY"
+msgstr ""
+
+msgid "IATA.YTA"
+msgstr ""
+
+msgid "IATA.YTD"
+msgstr ""
+
+msgid "IATA.YTE"
+msgstr ""
+
+msgid "IATA.YTF"
+msgstr ""
+
+msgid "IATA.YTH"
+msgstr ""
+
+msgid "IATA.YTL"
+msgstr ""
+
+msgid "IATA.YTM"
+msgstr ""
+
+msgid "IATA.YTQ"
+msgstr ""
+
+msgid "IATA.YTR"
+msgstr ""
+
+msgid "IATA.YTS"
+msgstr ""
+
+msgid "IATA.YTY"
+msgstr ""
+
+msgid "IATA.YTZ"
+msgstr ""
+
+msgid "IATA.YUA"
+msgstr ""
+
+msgid "IATA.YUB"
+msgstr ""
+
+msgid "IATA.YUD"
+msgstr ""
+
+msgid "IATA.YUL"
+msgstr ""
+
+msgid "IATA.YUM"
+msgstr ""
+
+msgid "IATA.YUS"
+msgstr ""
+
+msgid "IATA.YUT"
+msgstr ""
+
+msgid "IATA.YUX"
+msgstr ""
+
+msgid "IATA.YUY"
+msgstr ""
+
+msgid "IATA.YVB"
+msgstr ""
+
+msgid "IATA.YVC"
+msgstr ""
+
+msgid "IATA.YVE"
+msgstr ""
+
+msgid "IATA.YVM"
+msgstr ""
+
+msgid "IATA.YVO"
+msgstr ""
+
+msgid "IATA.YVP"
+msgstr ""
+
+msgid "IATA.YVQ"
+msgstr ""
+
+msgid "IATA.YVR"
+msgstr ""
+
+msgid "IATA.YVV"
+msgstr ""
+
+msgid "IATA.YVZ"
+msgstr ""
+
+msgid "IATA.YWA"
+msgstr ""
+
+msgid "IATA.YWB"
+msgstr ""
+
+msgid "IATA.YWG"
+msgstr ""
+
+msgid "IATA.YWJ"
+msgstr ""
+
+msgid "IATA.YWK"
+msgstr ""
+
+msgid "IATA.YWL"
+msgstr ""
+
+msgid "IATA.YWP"
+msgstr ""
+
+msgid "IATA.YWY"
+msgstr ""
+
+msgid "IATA.YXC"
+msgstr ""
+
+msgid "IATA.YXE"
+msgstr ""
+
+msgid "IATA.YXH"
+msgstr ""
+
+msgid "IATA.YXJ"
+msgstr ""
+
+msgid "IATA.YXK"
+msgstr ""
+
+msgid "IATA.YXL"
+msgstr ""
+
+msgid "IATA.YXN"
+msgstr ""
+
+msgid "IATA.YXP"
+msgstr ""
+
+msgid "IATA.YXQ"
+msgstr ""
+
+msgid "IATA.YXR"
+msgstr ""
+
+msgid "IATA.YXS"
+msgstr ""
+
+msgid "IATA.YXT"
+msgstr ""
+
+msgid "IATA.YXU"
+msgstr ""
+
+msgid "IATA.YXX"
+msgstr ""
+
+msgid "IATA.YXY"
+msgstr ""
+
+msgid "IATA.YXZ"
+msgstr ""
+
+msgid "IATA.YYA"
+msgstr ""
+
+msgid "IATA.YYB"
+msgstr ""
+
+msgid "IATA.YYC"
+msgstr ""
+
+msgid "IATA.YYD"
+msgstr ""
+
+msgid "IATA.YYE"
+msgstr ""
+
+msgid "IATA.YYF"
+msgstr ""
+
+msgid "IATA.YYG"
+msgstr ""
+
+msgid "IATA.YYH"
+msgstr ""
+
+msgid "IATA.YYJ"
+msgstr ""
+
+msgid "IATA.YYL"
+msgstr ""
+
+msgid "IATA.YYN"
+msgstr ""
+
+msgid "IATA.YYQ"
+msgstr ""
+
+msgid "IATA.YYR"
+msgstr ""
+
+msgid "IATA.YYT"
+msgstr ""
+
+msgid "IATA.YYU"
+msgstr ""
+
+msgid "IATA.YYW"
+msgstr ""
+
+msgid "IATA.YYY"
+msgstr ""
+
+msgid "IATA.YYZ"
+msgstr ""
+
+msgid "IATA.YZE"
+msgstr ""
+
+msgid "IATA.YZF"
+msgstr ""
+
+msgid "IATA.YZG"
+msgstr ""
+
+msgid "IATA.YZH"
+msgstr ""
+
+msgid "IATA.YZP"
+msgstr ""
+
+msgid "IATA.YZR"
+msgstr ""
+
+msgid "IATA.YZS"
+msgstr ""
+
+msgid "IATA.YZT"
+msgstr ""
+
+msgid "IATA.YZU"
+msgstr ""
+
+msgid "IATA.YZV"
+msgstr ""
+
+msgid "IATA.YZW"
+msgstr ""
+
+msgid "IATA.YZX"
+msgstr ""
+
+msgid "IATA.YZY"
+msgstr ""
+
+msgid "IATA.ZAC"
+msgstr ""
+
+msgid "IATA.ZAD"
+msgstr ""
+
+msgid "IATA.ZAG"
+msgstr ""
+
+msgid "IATA.ZAH"
+msgstr ""
+
+msgid "IATA.ZAL"
+msgstr ""
+
+msgid "IATA.ZAM"
+msgstr ""
+
+msgid "IATA.ZAO"
+msgstr ""
+
+msgid "IATA.ZAR"
+msgstr ""
+
+msgid "IATA.ZAZ"
+msgstr ""
+
+msgid "IATA.ZBF"
+msgstr ""
+
+msgid "IATA.ZBM"
+msgstr ""
+
+msgid "IATA.ZBR"
+msgstr ""
+
+msgid "IATA.ZCL"
+msgstr ""
+
+msgid "IATA.ZCO"
+msgstr ""
+
+msgid "IATA.ZEC"
+msgstr ""
+
+msgid "IATA.ZEM"
+msgstr ""
+
+msgid "IATA.ZER"
+msgstr ""
+
+msgid "IATA.ZFA"
+msgstr ""
+
+msgid "IATA.ZFD"
+msgstr ""
+
+msgid "IATA.ZFM"
+msgstr ""
+
+msgid "IATA.ZFN"
+msgstr ""
+
+msgid "IATA.ZGF"
+msgstr ""
+
+msgid "IATA.ZGI"
+msgstr ""
+
+msgid "IATA.ZGR"
+msgstr ""
+
+msgid "IATA.ZGU"
+msgstr ""
+
+msgid "IATA.ZHA"
+msgstr ""
+
+msgid "IATA.ZHI"
+msgstr ""
+
+msgid "IATA.ZHY"
+msgstr ""
+
+msgid "IATA.ZIA"
+msgstr ""
+
+msgid "IATA.ZIC"
+msgstr ""
+
+msgid "IATA.ZIG"
+msgstr ""
+
+msgid "IATA.ZIH"
+msgstr ""
+
+msgid "IATA.ZIX"
+msgstr ""
+
+msgid "IATA.ZJG"
+msgstr ""
+
+msgid "IATA.ZJN"
+msgstr ""
+
+msgid "IATA.ZKE"
+msgstr ""
+
+msgid "IATA.ZKP"
+msgstr ""
+
+msgid "IATA.ZLO"
+msgstr ""
+
+msgid "IATA.ZMG"
+msgstr ""
+
+msgid "IATA.ZMT"
+msgstr ""
+
+msgid "IATA.ZND"
+msgstr ""
+
+msgid "IATA.ZNE"
+msgstr ""
+
+msgid "IATA.ZNZ"
+msgstr ""
+
+msgid "IATA.ZOS"
+msgstr ""
+
+msgid "IATA.ZPB"
+msgstr ""
+
+msgid "IATA.ZQL"
+msgstr ""
+
+msgid "IATA.ZQN"
+msgstr ""
+
+msgid "IATA.ZQZ"
+msgstr ""
+
+msgid "IATA.ZRH"
+msgstr ""
+
+msgid "IATA.ZRJ"
+msgstr ""
+
+msgid "IATA.ZSA"
+msgstr ""
+
+msgid "IATA.ZSE"
+msgstr ""
+
+msgid "IATA.ZSJ"
+msgstr ""
+
+msgid "IATA.ZST"
+msgstr ""
+
+msgid "IATA.ZTH"
+msgstr ""
+
+msgid "IATA.ZTM"
+msgstr ""
+
+msgid "IATA.ZUC"
+msgstr ""
+
+msgid "IATA.ZUH"
+msgstr ""
+
+msgid "IATA.ZVA"
+msgstr ""
+
+msgid "IATA.ZVK"
+msgstr ""
+
+msgid "IATA.ZWA"
+msgstr ""
+
+msgid "IATA.ZWL"
+msgstr ""
+
+msgid "IATA.ZXT"
+msgstr ""
+
+msgid "IATA.ZYI"
+msgstr ""
+
+msgid "IATA.ZYL"
+msgstr ""
+
+msgid "IATA.ZZU"
+msgstr ""
+
+msgid "IATA.ZZV"
+msgstr ""
